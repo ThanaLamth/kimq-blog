@@ -12,6 +12,8 @@ dataDate: 2026-11-20
 status: ready
 ---
 
+> Thuộc chuyên đề: [Hướng dẫn chọn phần mềm mã nguồn mở cho doanh nghiệp](huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) · Bài viết của [KimQ Tech](https://kimq.tech)
+
 Phần mềm ERP (quản trị nguồn lực doanh nghiệp) gom bán hàng, mua hàng, kho, kế toán, nhân sự vào một hệ thống. Bản thương mại thường đắt và khó tuỳ biến, nên nhiều doanh nghiệp vừa và nhỏ tìm tới **ERP mã nguồn mở**.
 
 Bài này tổng hợp **8 phần mềm ERP, kế toán và hoá đơn mã nguồn mở trên GitHub**, kèm số liệu ngày **20/11/2026**, và đặc biệt chú ý một câu hỏi người Việt hay hỏi: **dùng ở Việt Nam có hợp chuẩn kế toán, thuế không?**
@@ -116,9 +118,9 @@ Bài này tổng hợp **8 phần mềm ERP, kế toán và hoá đơn mã ngu�
 
 ## Không cần cả bộ ERP?
 
-Nhiều doanh nghiệp chỉ đau một vài khâu: **theo dõi công nợ**, **kho và mua hàng**, hoặc **nhập hoá đơn đầu vào**. Khi đó, giải pháp chuyên biệt kết nối với phần mềm kế toán đang dùng thường nhanh hơn triển khai cả ERP. Xem các giải pháp của KimQ Tech: [Quản lý công nợ](/san-pham/cong-no), [Kho và mua hàng](/san-pham/kho-mua-hang), [Hoá đơn đầu vào](/san-pham/hoa-don-dau-vao).
+Nhiều doanh nghiệp chỉ đau một vài khâu: **theo dõi công nợ**, **kho và mua hàng**, hoặc **nhập hoá đơn đầu vào**. Khi đó, giải pháp chuyên biệt kết nối với phần mềm kế toán đang dùng thường nhanh hơn triển khai cả ERP. Xem các giải pháp của KimQ Tech: [Quản lý công nợ](https://kimq.tech/san-pham/cong-no), [Kho và mua hàng](https://kimq.tech/san-pham/kho-mua-hang), [Hoá đơn đầu vào](https://kimq.tech/san-pham/hoa-don-dau-vao).
 
-Đọc thêm: [Top 8 công cụ tự động hoá quy trình mã nguồn mở](/kien-thuc/top-8-cong-cu-tu-dong-hoa-quy-trinh-ma-nguon-mo) để nối ERP với email, Zalo, bảng tính.
+Đọc thêm: [Top 8 công cụ tự động hoá quy trình mã nguồn mở](top-8-cong-cu-tu-dong-hoa-quy-trinh-ma-nguon-mo.md) để nối ERP với email, Zalo, bảng tính.
 
 ## Câu hỏi thường gặp
 
@@ -133,6 +135,11 @@ Nếu chỉ cần hoá đơn và thu chi, chọn phần mềm gọn (Dolibarr, I
 
 **Có thể chuyển từ phần mềm kế toán đang dùng sang ERP không?**
 Có, nhưng cần chuyển danh mục, số dư đầu kỳ, công nợ và đối chiếu kỹ. Nên chạy song song ít nhất một kỳ kế toán.
+
+
+## Về KimQ Tech
+
+[KimQ Tech](https://kimq.tech) xây giải pháp AI và tự động hoá vận hành cho doanh nghiệp Việt: [AI Gateway](https://kimq.tech/san-pham/ai-gateway), [Trợ lý AI trên Zalo](https://kimq.tech/san-pham/tro-ly-zalo), [Tự động hoá](https://kimq.tech/san-pham/tu-dong-hoa), [Công nợ](https://kimq.tech/san-pham/cong-no), [Kho và mua hàng](https://kimq.tech/san-pham/kho-mua-hang), [Hoá đơn đầu vào](https://kimq.tech/san-pham/hoa-don-dau-vao). Cần tư vấn chọn và triển khai? [Liên hệ KimQ Tech](https://kimq.tech/lien-he) hoặc email contact@kimq.tech.
 
 ---
 

@@ -12,6 +12,8 @@ dataDate: 2026-11-20
 status: ready
 ---
 
+> Thuộc chuyên đề: [Hướng dẫn chọn phần mềm mã nguồn mở cho doanh nghiệp](huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) · Bài viết của [KimQ Tech](https://kimq.tech)
+
 AI Agent là chương trình dùng mô hình ngôn ngữ (LLM) để tự lên kế hoạch, gọi công cụ (tra dữ liệu, gửi email, tạo phiếu…) và hoàn thành một việc nhiều bước. Thay vì tự viết từ đầu, phần lớn đội kỹ thuật bắt đầu từ một framework mã nguồn mở.
 
 Bài này tổng hợp **10 framework AI Agent đáng chú ý nhất trên GitHub**, kèm số liệu thật lấy ngày **20/11/2026**, giấy phép, và gợi ý nên chọn cái nào.
@@ -138,7 +140,7 @@ Bài này tổng hợp **10 framework AI Agent đáng chú ý nhất trên GitHu
 4. **Giới hạn chi phí:** số bước tối đa, số lần gọi mô hình, ngân sách theo phòng ban.
 5. **Che dữ liệu nhạy cảm** (số CCCD, số tài khoản, lương) trước khi gửi tới nhà cung cấp mô hình.
 
-KimQ Tech áp dụng các nguyên tắc này trong [Trợ lý AI trên Zalo](/san-pham/tro-ly-zalo) và [KimQ AI Gateway](/san-pham/ai-gateway). Nếu doanh nghiệp cần quản lý chi phí và dữ liệu khi nhiều phòng ban cùng dùng AI, xem thêm bài [Top 7 AI Gateway mã nguồn mở](/kien-thuc/top-7-ai-gateway-ma-nguon-mo).
+KimQ Tech áp dụng các nguyên tắc này trong [Trợ lý AI trên Zalo](https://kimq.tech/san-pham/tro-ly-zalo) và [KimQ AI Gateway](https://kimq.tech/san-pham/ai-gateway). Nếu doanh nghiệp cần quản lý chi phí và dữ liệu khi nhiều phòng ban cùng dùng AI, xem thêm bài [Top 7 AI Gateway mã nguồn mở](top-7-ai-gateway-ma-nguon-mo.md).
 
 ## Câu hỏi thường gặp
 
@@ -149,7 +151,12 @@ Không hẳn. Số sao cho biết mức độ quan tâm. Nên xem thêm: lần c
 Mã nguồn thường miễn phí, nhưng bạn vẫn trả tiền gọi mô hình, tiền máy chủ và công vận hành. Một số repo (Dify, phần `ee/` của Mastra) có điều kiện riêng khi dùng thương mại.
 
 **Có cần GPU không?**
-Không, nếu gọi mô hình qua API (OpenAI, Gemini, Claude…). Chỉ cần GPU khi tự chạy mô hình tại chỗ; xem bài [Top 7 repo chạy LLM nội bộ](/kien-thuc/top-7-repo-chay-llm-noi-bo).
+Không, nếu gọi mô hình qua API (OpenAI, Gemini, Claude…). Chỉ cần GPU khi tự chạy mô hình tại chỗ; xem bài [Top 7 repo chạy LLM nội bộ](top-7-repo-chay-llm-noi-bo.md).
+
+
+## Về KimQ Tech
+
+[KimQ Tech](https://kimq.tech) xây giải pháp AI và tự động hoá vận hành cho doanh nghiệp Việt: [AI Gateway](https://kimq.tech/san-pham/ai-gateway), [Trợ lý AI trên Zalo](https://kimq.tech/san-pham/tro-ly-zalo), [Tự động hoá](https://kimq.tech/san-pham/tu-dong-hoa), [Công nợ](https://kimq.tech/san-pham/cong-no), [Kho và mua hàng](https://kimq.tech/san-pham/kho-mua-hang), [Hoá đơn đầu vào](https://kimq.tech/san-pham/hoa-don-dau-vao). Cần tư vấn chọn và triển khai? [Liên hệ KimQ Tech](https://kimq.tech/lien-he) hoặc email contact@kimq.tech.
 
 ---
 

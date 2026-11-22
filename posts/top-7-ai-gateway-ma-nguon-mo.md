@@ -12,6 +12,8 @@ dataDate: 2026-11-20
 status: ready
 ---
 
+> Thuộc chuyên đề: [Hướng dẫn chọn phần mềm mã nguồn mở cho doanh nghiệp](huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) · Bài viết của [KimQ Tech](https://kimq.tech)
+
 Khi một công ty có phòng kinh doanh dùng ChatGPT, phòng kỹ thuật dùng Claude, bộ phận chăm sóc khách hàng dùng Gemini, câu hỏi nhanh chóng xuất hiện: **tháng này mỗi phòng tiêu bao nhiêu tiền AI? Ai đã gửi dữ liệu khách hàng ra ngoài? Nếu một nhà cung cấp sập thì sao?**
 
 **AI Gateway** (cổng AI) là lớp đứng giữa ứng dụng và các nhà cung cấp mô hình, giải quyết đúng các câu hỏi đó. Bài này tổng hợp **7 AI Gateway mã nguồn mở đáng chú ý trên GitHub**, số liệu lấy ngày **20/11/2026**.
@@ -120,9 +122,9 @@ Repo **agent-router** (trước đây là dự án Envoy AI Gateway) xây trên 
 
 ## Tự dựng hay dùng dịch vụ có sẵn?
 
-Tự dựng gateway mã nguồn mở cho bạn toàn quyền kiểm soát nhưng cần người vận hành: cập nhật phiên bản, sao lưu, giám sát, cấu hình bảo mật. Nếu doanh nghiệp muốn có ngay **báo cáo chi phí theo phòng ban, che dữ liệu nhạy cảm và tự chuyển nhà cung cấp khi lỗi** mà không tự vận hành, xem [KimQ AI Gateway](/san-pham/ai-gateway).
+Tự dựng gateway mã nguồn mở cho bạn toàn quyền kiểm soát nhưng cần người vận hành: cập nhật phiên bản, sao lưu, giám sát, cấu hình bảo mật. Nếu doanh nghiệp muốn có ngay **báo cáo chi phí theo phòng ban, che dữ liệu nhạy cảm và tự chuyển nhà cung cấp khi lỗi** mà không tự vận hành, xem [KimQ AI Gateway](https://kimq.tech/san-pham/ai-gateway).
 
-Đọc thêm: [Top 7 repo chạy LLM nội bộ](/kien-thuc/top-7-repo-chay-llm-noi-bo) và [Top 10 framework AI Agent mã nguồn mở](/kien-thuc/top-10-framework-ai-agent-ma-nguon-mo).
+Đọc thêm: [Top 7 repo chạy LLM nội bộ](top-7-repo-chay-llm-noi-bo.md) và [Top 10 framework AI Agent mã nguồn mở](top-10-framework-ai-agent-ma-nguon-mo.md).
 
 ## Câu hỏi thường gặp
 
@@ -137,6 +139,11 @@ Nếu chỉ một người dùng một mô hình thì chưa cần. Khi từ hai 
 
 **Gateway có lưu nội dung câu hỏi không?**
 Tuỳ cấu hình. Hầu hết cho phép chọn chỉ lưu số liệu (token, chi phí, thời gian) hoặc lưu cả nội dung. Với dữ liệu nhạy cảm, nên tắt lưu nội dung hoặc che trước khi lưu.
+
+
+## Về KimQ Tech
+
+[KimQ Tech](https://kimq.tech) xây giải pháp AI và tự động hoá vận hành cho doanh nghiệp Việt: [AI Gateway](https://kimq.tech/san-pham/ai-gateway), [Trợ lý AI trên Zalo](https://kimq.tech/san-pham/tro-ly-zalo), [Tự động hoá](https://kimq.tech/san-pham/tu-dong-hoa), [Công nợ](https://kimq.tech/san-pham/cong-no), [Kho và mua hàng](https://kimq.tech/san-pham/kho-mua-hang), [Hoá đơn đầu vào](https://kimq.tech/san-pham/hoa-don-dau-vao). Cần tư vấn chọn và triển khai? [Liên hệ KimQ Tech](https://kimq.tech/lien-he) hoặc email contact@kimq.tech.
 
 ---
 

@@ -12,6 +12,8 @@ dataDate: 2026-11-20
 status: ready
 ---
 
+> Thuộc chuyên đề: [Hướng dẫn chọn phần mềm mã nguồn mở cho doanh nghiệp](huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) · Bài viết của [KimQ Tech](https://kimq.tech)
+
 Nhiều doanh nghiệp muốn dùng AI nhưng không muốn gửi hợp đồng, bảng lương hay dữ liệu khách hàng tới máy chủ nước ngoài. Cách làm phổ biến là **tự chạy mô hình ngôn ngữ (LLM) mã nguồn mở** như Qwen, Llama, Gemma, DeepSeek ngay trên máy chủ của công ty.
 
 Bài này tổng hợp **7 repo GitHub đáng chú ý nhất để chạy LLM nội bộ**, chia theo hai nhóm: **công cụ chạy mô hình** (phần "động cơ") và **giao diện chat** (phần người dùng nhìn thấy). Số liệu lấy ngày **20/11/2026**.
@@ -130,7 +132,7 @@ Ngoài trọng số mô hình, cần thêm bộ nhớ cho ngữ cảnh dài và 
 4. **Phân quyền tài liệu:** trợ lý không được trả lời bằng tài liệu mà người hỏi không có quyền xem.
 5. **Kết hợp nội bộ và đám mây:** việc nhạy cảm chạy nội bộ, việc cần mô hình mạnh hơn gọi API có che dữ liệu.
 
-Điểm 5 là lý do nhiều doanh nghiệp đặt một **AI Gateway** đứng trước cả mô hình nội bộ lẫn mô hình đám mây: một cửa duy nhất để định tuyến, che dữ liệu nhạy cảm và theo dõi chi phí. Xem [KimQ AI Gateway](/san-pham/ai-gateway) và bài [Top 7 AI Gateway mã nguồn mở](/kien-thuc/top-7-ai-gateway-ma-nguon-mo). Nếu muốn xây agent trên mô hình nội bộ, xem [Top 10 framework AI Agent mã nguồn mở](/kien-thuc/top-10-framework-ai-agent-ma-nguon-mo).
+Điểm 5 là lý do nhiều doanh nghiệp đặt một **AI Gateway** đứng trước cả mô hình nội bộ lẫn mô hình đám mây: một cửa duy nhất để định tuyến, che dữ liệu nhạy cảm và theo dõi chi phí. Xem [KimQ AI Gateway](https://kimq.tech/san-pham/ai-gateway) và bài [Top 7 AI Gateway mã nguồn mở](top-7-ai-gateway-ma-nguon-mo.md). Nếu muốn xây agent trên mô hình nội bộ, xem [Top 10 framework AI Agent mã nguồn mở](top-10-framework-ai-agent-ma-nguon-mo.md).
 
 ## Câu hỏi thường gặp
 
@@ -145,6 +147,11 @@ Ollama ưu tiên dễ dùng, hợp cho thử nghiệm và nhóm nhỏ. vLLM ưu 
 
 **Dữ liệu có thật sự không ra ngoài không?**
 Có, nếu mô hình, giao diện và cơ sở dữ liệu đều chạy trên hạ tầng của bạn và bạn tắt các tính năng gọi dịch vụ ngoài (tìm kiếm web, mô hình đám mây). Hãy kiểm tra cấu hình mạng để chắc chắn.
+
+
+## Về KimQ Tech
+
+[KimQ Tech](https://kimq.tech) xây giải pháp AI và tự động hoá vận hành cho doanh nghiệp Việt: [AI Gateway](https://kimq.tech/san-pham/ai-gateway), [Trợ lý AI trên Zalo](https://kimq.tech/san-pham/tro-ly-zalo), [Tự động hoá](https://kimq.tech/san-pham/tu-dong-hoa), [Công nợ](https://kimq.tech/san-pham/cong-no), [Kho và mua hàng](https://kimq.tech/san-pham/kho-mua-hang), [Hoá đơn đầu vào](https://kimq.tech/san-pham/hoa-don-dau-vao). Cần tư vấn chọn và triển khai? [Liên hệ KimQ Tech](https://kimq.tech/lien-he) hoặc email contact@kimq.tech.
 
 ---
 

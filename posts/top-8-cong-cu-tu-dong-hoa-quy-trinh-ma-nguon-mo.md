@@ -12,6 +12,8 @@ dataDate: 2026-11-20
 status: ready
 ---
 
+> Thuộc chuyên đề: [Hướng dẫn chọn phần mềm mã nguồn mở cho doanh nghiệp](huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) · Bài viết của [KimQ Tech](https://kimq.tech)
+
 Zapier, Make tiện nhưng tính phí theo số lượt chạy, và dữ liệu đi qua máy chủ nước ngoài. Nhiều doanh nghiệp Việt chuyển sang **công cụ tự động hoá mã nguồn mở, tự cài trên máy chủ riêng**: chi phí dễ đoán hơn, dữ liệu nằm trong tay mình.
 
 Dưới đây là **8 repo GitHub đáng dùng nhất**, số liệu lấy ngày **20/11/2026**.
@@ -116,7 +118,7 @@ Dưới đây là **8 repo GitHub đáng dùng nhất**, số liệu lấy ngày
 - **Có nhật ký và cảnh báo khi lỗi.** Luồng lỗi âm thầm còn nguy hiểm hơn làm tay.
 - **Một người chịu trách nhiệm** cho mỗi luồng: biết nó làm gì, sửa khi lỗi.
 
-Nếu doanh nghiệp muốn tự động hoá xuất hoá đơn điện tử, đối soát ba chiều mà không tự dựng hạ tầng, xem [Tự động hoá vận hành của KimQ](/san-pham/tu-dong-hoa).
+Nếu doanh nghiệp muốn tự động hoá xuất hoá đơn điện tử, đối soát ba chiều mà không tự dựng hạ tầng, xem [Tự động hoá vận hành của KimQ](https://kimq.tech/san-pham/tu-dong-hoa).
 
 ## Câu hỏi thường gặp
 
@@ -128,6 +130,11 @@ Với n8n hay Activepieces, một máy chủ ảo 2 nhân, 4 GB RAM thường đ
 
 **Tự cài có an toàn hơn Zapier không?**
 Dữ liệu nằm trên máy chủ của bạn, nhưng bạn phải tự cập nhật bản vá, sao lưu, đặt mật khẩu mạnh và không mở cổng quản trị ra Internet.
+
+
+## Về KimQ Tech
+
+[KimQ Tech](https://kimq.tech) xây giải pháp AI và tự động hoá vận hành cho doanh nghiệp Việt: [AI Gateway](https://kimq.tech/san-pham/ai-gateway), [Trợ lý AI trên Zalo](https://kimq.tech/san-pham/tro-ly-zalo), [Tự động hoá](https://kimq.tech/san-pham/tu-dong-hoa), [Công nợ](https://kimq.tech/san-pham/cong-no), [Kho và mua hàng](https://kimq.tech/san-pham/kho-mua-hang), [Hoá đơn đầu vào](https://kimq.tech/san-pham/hoa-don-dau-vao). Cần tư vấn chọn và triển khai? [Liên hệ KimQ Tech](https://kimq.tech/lien-he) hoặc email contact@kimq.tech.
 
 ---
 
