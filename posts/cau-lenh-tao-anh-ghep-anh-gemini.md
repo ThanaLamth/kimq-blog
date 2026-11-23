@@ -11,9 +11,10 @@ published: 2026-11-23
 updated: 2026-11-23
 dataDate: 2026-11-23
 status: ready
+pillar: top-cong-cu-ai-chinh-sua-anh
 ---
 
-> Thuộc chuyên đề: [Hướng dẫn dùng công cụ AI phổ biến cho công việc](huong-dan-dung-cong-cu-ai-pho-bien.md) · Bài viết của [KimQ Tech](https://kimq.tech)
+> Thuộc chuyên đề: [Top công cụ AI tạo và chỉnh sửa ảnh](top-cong-cu-ai-chinh-sua-anh.md) · Bài viết của [KimQ Tech](https://kimq.tech)
 
 Gemini tạo và chỉnh ảnh bằng mô hình ảnh của Google (thường gọi là **Nano Banana**). Bạn chỉ cần gõ câu lệnh tiếng Việt, hoặc tải ảnh lên rồi yêu cầu ghép, đổi nền, đổi trang phục. Bài này tổng hợp **35 câu lệnh mẫu đã chia theo mục đích**, công thức tự viết câu lệnh, và trả lời hai câu hỏi hay gặp: **xoá logo Gemini trên ảnh được không** và **sinh viên dùng Gemini miễn phí thế nào**.
 

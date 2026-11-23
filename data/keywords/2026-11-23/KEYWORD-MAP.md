@@ -84,3 +84,5 @@ Nguồn: các file trong thư mục này. Lượt tìm là lượt/tháng tại 
 - Claude for Excel, Claude Science.
 - Gemini 3.5 Pro/Flash: so sánh model khi có số liệu chính thức.
 - Tạo chatbot, chatbot miễn phí, phần mềm chatbot: gắn với Chatbot đa kênh.
+
+Sơ đồ pillar/cluster: [../../../TOPIC-CLUSTERS.md](../../../TOPIC-CLUSTERS.md)

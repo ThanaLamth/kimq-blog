@@ -11,13 +11,23 @@ published: 2026-11-23
 updated: 2026-11-23
 dataDate: 2026-11-23
 status: ready
+type: pillar
 ---
 
-> Thuộc chuyên đề: [Hướng dẫn dùng công cụ AI phổ biến cho công việc](huong-dan-dung-cong-cu-ai-pho-bien.md) · Bài viết của [KimQ Tech](https://kimq.tech)
+> Chuyên đề **Tạo video bằng AI** của [KimQ Tech](https://kimq.tech). Trang này được cập nhật khi có bài mới. Xem thêm các chuyên đề khác tại [Hướng dẫn dùng công cụ AI phổ biến cho công việc](huong-dan-dung-cong-cu-ai-pho-bien.md).
 
 Chỉ cần một câu mô tả hoặc một tấm ảnh, công cụ **tạo video AI** có thể dựng ra đoạn video vài giây đến vài chục giây, có chuyển động, ánh sáng và cả âm thanh. Bài này so sánh **10 công cụ đáng dùng nhất cuối năm 2026**, chỉ ra cách **tạo video AI miễn phí từ ảnh và từ văn bản**, kèm mẫu câu lệnh tiếng Việt.
 
 Thông tin kiểm tra ngày **23/11/2026**. Lĩnh vực này đổi rất nhanh; tên phiên bản và hạn mức miễn phí có thể khác khi bạn đọc.
+
+## Bài trong chuyên đề
+
+| Bài | Trả lời câu hỏi |
+|---|---|
+| [Top công cụ AI tạo và chỉnh sửa ảnh](top-cong-cu-ai-chinh-sua-anh.md) | Chuẩn bị ảnh đẹp trước khi biến thành video bằng công cụ nào? |
+| [35 câu lệnh tạo ảnh, ghép ảnh trên Gemini](cau-lenh-tao-anh-ghep-anh-gemini.md) | Video tạo bằng Gemini có hình mờ không, viết câu lệnh thế nào? |
+
+Các hướng dẫn chi tiết từng công cụ (Kling, Viggle, Higgsfield), giọng đọc AI tiếng Việt và tạo nhạc AI sẽ được bổ sung vào bảng này.
 
 ## Tóm tắt nhanh
 

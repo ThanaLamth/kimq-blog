@@ -10,6 +10,7 @@ published: 2026-11-20
 updated: 2026-11-20
 dataDate: 2026-11-20
 status: ready
+pillar: huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep
 ---
 
 > Thuộc chuyên đề: [Hướng dẫn chọn phần mềm mã nguồn mở cho doanh nghiệp](huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) · Bài viết của [KimQ Tech](https://kimq.tech)

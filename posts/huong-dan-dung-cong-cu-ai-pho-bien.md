@@ -20,16 +20,21 @@ Mỗi tháng lại có công cụ AI mới, model mới, gói giá mới. Với 
 
 ## Bản đồ chuyên đề
 
+**Trợ lý AI và tìm kiếm bằng AI** (bài trong chuyên đề này):
+
 | Bài | Trả lời câu hỏi |
 |---|---|
 | [Claude là gì? So sánh các gói Claude](claude-la-gi-so-sanh-cac-goi-claude.md) | Claude làm được gì, gói Free, Pro, Max, Ultra, Team khác nhau thế nào? |
 | [Claude Design là gì](claude-design-la-gi.md) | Làm slide, one-pager, prototype bằng AI thế nào? |
-| [35 câu lệnh tạo ảnh, ghép ảnh trên Gemini](cau-lenh-tao-anh-ghep-anh-gemini.md) | Viết câu lệnh tạo ảnh ra sao, xoá logo Gemini được không? |
-| [Top công cụ AI chỉnh sửa ảnh](top-cong-cu-ai-chinh-sua-anh.md) | Ghép ảnh, làm nét, mở rộng, phục hồi ảnh cũ bằng gì? |
-| [Top 10 công cụ tạo video AI](top-cong-cu-tao-video-ai.md) | Tạo video AI miễn phí từ ảnh, từ văn bản bằng công cụ nào? |
 | [Chế độ AI của Google là gì](che-do-ai-google-ai-mode-la-gi.md) | Tìm kiếm bằng AI Mode thế nào, doanh nghiệp cần làm gì? |
 
-Muốn tự xây hệ thống AI bằng mã nguồn mở? Xem chuyên đề [Hướng dẫn chọn phần mềm mã nguồn mở cho doanh nghiệp](huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md).
+**Chuyên đề con:**
+
+| Chuyên đề | Nội dung |
+|---|---|
+| [AI tạo và chỉnh sửa ảnh](top-cong-cu-ai-chinh-sua-anh.md) | Ghép ảnh, làm nét, mở rộng, phục hồi ảnh cũ; câu lệnh tạo ảnh trên Gemini |
+| [Tạo video bằng AI](top-cong-cu-tao-video-ai.md) | Tạo video AI miễn phí từ ảnh, từ văn bản; so sánh Veo, Kling, Runway, Vidu |
+| [Phần mềm mã nguồn mở cho doanh nghiệp](huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) | Tự xây hệ thống AI, tự động hoá, ERP bằng mã nguồn mở |
 
 ## Chọn công cụ AI theo việc
 

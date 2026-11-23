@@ -11,13 +11,23 @@ published: 2026-11-23
 updated: 2026-11-23
 dataDate: 2026-11-23
 status: ready
+type: pillar
 ---
 
-> Thuộc chuyên đề: [Hướng dẫn dùng công cụ AI phổ biến cho công việc](huong-dan-dung-cong-cu-ai-pho-bien.md) · Bài viết của [KimQ Tech](https://kimq.tech)
+> Chuyên đề **AI tạo và chỉnh sửa ảnh** của [KimQ Tech](https://kimq.tech). Trang này được cập nhật khi có bài mới. Xem thêm các chuyên đề khác tại [Hướng dẫn dùng công cụ AI phổ biến cho công việc](huong-dan-dung-cong-cu-ai-pho-bien.md).
 
 Trước đây, ghép ảnh, xoá người thừa hay mở rộng khung ảnh cần thành thạo Photoshop. Giờ chỉ cần **mô tả bằng lời** hoặc bấm một nút. Bài này chia **công cụ AI chỉnh sửa ảnh theo đúng việc bạn cần**, có lựa chọn miễn phí, trả phí và mã nguồn mở chạy trên máy.
 
 Thông tin kiểm tra ngày **23/11/2026**.
+
+## Bài trong chuyên đề
+
+| Bài | Trả lời câu hỏi |
+|---|---|
+| [35 câu lệnh tạo ảnh, ghép ảnh trên Gemini](cau-lenh-tao-anh-ghep-anh-gemini.md) | Viết câu lệnh tạo ảnh, ghép ảnh ra sao, xoá logo Gemini được không? |
+| [Top công cụ tạo video AI](top-cong-cu-tao-video-ai.md) | Ảnh đã đẹp, biến thành video bằng công cụ nào? |
+
+Các hướng dẫn chi tiết (làm nét ảnh, ghép mặt, tạo logo, mở rộng ảnh bằng AI) sẽ được bổ sung vào bảng này.
 
 ## Tóm tắt: việc nào dùng công cụ nào
 
