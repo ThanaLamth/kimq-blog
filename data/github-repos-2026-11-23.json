@@ -1,0 +1,145 @@
+[
+ {
+  "cat": "image",
+  "repo": "upscayl/upscayl",
+  "url": "https://github.com/upscayl/upscayl",
+  "stars": 53096,
+  "lang": "TypeScript",
+  "lic": "AGPL-3.0",
+  "pushed": "2026-11-20",
+  "archived": false,
+  "desc": "🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows."
+ },
+ {
+  "cat": "image",
+  "repo": "xinntao/Real-ESRGAN",
+  "url": "https://github.com/xinntao/Real-ESRGAN",
+  "stars": 37617,
+  "lang": "Python",
+  "lic": "BSD-3-Clause",
+  "pushed": "2024-08-06",
+  "archived": false,
+  "desc": "Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration."
+ },
+ {
+  "cat": "image",
+  "repo": "TencentARC/GFPGAN",
+  "url": "https://github.com/TencentARC/GFPGAN",
+  "stars": 37732,
+  "lang": "Python",
+  "lic": "NOASSERTION",
+  "pushed": "2024-07-26",
+  "archived": false,
+  "desc": "GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration."
+ },
+ {
+  "cat": "image",
+  "repo": "sczhou/CodeFormer",
+  "url": "https://github.com/sczhou/CodeFormer",
+  "stars": 18260,
+  "lang": "Python",
+  "lic": "NOASSERTION",
+  "pushed": "2025-11-18",
+  "archived": false,
+  "desc": "[NeurIPS 2022] Towards Robust Blind Face Restoration with Codebook Lookup Transformer"
+ },
+ {
+  "cat": "image",
+  "repo": "Sanster/IOPaint",
+  "url": "https://github.com/Sanster/IOPaint",
+  "stars": 23283,
+  "lang": "Python",
+  "lic": "Apache-2.0",
+  "pushed": "2025-04-29",
+  "archived": true,
+  "desc": "Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures."
+ },
+ {
+  "cat": "image",
+  "repo": "danielgatis/rembg",
+  "url": "https://github.com/danielgatis/rembg",
+  "stars": 25640,
+  "lang": "Python",
+  "lic": "MIT",
+  "pushed": "2026-11-06",
+  "archived": false,
+  "desc": "Rembg is a tool to remove images background"
+ },
+ {
+  "cat": "image",
+  "repo": "Comfy-Org/ComfyUI",
+  "url": "https://github.com/Comfy-Org/ComfyUI",
+  "stars": 148207,
+  "lang": "Python",
+  "lic": "GPL-3.0",
+  "pushed": "2026-11-23",
+  "archived": false,
+  "desc": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world."
+ },
+ {
+  "cat": "image",
+  "repo": "AUTOMATIC1111/stable-diffusion-webui",
+  "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+  "stars": 165373,
+  "lang": "Python",
+  "lic": "AGPL-3.0",
+  "pushed": "2026-03-02",
+  "archived": false,
+  "desc": "Stable Diffusion web UI"
+ },
+ {
+  "cat": "image",
+  "repo": "lllyasviel/Fooocus",
+  "url": "https://github.com/lllyasviel/Fooocus",
+  "stars": 53969,
+  "lang": "Python",
+  "lic": "GPL-3.0",
+  "pushed": "2025-12-01",
+  "archived": false,
+  "desc": "Focus on prompting and generating"
+ },
+ {
+  "cat": "video",
+  "repo": "Wan-Video/Wan2.2",
+  "url": "https://github.com/Wan-Video/Wan2.2",
+  "stars": 18844,
+  "lang": "Python",
+  "lic": "Apache-2.0",
+  "pushed": "2026-09-21",
+  "archived": false,
+  "desc": "Wan: Open and Advanced Large-Scale Video Generative Models"
+ },
+ {
+  "cat": "video",
+  "repo": "Tencent-Hunyuan/HunyuanVideo",
+  "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
+  "stars": 12824,
+  "lang": "Python",
+  "lic": "NOASSERTION",
+  "pushed": "2026-10-08",
+  "archived": false,
+  "desc": "HunyuanVideo: A Systematic Framework For Large Video Generation Model"
+ },
+ {
+  "cat": "video",
+  "repo": "Lightricks/LTX-Video",
+  "url": "https://github.com/Lightricks/LTX-Video",
+  "stars": 11471,
+  "lang": "Python",
+  "lic": "Apache-2.0",
+  "pushed": "2026-11-02",
+  "archived": false,
+  "desc": "Official repository for LTX-Video"
+ },
+ {
+  "cat": "video",
+  "repo": "hpcaitech/Open-Sora",
+  "url": "https://github.com/hpcaitech/Open-Sora",
+  "stars": 29949,
+  "lang": "Python",
+  "lic": "Apache-2.0",
+  "pushed": "2026-04-09",
+  "archived": false,
+  "desc": "Open-Sora: Democratizing Efficient Video Production for All"
+ }
+]

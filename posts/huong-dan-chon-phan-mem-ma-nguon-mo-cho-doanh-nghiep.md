@@ -46,6 +46,8 @@ Trang này là **điểm bắt đầu**: cách đánh giá một repo, cách đ�
 
 Dữ liệu nghiệp vụ (đơn hàng, công nợ, kho) nằm ở ERP hoặc phần mềm kế toán; agent và quy trình tự động đọc, ghi vào đó qua API.
 
+Chỉ cần dùng công cụ AI có sẵn (Claude, Gemini, tạo ảnh, tạo video) mà không tự dựng hệ thống? Xem chuyên đề [Hướng dẫn dùng công cụ AI phổ biến cho công việc](huong-dan-dung-cong-cu-ai-pho-bien.md).
+
 ## Bước 1: Đánh giá một repo GitHub trong 10 phút
 
 Số sao chỉ cho biết mức độ quan tâm. Hãy xem thêm:
