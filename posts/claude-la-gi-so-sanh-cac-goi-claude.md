@@ -12,6 +12,7 @@ updated: 2026-11-23
 dataDate: 2026-11-23
 status: ready
 pillar: huong-dan-dung-cong-cu-ai-pho-bien
+cluster: "C4.1 Claude"
 ---
 
 > Thuộc chuyên đề: [Hướng dẫn dùng công cụ AI phổ biến cho công việc](huong-dan-dung-cong-cu-ai-pho-bien.md) · Bài viết của [KimQ Tech](https://kimq.tech)

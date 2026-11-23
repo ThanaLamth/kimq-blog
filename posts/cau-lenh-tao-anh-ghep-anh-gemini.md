@@ -12,6 +12,7 @@ updated: 2026-11-23
 dataDate: 2026-11-23
 status: ready
 pillar: top-cong-cu-ai-chinh-sua-anh
+cluster: "C3.1 Tạo ảnh bằng AI"
 ---
 
 > Thuộc chuyên đề: [Top công cụ AI tạo và chỉnh sửa ảnh](top-cong-cu-ai-chinh-sua-anh.md) · Bài viết của [KimQ Tech](https://kimq.tech)

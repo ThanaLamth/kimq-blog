@@ -11,6 +11,7 @@ updated: 2026-11-20
 dataDate: 2026-11-20
 status: ready
 pillar: huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep
+cluster: "C1.1 AI mã nguồn mở"
 ---
 
 > Thuộc chuyên đề: [Hướng dẫn chọn phần mềm mã nguồn mở cho doanh nghiệp](huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) · Bài viết của [KimQ Tech](https://kimq.tech)

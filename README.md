@@ -36,7 +36,7 @@ Sơ đồ đầy đủ pillar, cluster, từ khoá và thứ tự viết: [TOPIC
 
 ## Ghi chú biên tập (nội bộ)
 
-**Cấu trúc:** 4 pillar (`type: pillar`), xem [TOPIC-CLUSTERS.md](TOPIC-CLUSTERS.md). Mỗi cluster có `pillar: <slug>` trong frontmatter, dòng "Thuộc chuyên đề" link về pillar, link chéo 2–3 bài liên quan và mục "Về KimQ Tech" ở cuối.
+**Cấu trúc:** 4 pillar (`type: pillar`), xem [TOPIC-CLUSTERS.md](TOPIC-CLUSTERS.md). Mỗi bài có `pillar: <slug>` và `cluster:` trong frontmatter, dòng "Thuộc chuyên đề" link về pillar, link chéo 2–3 bài liên quan và mục "Về KimQ Tech" ở cuối.
 
 **Link:**
 - Giữa các bài: link tương đối tới file `.md` trong repo.
