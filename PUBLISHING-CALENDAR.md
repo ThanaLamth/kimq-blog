@@ -14,7 +14,7 @@ Cập nhật 24/11/2026. Mỗi bài phải qua [CONTENT-QC.md](CONTENT-QC.md) tr
 | Số bài mỗi cluster | 2–4 | C2.2 có 7, C3.2 có 6, C3.3 có 1 | Tách hoặc gộp (mục 2) |
 | Tổng bài mỗi pillar | 5–21 | P4 có 23 | Tách P4 |
 | Làm mới | Pillar mỗi quý hoặc khi có spoke mới | – | Mỗi bài mới: cập nhật bảng "Bài trong chuyên đề" của pillar |
-| Rủi ro | Nội dung hàng loạt do AI viết, thiếu giá trị riêng, là lỗi E-E-A-T | – | Mỗi bài phải có ảnh chụp thao tác thật, thử nghiệm thật, ngày dữ liệu và người duyệt. **Không đăng hằng ngày cho đủ số** |
+| Rủi ro | Nội dung hàng loạt do AI viết, thiếu giá trị riêng, là lỗi E-E-A-T | – | Mỗi bài phải có ảnh chụp thao tác thật, thử nghiệm thật, ngày dữ liệu và nguồn. **Không đăng hằng ngày cho đủ số** |
 | GEO | Thương hiệu được nhắc tới tương quan với khả năng được AI trích dẫn mạnh hơn backlink. YouTube có tương quan mạnh nhất, sau đó Reddit, LinkedIn | Chưa có YouTube, Reddit | Đăng lại video TikTok lên YouTube Shorts; trả lời câu hỏi thật trên Reddit/Facebook group (không spam) |
 
 ## 2. Chỉnh cấu trúc cluster cho đúng khung (chờ duyệt)
@@ -39,7 +39,7 @@ Sau khi tách: 5 pillar, 18 cluster. Mỗi pillar có 2–5 cluster, mỗi clust
 | Mở rộng hoặc làm mới pillar | 1–2 | Stage 1: mở rộng cả 4 pillar lên 2.500+ từ; viết pillar P5 nếu duyệt mục 2 |
 | Cập nhật bài cũ | 2–4 | Giá, gói, phiên bản model, số sao GitHub. Cập nhật trường `updated` |
 
-12 bài/tháng là mức đội nhỏ giữ được chất lượng (tự thử công cụ, tự chụp ảnh). Tăng lên 16–20 chỉ khi có thêm người viết và người duyệt.
+12 bài/tháng là mức đội nhỏ giữ được chất lượng (tự thử công cụ, tự chụp ảnh). Tăng lên 16–20 chỉ khi có thêm người viết.
 
 ### Phân phối ra các nền tảng
 
