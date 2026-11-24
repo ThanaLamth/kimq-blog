@@ -15,7 +15,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 | Pillar | Bài pillar | Cluster | Số bài (đã viết/tổng) | Lượng tìm cả chuyên đề |
 |---|---|---|---|---|
 | P1 Phần mềm mã nguồn mở cho doanh nghiệp | [huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep](posts/huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) | 2 | 5/6 | thấp (B2B) |
-| P2 Tạo video bằng AI | [top-cong-cu-tao-video-ai](posts/top-cong-cu-tao-video-ai.md) | 3 | 0/13 | 219.650 |
+| P2 Tạo video bằng AI | [top-cong-cu-tao-video-ai](posts/top-cong-cu-tao-video-ai.md) | 3 | 1/13 | 219.650 |
 | P3 AI tạo và chỉnh sửa ảnh | [top-cong-cu-ai-chinh-sua-anh](posts/top-cong-cu-ai-chinh-sua-anh.md) | 3 | 1/10 | 58.780 |
 | P4 Trợ lý AI và công cụ AI cho công việc | [huong-dan-dung-cong-cu-ai-pho-bien](posts/huong-dan-dung-cong-cu-ai-pho-bien.md) | 7 | 3/22 | 156.940 |
 
@@ -55,7 +55,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 
 | Bài | Trạng thái | Ưu tiên | Từ khoá chính | Từ khoá phụ | Lượng tìm | KD | Ghi chú |
 |---|---|---|---|---|---|---|---|
-| Viggle AI là gì, cách dùng | Dự kiến | Trung bình | viggle ai | – | 74.000 | 27 | Từ khoá điều hướng, khó vượt trang chủ Viggle |
+| [Viggle AI là gì, cách dùng](posts/viggle-ai-la-gi.md) | Đã viết | – | viggle ai | – | 74.000 | 27 | Từ khoá điều hướng, khó vượt trang chủ Viggle |
 | Higgsfield AI là gì, cách dùng | Dự kiến | Cao | higgsfield ai | – | 12.100 | 15 |  |
 | Vclip AI là gì, cách dùng | Dự kiến | Trung bình | vclip ai | – | 8.100 | 30 | Điều hướng |
 | Kling AI: hướng dẫn, gói miễn phí | Dự kiến | Cao | kling ai.com | kling ai video, kling ai free, kling ai 3.0 | 5.300 | 26 | Chuyển "kling ai video" khỏi pillar |

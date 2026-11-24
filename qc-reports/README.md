@@ -16,4 +16,5 @@ Sinh bởi `scripts/content_qc.py`. Phần kiểm tay xem trong từng file.
 | [top-8-cong-cu-tu-dong-hoa-quy-trinh-ma-nguon-mo](top-8-cong-cu-tu-dong-hoa-quy-trinh-ma-nguon-mo.md) | PASS | 0 | 0 | 1741 | 3 | 10 |
 | [top-8-phan-mem-erp-ke-toan-ma-nguon-mo](top-8-phan-mem-erp-ke-toan-ma-nguon-mo.md) | PASS | 0 | 0 | 1947 | 3 | 8 |
 | [top-cong-cu-ai-chinh-sua-anh](top-cong-cu-ai-chinh-sua-anh.md) | FLAG | 0 | 6 | 1836 | 3 | 11 |
-| [top-cong-cu-tao-video-ai](top-cong-cu-tao-video-ai.md) | FLAG | 0 | 5 | 2295 | 3 | 7 |
+| [top-cong-cu-tao-video-ai](top-cong-cu-tao-video-ai.md) | FLAG | 0 | 5 | 2323 | 3 | 7 |
+| [viggle-ai-la-gi](viggle-ai-la-gi.md) | PASS | 0 | 0 | 2528 | 5 | 4 |

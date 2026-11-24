@@ -68,7 +68,7 @@ Sắp theo volume giảm dần, đúng thứ tự của claude-seo. Bài thươn
 
 | # | Bài | Cluster | Volume | KD |
 |---|---|---|---|---|
-| 1 | Viggle AI là gì, cách dùng | C2.2 Hướng dẫn từng công cụ video | 74,000 | 27 |
+| 1 | [Viggle AI là gì, cách dùng](posts/viggle-ai-la-gi.md) (đã viết) | C2.2 Hướng dẫn từng công cụ video | 74,000 | 27 |
 | 2 | Giọng đọc AI tiếng Việt: Vbee, FPT AI, Viettel AI, Vclip | C2.3 Âm thanh cho video | 23,760 | 23 |
 | 3 | Tạo nhạc bằng AI | C2.3 Âm thanh cho video | 19,800 | 24 |
 | 4 | Làm slide bằng AI | C4.4 Làm việc văn phòng với AI | 18,580 | 26 |

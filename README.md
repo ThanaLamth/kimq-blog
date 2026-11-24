@@ -18,6 +18,8 @@ Sơ đồ đầy đủ pillar, cluster, từ khoá và thứ tự viết: [TOPIC
 
 **[Top 10 công cụ tạo video AI](posts/top-cong-cu-tao-video-ai.md)** (pillar)
 
+- [Viggle AI là gì? Cách dùng Viggle AI làm video nhảy, meme từ 1 tấm ảnh](posts/viggle-ai-la-gi.md)
+
 ## 3. AI tạo và chỉnh sửa ảnh
 
 **[Top công cụ AI tạo và chỉnh sửa ảnh](posts/top-cong-cu-ai-chinh-sua-anh.md)** (pillar)
