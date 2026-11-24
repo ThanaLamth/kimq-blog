@@ -1,6 +1,6 @@
 # Lịch đăng bài và số lượng mỗi tháng
 
-Cập nhật 24/11/2026. Lập theo khung hub–spoke, kế hoạch nội dung và quality gate của bộ kỹ năng [claude-seo](https://github.com/AgriciDaniel/claude-seo) (`seo-cluster`, `seo-plan`, `seo-content`, `seo-geo`). Đi kèm [TOPIC-CLUSTERS.md](TOPIC-CLUSTERS.md) và [DISTRIBUTION-PLAN.md](DISTRIBUTION-PLAN.md). Cột `dot_dang` trong [cluster-keyword-map.csv](data/keywords/2026-11-23/cluster-keyword-map.csv) ghi bài thuộc Stage nào. Mỗi Stage tương ứng khoảng 1 tháng.
+Cập nhật 24/11/2026. Mỗi bài phải qua [CONTENT-QC.md](CONTENT-QC.md) trước khi đăng. Lập theo khung hub–spoke, kế hoạch nội dung và quality gate của bộ kỹ năng [claude-seo](https://github.com/AgriciDaniel/claude-seo) (`seo-cluster`, `seo-plan`, `seo-content`, `seo-geo`). Đi kèm [TOPIC-CLUSTERS.md](TOPIC-CLUSTERS.md) và [DISTRIBUTION-PLAN.md](DISTRIBUTION-PLAN.md). Cột `dot_dang` trong [cluster-keyword-map.csv](data/keywords/2026-11-23/cluster-keyword-map.csv) ghi bài thuộc Stage nào. Mỗi Stage tương ứng khoảng 1 tháng.
 
 ## 1. Quy tắc lấy từ claude-seo
 
