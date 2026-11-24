@@ -9,6 +9,17 @@ author: Đội sản phẩm KimQ
 published: 2026-11-20
 updated: 2026-11-20
 dataDate: 2026-11-20
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://github.com/odoo/odoo
+  - https://github.com/frappe/erpnext
+  - https://github.com/invoiceninja/invoiceninja
+  - https://github.com/akaunting/akaunting
+  - https://github.com/Dolibarr/dolibarr
+  - https://github.com/metasfresh/metasfresh
+  - https://github.com/idempiere/idempiere
+  - https://github.com/tryton/tryton
 status: ready
 pillar: huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep
 cluster: "C1.2 Phần mềm vận hành"
@@ -46,6 +57,10 @@ Bài này tổng hợp **8 phần mềm ERP, kế toán và hoá đơn mã ngu�
 
 **Odoo** gồm hàng chục ứng dụng: bán hàng, mua hàng, kho, kế toán, sản xuất, nhân sự, website. Bản **Community** là mã nguồn mở; bản **Enterprise** trả phí có thêm nhiều tính năng (một phần kế toán nâng cao, ứng dụng di động…).
 
+![Repo Odoo trên GitHub](../images/top-8-phan-mem-erp-ke-toan-ma-nguon-mo/github-odoo.webp)
+
+*Ảnh chụp màn hình: Repo Odoo trên GitHub. Nguồn: [github.com](https://github.com/odoo/odoo), chụp ngày 24/11/2026.*
+
 - **Hỗ trợ Việt Nam:** có module `l10n_vn` (Vietnam - Accounting) gồm hệ thống tài khoản theo **chuẩn mực kế toán Việt Nam (VAS), Thông tư 200/2014/TT-BTC**, danh sách ngân hàng Việt Nam và **mã VietQR trên hoá đơn**.
 - **Lưu ý:** từ năm tài chính 2026, chế độ kế toán doanh nghiệp theo **Thông tư 99/2025/TT-BTC** thay thế Thông tư 200; cần kiểm tra module đã cập nhật hệ thống tài khoản mới chưa.
 - **Giấy phép:** LGPL v3 cho bản Community.
@@ -54,6 +69,10 @@ Bài này tổng hợp **8 phần mềm ERP, kế toán và hoá đơn mã ngu�
 
 **ERPNext** (trên nền Frappe Framework) có kế toán, kho, mua bán, sản xuất, dự án, nhân sự. Khác Odoo, **toàn bộ tính năng đều mã nguồn mở**, không chia bản trả phí.
 
+![Repo ERPNext trên GitHub](../images/top-8-phan-mem-erp-ke-toan-ma-nguon-mo/github-erpnext.webp)
+
+*Ảnh chụp màn hình: Repo ERPNext trên GitHub. Nguồn: [github.com](https://github.com/frappe/erpnext), chụp ngày 24/11/2026.*
+
 - **Điểm mạnh:** tuỳ biến bằng giao diện (thêm trường, biểu mẫu) không cần sửa code nhiều.
 - **Hỗ trợ Việt Nam:** chúng tôi chưa thấy module bản địa hoá Việt Nam chính thức trong repo; hệ thống tài khoản và mẫu báo cáo cần tự thiết lập.
 - **Giấy phép:** GPL v3.
@@ -61,6 +80,10 @@ Bài này tổng hợp **8 phần mềm ERP, kế toán và hoá đơn mã ngu�
 ## 3. Invoice Ninja: báo giá và hoá đơn
 
 **Invoice Ninja** tập trung vào báo giá, hoá đơn, thu tiền, chấm công theo dự án, cổng cho khách hàng xem và thanh toán.
+
+![Repo Invoice Ninja trên GitHub](../images/top-8-phan-mem-erp-ke-toan-ma-nguon-mo/github-invoiceninja.webp)
+
+*Ảnh chụp màn hình: Repo Invoice Ninja trên GitHub. Nguồn: [github.com](https://github.com/invoiceninja/invoiceninja), chụp ngày 24/11/2026.*
 
 - **Hợp với:** công ty dịch vụ, agency, freelancer cần lập hoá đơn gửi khách nhanh.
 - **Lưu ý giấy phép:** **Elastic License 2.0** (mã nguồn công khai, không phải mã nguồn mở theo định nghĩa OSI). Được dùng nội bộ, nhưng **không được cung cấp phần mềm cho bên thứ ba dưới dạng dịch vụ lưu trữ hoặc quản lý**.
@@ -138,6 +161,8 @@ Nếu chỉ cần hoá đơn và thu chi, chọn phần mềm gọn (Dolibarr, I
 **Có thể chuyển từ phần mềm kế toán đang dùng sang ERP không?**
 Có, nhưng cần chuyển danh mục, số dư đầu kỳ, công nợ và đối chiếu kỹ. Nên chạy song song ít nhất một kỳ kế toán.
 
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

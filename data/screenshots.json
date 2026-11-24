@@ -1,0 +1,303 @@
+{
+  "cau-lenh-tao-anh-ghep-anh-gemini": [
+    {
+      "url": "https://gemini.google/overview/image-generation/",
+      "after": "## Cách tạo ảnh trên Gemini",
+      "name": "gemini-tao-anh",
+      "alt": "Trang giới thiệu tính năng tạo và chỉnh ảnh của Gemini",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://deepmind.google/models/synthid/",
+      "after": "## Xoá logo Gemini trên ảnh được không?",
+      "name": "synthid",
+      "alt": "Trang SynthID của Google DeepMind giải thích dấu thuỷ vân ẩn trên ảnh AI",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://gemini.google/vn/students/?hl=vi",
+      "after": "## Gemini cho sinh viên: dùng miễn phí thế nào?",
+      "name": "gemini-sinh-vien",
+      "alt": "Trang ưu đãi Gemini cho sinh viên Việt Nam",
+      "captured": "2026-11-24"
+    }
+  ],
+  "che-do-ai-google-ai-mode-la-gi": [
+    {
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-search/",
+      "after": "## Tóm tắt nhanh",
+      "name": "google-blog-ai-mode",
+      "alt": "Bài công bố Chế độ AI trên blog chính thức của Google",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://search.google/ai-in-search/",
+      "after": "## Chế độ AI khác gì AI Overview và Gemini?",
+      "name": "ai-in-search",
+      "alt": "Trang giới thiệu AI trong Google Tìm kiếm",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://developers.google.com/search/docs/appearance/ai-features",
+      "after": "## Doanh nghiệp cần làm gì để xuất hiện trong Chế độ AI?",
+      "name": "search-central-ai-features",
+      "alt": "Tài liệu Google Search Central về tính năng AI và website",
+      "captured": "2026-11-24"
+    }
+  ],
+  "claude-design-la-gi": [
+    {
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "after": "## Tóm tắt nhanh",
+      "name": "anthropic-claude-design",
+      "alt": "Bài công bố Claude Design của Anthropic Labs",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://claude.com/pricing",
+      "after": "## Hướng dẫn dùng Claude Design từng bước",
+      "name": "claude-pricing",
+      "alt": "Trang giá các gói Claude",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://www.canva.com/",
+      "after": "## Claude Design có thay được Canva hay Figma?",
+      "name": "canva",
+      "alt": "Trang chủ Canva",
+      "captured": "2026-11-24"
+    }
+  ],
+  "claude-la-gi-so-sanh-cac-goi-claude": [
+    {
+      "url": "https://support.anthropic.com/en/articles/8461763-where-can-i-access-claude-and-which-countries-are-supported",
+      "after": "### Claude có dùng được ở Việt Nam và bằng tiếng Việt không?",
+      "name": "claude-quoc-gia",
+      "alt": "Trang hỗ trợ của Anthropic: Việt Nam nằm trong danh sách quốc gia dùng được Claude",
+      "scrollToText": "Vietnam",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://platform.claude.com/docs/en/about-claude/models/overview",
+      "after": "## Các model Claude hiện có",
+      "name": "claude-models",
+      "alt": "Tài liệu tổng quan các model Claude",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://claude.com/pricing",
+      "after": "## So sánh chi tiết các gói",
+      "name": "claude-pricing",
+      "alt": "Trang giá các gói Claude Free, Pro, Max, Team",
+      "captured": "2026-11-24"
+    }
+  ],
+  "huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep": [
+    {
+      "url": "https://github.com/n8n-io/n8n",
+      "after": "## Bước 1: Đánh giá một repo GitHub trong 10 phút",
+      "name": "github-repo-n8n",
+      "alt": "Trang repo n8n trên GitHub: số sao, commit gần nhất, giấy phép",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://choosealicense.com/licenses/",
+      "after": "## Bước 2: Đọc giấy phép đúng cách",
+      "name": "choosealicense",
+      "alt": "Bảng so sánh các giấy phép mã nguồn mở phổ biến",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://docs.n8n.io/sustainable-use-license/",
+      "after": "## Bước 4: Tự dựng hay dùng giải pháp có sẵn?",
+      "name": "n8n-license",
+      "alt": "Trang giấy phép Sustainable Use License của n8n",
+      "captured": "2026-11-24"
+    }
+  ],
+  "huong-dan-dung-cong-cu-ai-pho-bien": [
+    {
+      "url": "https://chatgpt.com/pricing",
+      "after": "## Miễn phí hay trả phí?",
+      "name": "chatgpt-pricing",
+      "alt": "Trang giá các gói ChatGPT",
+      "waitMs": 7000,
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://gemini.google/overview/image-generation/",
+      "after": "## Chọn công cụ AI theo việc",
+      "name": "gemini-tao-anh",
+      "alt": "Trang tính năng tạo ảnh của Gemini",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://openai.com/enterprise-privacy/",
+      "after": "## 7 quy tắc dùng AI an toàn trong công ty",
+      "name": "openai-enterprise-privacy",
+      "alt": "Trang cam kết quyền riêng tư cho doanh nghiệp của OpenAI",
+      "captured": "2026-11-24"
+    }
+  ],
+  "top-10-framework-ai-agent-ma-nguon-mo": [
+    {
+      "url": "https://github.com/langgenius/dify",
+      "after": "## 1. Dify: xây agent bằng giao diện",
+      "name": "github-dify",
+      "alt": "Repo Dify trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/langchain-ai/langchain",
+      "after": "## 2. LangChain: hệ sinh thái lớn nhất",
+      "name": "github-langchain",
+      "alt": "Repo LangChain trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/crewAIInc/crewAI",
+      "after": "## 3. CrewAI: nhóm agent đóng vai",
+      "name": "github-crewai",
+      "alt": "Repo CrewAI trên GitHub",
+      "captured": "2026-11-24"
+    }
+  ],
+  "top-7-ai-gateway-ma-nguon-mo": [
+    {
+      "url": "https://github.com/BerriAI/litellm",
+      "after": "## 1. LiteLLM: phổ biến nhất",
+      "name": "github-litellm",
+      "alt": "Repo LiteLLM trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/Portkey-AI/gateway",
+      "after": "## 3. Portkey Gateway: guardrail tích hợp",
+      "name": "github-portkey",
+      "alt": "Repo Portkey Gateway trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/Helicone/helicone",
+      "after": "## 5. Helicone: theo dõi và đo chi phí",
+      "name": "github-helicone",
+      "alt": "Repo Helicone trên GitHub",
+      "captured": "2026-11-24"
+    }
+  ],
+  "top-7-repo-chay-llm-noi-bo": [
+    {
+      "url": "https://github.com/ollama/ollama",
+      "after": "## 1. Ollama: cách dễ nhất để bắt đầu",
+      "name": "github-ollama",
+      "alt": "Repo Ollama trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/vllm-project/vllm",
+      "after": "## 3. vLLM: phục vụ nhiều người trên GPU",
+      "name": "github-vllm",
+      "alt": "Repo vLLM trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/open-webui/open-webui",
+      "after": "## 6. Open WebUI: giao diện chat cho cả công ty",
+      "name": "github-open-webui",
+      "alt": "Repo Open WebUI trên GitHub",
+      "captured": "2026-11-24"
+    }
+  ],
+  "top-8-cong-cu-tu-dong-hoa-quy-trinh-ma-nguon-mo": [
+    {
+      "url": "https://github.com/n8n-io/n8n",
+      "after": "## 1. n8n: phổ biến nhất, mạnh về AI",
+      "name": "github-n8n",
+      "alt": "Repo n8n trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/apache/airflow",
+      "after": "## 3. Apache Airflow: lịch chạy dữ liệu",
+      "name": "github-airflow",
+      "alt": "Repo Apache Airflow trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/activepieces/activepieces",
+      "after": "## 5. Activepieces: thay Zapier cho người không chuyên",
+      "name": "github-activepieces",
+      "alt": "Repo Activepieces trên GitHub",
+      "captured": "2026-11-24"
+    }
+  ],
+  "top-8-phan-mem-erp-ke-toan-ma-nguon-mo": [
+    {
+      "url": "https://github.com/odoo/odoo",
+      "after": "## 1. Odoo: phổ biến nhất, có module Việt Nam",
+      "name": "github-odoo",
+      "alt": "Repo Odoo trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/frappe/erpnext",
+      "after": "## 2. ERPNext: mở hoàn toàn",
+      "name": "github-erpnext",
+      "alt": "Repo ERPNext trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/invoiceninja/invoiceninja",
+      "after": "## 3. Invoice Ninja: báo giá và hoá đơn",
+      "name": "github-invoiceninja",
+      "alt": "Repo Invoice Ninja trên GitHub",
+      "captured": "2026-11-24"
+    }
+  ],
+  "top-cong-cu-ai-chinh-sua-anh": [
+    {
+      "url": "https://gemini.google/overview/image-generation/",
+      "after": "## 1. Ghép ảnh, sửa ảnh bằng AI: Gemini (Nano Banana)",
+      "name": "gemini-tao-anh",
+      "alt": "Trang tính năng tạo và chỉnh ảnh của Gemini",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/upscayl/upscayl",
+      "after": "## 4. Làm nét ảnh bằng AI: Upscayl và Real-ESRGAN",
+      "name": "github-upscayl",
+      "alt": "Repo Upscayl trên GitHub",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://contentcredentials.org/verify",
+      "after": "## Cách kiểm tra ảnh có phải do AI tạo không (\"check ảnh AI\")",
+      "name": "content-credentials-verify",
+      "alt": "Công cụ kiểm tra Content Credentials của ảnh",
+      "captured": "2026-11-24"
+    }
+  ],
+  "top-cong-cu-tao-video-ai": [
+    {
+      "url": "https://deepmind.google/models/veo/",
+      "after": "## 1. Google Veo: chân thực, có âm thanh",
+      "name": "deepmind-veo",
+      "alt": "Trang mô hình Veo của Google DeepMind",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://kling.ai/",
+      "after": "## 2. Kling AI: biến ảnh thành video tốt nhất trong tầm giá",
+      "name": "kling-ai",
+      "alt": "Trang chủ Kling AI",
+      "captured": "2026-11-24"
+    },
+    {
+      "url": "https://github.com/Wan-Video/Wan2.2",
+      "after": "## 10. Wan và các mô hình mã nguồn mở",
+      "name": "github-wan",
+      "alt": "Repo Wan 2.2 trên GitHub",
+      "captured": "2026-11-24"
+    }
+  ]
+}

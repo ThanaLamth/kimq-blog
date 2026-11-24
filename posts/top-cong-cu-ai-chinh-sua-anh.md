@@ -10,6 +10,20 @@ author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
 dataDate: 2026-11-23
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://gemini.google/overview/image-generation/
+  - https://github.com/upscayl/upscayl
+  - https://github.com/Comfy-Org/ComfyUI
+  - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  - https://github.com/lllyasviel/Fooocus
+  - https://github.com/xinntao/Real-ESRGAN
+  - https://github.com/TencentARC/GFPGAN
+  - https://github.com/danielgatis/rembg
+  - https://github.com/sczhou/CodeFormer
+  - https://github.com/Sanster/IOPaint
+  - https://contentcredentials.org/verify
 status: ready
 type: pillar
 ---
@@ -47,6 +61,10 @@ Các hướng dẫn chi tiết (làm nét ảnh, ghép mặt, tạo logo, mở r
 
 Mô hình ảnh của Google trong ứng dụng **Gemini**, thường gọi là **Nano Banana**, cho phép **tải nhiều ảnh lên và ra lệnh bằng tiếng Việt**: ghép người vào bối cảnh mới, đổi trang phục, đổi màu sản phẩm, thêm chữ.
 
+![Trang tính năng tạo và chỉnh ảnh của Gemini](../images/top-cong-cu-ai-chinh-sua-anh/gemini-tao-anh.webp)
+
+*Ảnh chụp màn hình: Trang tính năng tạo và chỉnh ảnh của Gemini. Nguồn: [gemini.google](https://gemini.google/overview/image-generation/), chụp ngày 24/11/2026.*
+
 - **Ví dụ:** *"Ghép người trong ảnh 1 vào khung cảnh bãi biển ở ảnh 2, giữ nguyên khuôn mặt, ánh sáng hoàng hôn, trông tự nhiên."*
 - **Ưu:** miễn phí có hạn mức, hiểu tiếng Việt, giữ khuôn mặt khá tốt.
 - **Lưu ý:** ảnh có hình mờ hiển thị và hình mờ ẩn SynthID. Ở Việt Nam, chỉ gói **AI Ultra** mới tắt được hình mờ hiển thị.
@@ -69,6 +87,10 @@ Hợp với người cần kiểm soát từng điểm ảnh và in ấn chất 
 ## 4. Làm nét ảnh bằng AI: Upscayl và Real-ESRGAN
 
 **Upscayl** là ứng dụng **miễn phí, mã nguồn mở** cho Windows, macOS, Linux: kéo ảnh vào, chọn mức phóng to (2x, 4x), AI làm nét và tăng độ phân giải. Chạy hoàn toàn trên máy, không tải ảnh lên mạng. Bên dưới dùng các mô hình họ **Real-ESRGAN**.
+
+![Repo Upscayl trên GitHub](../images/top-cong-cu-ai-chinh-sua-anh/github-upscayl.webp)
+
+*Ảnh chụp màn hình: Repo Upscayl trên GitHub. Nguồn: [github.com](https://github.com/upscayl/upscayl), chụp ngày 24/11/2026.*
 
 - **Hợp với:** ảnh sản phẩm nhỏ, ảnh chụp màn hình mờ, ảnh cũ độ phân giải thấp.
 - **Cần:** card đồ hoạ hỗ trợ Vulkan để chạy nhanh.
@@ -112,6 +134,10 @@ Với người không rành kỹ thuật: hỏi Gemini *"Phục hồi ảnh cũ 
 2. **Content Credentials (C2PA):** nhiều công cụ (Adobe, Google, OpenAI) gắn thông tin nguồn gốc vào ảnh. Kiểm tra tại [contentcredentials.org/verify](https://contentcredentials.org/verify). Thông tin này mất nếu ảnh bị chụp màn hình hoặc đăng qua nền tảng xoá siêu dữ liệu.
 3. **Quan sát bằng mắt:** bàn tay, chữ trong ảnh, đồ trang sức, phản chiếu, nền bị méo thường lộ dấu hiệu AI.
 
+![Công cụ kiểm tra Content Credentials của ảnh](../images/top-cong-cu-ai-chinh-sua-anh/content-credentials-verify.webp)
+
+*Ảnh chụp màn hình: Công cụ kiểm tra Content Credentials của ảnh. Nguồn: [contentcredentials.org](https://contentcredentials.org/verify), chụp ngày 24/11/2026.*
+
 Không có cách nào chắc chắn 100%; hãy kết hợp cả ba.
 
 ## Ảnh đẹp rồi, bước tiếp theo?
@@ -140,6 +166,8 @@ AI "đoán" thêm chi tiết nên ảnh nét hơn nhưng có thể sai khác b�
 Đổi tỉ lệ khung hình (ảnh ngang thành dọc cho TikTok, Story), thêm khoảng trống để đặt chữ, cứu ảnh bị cắt sát.
 
 ---
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

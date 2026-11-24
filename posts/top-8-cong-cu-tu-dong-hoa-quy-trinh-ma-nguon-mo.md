@@ -9,6 +9,19 @@ author: Đội sản phẩm KimQ
 published: 2026-11-20
 updated: 2026-11-20
 dataDate: 2026-11-20
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://github.com/n8n-io/n8n
+  - https://github.com/huginn/huginn
+  - https://github.com/apache/airflow
+  - https://github.com/kestra-io/kestra
+  - https://github.com/activepieces/activepieces
+  - https://github.com/temporalio/temporal
+  - https://github.com/node-red/node-red
+  - https://github.com/windmill-labs/windmill
+  - https://github.com/automatisch/automatisch
+  - https://github.com/triggerdotdev/trigger.dev
 status: ready
 pillar: huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep
 cluster: "C1.2 Phần mềm vận hành"
@@ -45,6 +58,10 @@ Dưới đây là **8 repo GitHub đáng dùng nhất**, số liệu lấy ngày
 
 **n8n** cho bạn nối hàng trăm ứng dụng (Gmail, Google Sheets, Slack, cơ sở dữ liệu, API bất kỳ) bằng giao diện kéo thả, và chèn code JavaScript hoặc Python khi cần. Có sẵn các khối AI để gọi mô hình ngôn ngữ, đọc tài liệu, dựng agent.
 
+![Repo n8n trên GitHub](../images/top-8-cong-cu-tu-dong-hoa-quy-trinh-ma-nguon-mo/github-n8n.webp)
+
+*Ảnh chụp màn hình: Repo n8n trên GitHub. Nguồn: [github.com](https://github.com/n8n-io/n8n), chụp ngày 24/11/2026.*
+
 - **Ví dụ dùng:** đơn mới trên website, tạo dòng trong Google Sheets, nhắn nhóm kinh doanh, gửi email xác nhận.
 - **Lưu ý giấy phép:** n8n **không phải mã nguồn mở theo nghĩa OSI**. Giấy phép Sustainable Use cho phép dùng và sửa **cho mục đích nội bộ của doanh nghiệp** hoặc phi thương mại. Không được bán lại n8n như một dịch vụ cho khách. Tệp có `.ee.` trong tên cần giấy phép Enterprise.
 - **Hợp với:** đa số doanh nghiệp vừa và nhỏ muốn tự động hoá nội bộ.
@@ -60,6 +77,10 @@ Dưới đây là **8 repo GitHub đáng dùng nhất**, số liệu lấy ngày
 
 **Airflow** là chuẩn phổ biến cho đội dữ liệu: viết luồng bằng Python, đặt lịch, theo dõi lần chạy, chạy lại bước lỗi.
 
+![Repo Apache Airflow trên GitHub](../images/top-8-cong-cu-tu-dong-hoa-quy-trinh-ma-nguon-mo/github-airflow.webp)
+
+*Ảnh chụp màn hình: Repo Apache Airflow trên GitHub. Nguồn: [github.com](https://github.com/apache/airflow), chụp ngày 24/11/2026.*
+
 - **Ví dụ dùng:** mỗi đêm lấy dữ liệu bán hàng, đối soát, cập nhật báo cáo quản trị.
 - **Lưu ý:** cần người biết Python và vận hành máy chủ. Không dành cho người không chuyên.
 
@@ -72,6 +93,10 @@ Dưới đây là **8 repo GitHub đáng dùng nhất**, số liệu lấy ngày
 ## 5. Activepieces: thay Zapier cho người không chuyên
 
 **Activepieces** có giao diện gần Zapier, hàng trăm "piece" kết nối sẵn, và hỗ trợ MCP để agent AI gọi công cụ.
+
+![Repo Activepieces trên GitHub](../images/top-8-cong-cu-tu-dong-hoa-quy-trinh-ma-nguon-mo/github-activepieces.webp)
+
+*Ảnh chụp màn hình: Repo Activepieces trên GitHub. Nguồn: [github.com](https://github.com/activepieces/activepieces), chụp ngày 24/11/2026.*
 
 - **Giấy phép:** MIT cho phần lõi; thư mục `ee/` có giấy phép riêng.
 - **Hợp với:** phòng kinh doanh, marketing tự dựng luồng mà không cần lập trình viên.
@@ -119,6 +144,7 @@ Dưới đây là **8 repo GitHub đáng dùng nhất**, số liệu lấy ngày
 - **Có bước người duyệt** trước khi ghi sổ hoặc gửi cho khách.
 - **Có nhật ký và cảnh báo khi lỗi.** Luồng lỗi âm thầm còn nguy hiểm hơn làm tay.
 - **Một người chịu trách nhiệm** cho mỗi luồng: biết nó làm gì, sửa khi lỗi.
+- **Nối với phần mềm kế toán đang dùng.** Nếu chưa có hệ thống ghi sổ, xem [Top 8 phần mềm ERP, kế toán mã nguồn mở](top-8-phan-mem-erp-ke-toan-ma-nguon-mo.md) để chọn nơi luồng tự động ghi dữ liệu vào.
 
 Nếu doanh nghiệp muốn tự động hoá xuất hoá đơn điện tử, đối soát ba chiều mà không tự dựng hạ tầng, xem [Tự động hoá vận hành của KimQ](https://kimq.tech/san-pham/tu-dong-hoa).
 
@@ -133,6 +159,8 @@ Với n8n hay Activepieces, một máy chủ ảo 2 nhân, 4 GB RAM thường đ
 **Tự cài có an toàn hơn Zapier không?**
 Dữ liệu nằm trên máy chủ của bạn, nhưng bạn phải tự cập nhật bản vá, sao lưu, đặt mật khẩu mạnh và không mở cổng quản trị ra Internet.
 
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

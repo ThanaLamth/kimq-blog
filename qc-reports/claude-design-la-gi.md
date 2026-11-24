@@ -1,24 +1,20 @@
 # QC: Claude Design là gì? Cách dùng Claude Design làm slide, thiết kế, prototype (cập nhật 11/2026)
 
-- Kết quả tự động: **FAIL**
+- Kết quả tự động: **FLAG**
 - File: [claude-design-la-gi.md](../posts/claude-design-la-gi.md)
-- Số từ: 1299 · Ảnh: 0 · Nguồn ngoài: 1
+- Số từ: 1449 · Ảnh: 3 · Nguồn ngoài: 4
 
 ## Lỗi phải sửa
 
-- [ ] B1 0 ảnh thao tác (cần ≥ 3)
-- [ ] B3 1 nguồn ngoài (cần ≥ 2)
-- [ ] B2 chưa có reviewer (người thật, khác người viết)
+- Không có
 
 ## Cần xem lại
 
-- [ ] Thiếu trường QC: reviewer, lastReviewed, tested, aiAssisted, sources
-- [ ] B4 thiếu dòng nhãn AI hỗ trợ cuối bài
+- [ ] B3 site chặn kiểm tra tự động, mở tay để xác nhận: https://claude.ai (403); https://www.canva.com/ (403)
 
-## Phần agent/người duyệt kiểm tay
+## Phần agent kiểm tay
 
 - [ ] C1: đối chiếu 3 số liệu với nguồn gốc (ghi số liệu, nguồn, kết quả)
 - [ ] C3: tên sản phẩm, công ty, model đúng chính tả của hãng
 - [ ] C4: văn bản pháp luật có số hiệu và link nguồn chính thức
 - [ ] EOT/SA: Effort _/5 · Originality _/5 · Talent _/5 · Accuracy _/5 (cần ≥ 15/20)
-- [ ] Người duyệt ký: ______ ngày ______

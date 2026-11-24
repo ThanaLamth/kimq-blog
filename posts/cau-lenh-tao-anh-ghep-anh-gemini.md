@@ -2,7 +2,7 @@
 title: "35 câu lệnh tạo ảnh, ghép ảnh trên Gemini bằng tiếng Việt (kèm cách xử lý logo Gemini, 11/2026)"
 slug: cau-lenh-tao-anh-ghep-anh-gemini
 path: /kien-thuc/cau-lenh-tao-anh-ghep-anh-gemini
-description: "Mẫu câu lệnh (prompt) tạo ảnh và ghép ảnh trên Gemini (Nano Banana) bằng tiếng Việt: ảnh sản phẩm, chân dung, ghép người, đổi nền, poster. Công thức viết câu lệnh, cách xử lý logo Gemini trên ảnh, ưu đãi Gemini cho sinh viên."
+description: "35 câu lệnh tạo ảnh, ghép ảnh trên Gemini (Nano Banana) bằng tiếng Việt: ảnh sản phẩm, chân dung, đổi nền, poster. Kèm cách xử lý logo Gemini và ưu đãi sinh viên."
 category: Công cụ AI
 tags: [gemini, câu lệnh tạo ảnh gemini, ghép ảnh gemini, nano banana, prompt tạo ảnh]
 keywords: [câu lệnh ghép ảnh trên gemini, câu lệnh tạo ảnh trên gemini, xoá logo gemini, xóa logo gemini trên ảnh, gemini sinh viên, gemini pro cho sinh viên, gemini pro sinh viên, gemini cho sinh viên]
@@ -10,6 +10,13 @@ author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
 dataDate: 2026-11-23
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://gemini.google.com
+  - https://gemini.google/overview/image-generation/
+  - https://deepmind.google/models/synthid/
+  - https://gemini.google/vn/students/?hl=vi
 status: ready
 pillar: top-cong-cu-ai-chinh-sua-anh
 cluster: "C3.1 Tạo ảnh bằng AI"
@@ -28,6 +35,10 @@ Thông tin kiểm tra trên trang hỗ trợ chính thức của Google ngày **
 3. Muốn ghép, sửa ảnh: bấm **+** để tải lên 1 hoặc nhiều ảnh.
 4. Gõ câu lệnh, gửi, rồi tiếp tục nhắn để chỉnh ("sáng hơn", "đổi nền trắng").
 5. Bấm vào ảnh để tải về.
+
+![Trang giới thiệu tính năng tạo và chỉnh ảnh của Gemini](../images/cau-lenh-tao-anh-ghep-anh-gemini/gemini-tao-anh.webp)
+
+*Ảnh chụp màn hình: Trang giới thiệu tính năng tạo và chỉnh ảnh của Gemini. Nguồn: [gemini.google](https://gemini.google/overview/image-generation/), chụp ngày 24/11/2026.*
 
 ## Công thức viết câu lệnh tạo ảnh
 
@@ -101,6 +112,10 @@ Tải các ảnh lên trước, rồi gọi "ảnh 1", "ảnh 2" theo thứ tự
 
 Ảnh, video tạo bằng Gemini có **hai lớp đánh dấu**:
 
+![Trang SynthID của Google DeepMind giải thích dấu thuỷ vân ẩn trên ảnh AI](../images/cau-lenh-tao-anh-ghep-anh-gemini/synthid.webp)
+
+*Ảnh chụp màn hình: Trang SynthID của Google DeepMind giải thích dấu thuỷ vân ẩn trên ảnh AI. Nguồn: [deepmind.google](https://deepmind.google/models/synthid/), chụp ngày 24/11/2026.*
+
 | Lớp | Là gì | Tắt được không? |
 |---|---|---|
 | **Hình mờ hiển thị** (biểu tượng Gemini ở góc ảnh) | Cho người xem biết ảnh do AI tạo | Có cài đặt bật/tắt trên web tại **Settings → Media → Watermark** (tên mục trên giao diện tiếng Việt có thể khác). **Ở Việt Nam, Ấn Độ, Hàn Quốc, chỉ gói AI Ultra mới thấy cài đặt này**; gói khác luôn có hình mờ |
@@ -114,6 +129,10 @@ Tải các ảnh lên trước, rồi gọi "ảnh 1", "ảnh 2" theo thứ tự
 ## Gemini cho sinh viên: dùng miễn phí thế nào?
 
 Theo [trang Gemini cho sinh viên của Google tại Việt Nam](https://gemini.google/vn/students/?hl=vi), sinh viên đủ điều kiện nhận **gói dành cho sinh viên miễn phí 1 năm**:
+
+![Trang ưu đãi Gemini cho sinh viên Việt Nam](../images/cau-lenh-tao-anh-ghep-anh-gemini/gemini-sinh-vien.webp)
+
+*Ảnh chụp màn hình: Trang ưu đãi Gemini cho sinh viên Việt Nam. Nguồn: [gemini.google](https://gemini.google/vn/students/?hl=vi), chụp ngày 24/11/2026.*
 
 - Hạn mức sử dụng cao gấp 2 lần, **400 GB** lưu trữ đám mây, quyền dùng các tính năng nâng cao (sổ tay học tập, Gemini Live, tạo ảnh, video…).
 - **Hạn nhận ưu đãi: 31/12/2026.**
@@ -140,6 +159,8 @@ Gemini hiểu tiếng Việt tốt. Với chữ hiển thị trong ảnh, viết
 Đọc điều khoản dịch vụ của Google và quy định quảng cáo của từng nền tảng; tránh dùng hình người thật khi chưa được phép, và gắn nhãn nội dung AI khi cần.
 
 ---
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

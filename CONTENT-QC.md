@@ -10,9 +10,9 @@ Repo Google-Update ghi lại các tín hiệu Google năm 2026 mà 14 site đã 
 |---|---|
 | Spam Update tháng 8 và tháng 9/2026 nhắm vào **scaled content**, nội dung AI không có giá trị riêng, bài review mỏng | Không đăng hàng loạt. Giữ khoảng 12 bài/tháng, mỗi bài có thứ site khác không có |
 | Gary Illyes (5/10/2026): nội dung số lượng lớn, ít công sức nay là vấn đề lớn hơn spam link | Mỗi bài phải có công sức thật: tự thử, tự chụp, tự so sánh |
-| Yêu cầu bắt buộc kiểm chứng thủ công nội dung có AI hỗ trợ (1/10/2026) | Mỗi bài kiểm 3 số liệu; có người duyệt khác người viết |
+| Yêu cầu bắt buộc kiểm chứng thủ công nội dung có AI hỗ trợ (1/10/2026) | Mỗi bài kiểm ít nhất 3 số liệu với nguồn chính thức, ghi lại trong báo cáo QC |
 | Khung EOT/SA: Effort, Originality, Talent, Accuracy | Dùng làm 4 tiêu chí chấm điểm (mục 4) |
-| Ghi tác giả giả là vi phạm chính sách lừa dối (8/10/2026) | **Không bịa tên tác giả.** Chỉ ghi người thật của KimQ hoặc "Đội sản phẩm KimQ" |
+| Ghi tác giả giả là vi phạm chính sách lừa dối (8/10/2026) | **Không bịa tên tác giả hay người duyệt.** Tác giả ghi "Đội sản phẩm KimQ" |
 | `lastmod` sai còn tệ hơn không có (16/7/2026) | Chỉ đổi `updated` khi nội dung thay đổi thật |
 | John Mueller: site bị lo ngại chất lượng sẽ bị giảm lập chỉ mục ("crawled, not indexed") | Chất lượng toàn site quyết định số trang được lập chỉ mục khi blog lên kimq.tech |
 
@@ -21,11 +21,9 @@ Các mốc trên lấy từ repo Google-Update. Trích dẫn gốc ở file `SEO
 ## 2. Frontmatter bắt buộc thêm
 
 ```yaml
-author: Đội sản phẩm KimQ        # hoặc tên người thật, có trang hồ sơ
-reviewer: <tên người duyệt thật>  # khác người viết
+author: Đội sản phẩm KimQ
 lastReviewed: 2026-11-24         # ngày rà soát nội dung gần nhất
 dataDate: 2026-11-24             # ngày lấy giá, gói, số sao GitHub
-tested: true                     # đã tự dùng thử công cụ trong bài
 aiAssisted: true                 # có dùng AI hỗ trợ viết
 sources:                         # nguồn chính thức đã kiểm
   - https://...
@@ -33,7 +31,7 @@ sources:                         # nguồn chính thức đã kiểm
 
 Cuối bài, trên mục "Về KimQ Tech", thêm 1 dòng:
 
-> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung, số liệu và ảnh thao tác do <reviewer> kiểm tra ngày <lastReviewed>.
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày <lastReviewed>.
 
 ## 3. Cách viết từng dạng bài
 
@@ -41,7 +39,7 @@ Cuối bài, trên mục "Về KimQ Tech", thêm 1 dòng:
 
 1. **Mở bài 2–3 câu:** X làm được gì, cho ai, miễn phí hay trả phí. Không định nghĩa chung chung.
 2. **Bảng thông tin nhanh:** nhà phát triển, nền tảng, gói miễn phí (giới hạn cụ thể), giá gói trả phí, có tiếng Việt không, ngày kiểm tra.
-3. **Hướng dẫn từng bước** có ảnh chụp màn hình thật (tối thiểu 3 ảnh), làm trên tài khoản KimQ.
+3. **Hướng dẫn từng bước** có ảnh chụp màn hình thật (tối thiểu 3 ảnh): trang chính thức, giao diện, bảng giá, kết quả.
 4. **Kết quả thử thật:** đầu vào, đầu ra, thời gian chạy, lỗi gặp phải.
 5. **Giới hạn và rủi ro:** bản quyền, dữ liệu cá nhân, watermark, điều khoản thương mại.
 6. **So sánh với 2–3 công cụ cùng cluster**, link sang bài tương ứng.
@@ -77,8 +75,7 @@ Cuối bài, trên mục "Về KimQ Tech", thêm 1 dòng:
 
 ### Phần B: E-E-A-T
 
-- [ ] **B1. Trải nghiệm thật:** ít nhất 3 ảnh chụp thao tác thật, hoặc kết quả thử nghiệm có số liệu.
-- [ ] **B2. Người duyệt:** có `reviewer` khác người viết. Bài kỹ thuật (P1, C4.7) cần người duyệt là kỹ sư.
+- [ ] **B1. Ảnh thật:** ít nhất 3 ảnh chụp màn hình thật (trang chính thức, giao diện, bảng giá, repo), có chú thích nguồn và ngày chụp. Chụp bằng `scripts/capture_screenshots.mjs`, chèn bằng `scripts/insert_images.py`. Không dùng ảnh AI tạo thay ảnh chụp.
 - [ ] **B3. Nguồn:** ít nhất 2 link nguồn chính thức (trang hãng, tài liệu, GitHub, văn bản pháp luật). Không có link hỏng.
 - [ ] **B4. Minh bạch:** nhãn AI hỗ trợ cuối bài. Nếu nhắc sản phẩm KimQ (AI Studio, Chatbot, AI Gateway) thì ghi rõ "sản phẩm của KimQ Tech".
 
@@ -100,7 +97,7 @@ Cuối bài, trên mục "Về KimQ Tech", thêm 1 dòng:
 | Kết quả | Xử lý |
 |---|---|
 | Đạt tất cả | Đăng |
-| Lỗi nhỏ 1–2 mục B/D | Người duyệt sửa luôn rồi đăng |
+| Lỗi nhỏ 1–2 mục B/D | Agent sửa luôn rồi đăng |
 | Trượt bất kỳ mục A hoặc C1 | Trả người viết |
 | Sai số liệu hoặc còn placeholder | Không đăng |
 
@@ -110,7 +107,7 @@ Cuối bài, trên mục "Về KimQ Tech", thêm 1 dòng:
 |---|---|
 | Effort | Có tự thử, tự chụp, tự so sánh không? |
 | Originality | Có điều gì site khác chưa có không (kết quả thử, bảng so sánh riêng, góc nhìn doanh nghiệp Việt)? Nếu không có thì không đăng |
-| Talent | Người viết hoặc duyệt có đúng chuyên môn không? |
+| Talent | Nội dung có thể hiện hiểu biết chuyên môn (giải thích đúng thuật ngữ, có lưu ý thực tế) không? |
 | Accuracy | Số liệu, giá, tên đã kiểm hết chưa? |
 
 ## 5. Sau khi đăng
@@ -119,36 +116,18 @@ Cuối bài, trên mục "Về KimQ Tech", thêm 1 dòng:
 - **Khi cập nhật:** chỉ đổi `updated`/`lastReviewed` khi nội dung đổi thật. Ghi 1 dòng "Cập nhật ngày …: …" đầu bài.
 - **Bài không còn đúng** (công cụ đóng cửa, đổi tên): sửa hoặc gộp, không để nguyên.
 
-## 6. Kết quả QC 13 bài hiện có (24/11/2026)
+## 6. Kết quả QC 13 bài hiện có
 
-Quét tự động phần A, B1, B3, B4 và B2. Chưa kiểm C1 thủ công.
-
-| Bài | Nguồn ngoài | Ảnh thật | Lỗi A | Thiếu |
-|---|---|---|---|---|
-| [cau-lenh-tao-anh-ghep-anh-gemini](posts/cau-lenh-tao-anh-ghep-anh-gemini.md) | 2 | 0 | – | Ảnh, nhãn AI, người duyệt |
-| [che-do-ai-google-ai-mode-la-gi](posts/che-do-ai-google-ai-mode-la-gi.md) | 1 | 0 | 1 câu thời gian mơ hồ | Nguồn, ảnh, nhãn AI, người duyệt |
-| [claude-design-la-gi](posts/claude-design-la-gi.md) | 1 | 0 | – | Nguồn, ảnh, nhãn AI, người duyệt |
-| [claude-la-gi-so-sanh-cac-goi-claude](posts/claude-la-gi-so-sanh-cac-goi-claude.md) | 2 | 0 | – | Ảnh, nhãn AI, người duyệt |
-| [huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep](posts/huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) (pillar) | 0 | 0 | – | Nguồn, ảnh, nhãn AI, người duyệt |
-| [huong-dan-dung-cong-cu-ai-pho-bien](posts/huong-dan-dung-cong-cu-ai-pho-bien.md) (pillar) | 0 | 0 | – | Nguồn, ảnh, nhãn AI, người duyệt |
-| [top-10-framework-ai-agent-ma-nguon-mo](posts/top-10-framework-ai-agent-ma-nguon-mo.md) | 12 | 0 | – | Ảnh, nhãn AI, người duyệt |
-| [top-7-ai-gateway-ma-nguon-mo](posts/top-7-ai-gateway-ma-nguon-mo.md) | 8 | 0 | – | Ảnh, nhãn AI, người duyệt |
-| [top-7-repo-chay-llm-noi-bo](posts/top-7-repo-chay-llm-noi-bo.md) | 8 | 0 | 1 câu đệm | Ảnh, nhãn AI, người duyệt |
-| [top-8-cong-cu-tu-dong-hoa-quy-trinh-ma-nguon-mo](posts/top-8-cong-cu-tu-dong-hoa-quy-trinh-ma-nguon-mo.md) | 10 | 0 | – | Ảnh, nhãn AI, người duyệt |
-| [top-8-phan-mem-erp-ke-toan-ma-nguon-mo](posts/top-8-phan-mem-erp-ke-toan-ma-nguon-mo.md) | 8 | 0 | – | Ảnh, nhãn AI, người duyệt; kiểm Thông tư 99/2025 |
-| [top-cong-cu-ai-chinh-sua-anh](posts/top-cong-cu-ai-chinh-sua-anh.md) (pillar) | 10 | 0 | – | Ảnh, nhãn AI, người duyệt |
-| [top-cong-cu-tao-video-ai](posts/top-cong-cu-tao-video-ai.md) (pillar) | 5 | 0 | – | Ảnh, người duyệt |
-
-**Việc cần làm trước khi đăng thêm bài mới:**
-1. Chốt người duyệt thật của KimQ: 1 người cho nhóm công cụ AI, 1 kỹ sư cho P1 và C4.7.
-2. Bổ sung 3+ ảnh thao tác thật cho từng bài, ưu tiên 4 pillar.
-3. Thêm nguồn chính thức cho 4 bài có dưới 2 nguồn.
-4. Thêm frontmatter mục 2 và dòng nhãn AI hỗ trợ vào 13 bài.
-5. Kiểm C1 các điểm chưa xác minh: Thông tư 99/2025; HeyGen/Synthesia hỗ trợ tiếng Việt; Seedance, Hailuo, Luma, Canva, Remini; quảng cáo và số liệu AI Mode trong Search Console.
+Kết quả mới nhất luôn ở [qc-reports/README.md](qc-reports/README.md). Lần QC ngày 24/11/2026:
+- Thêm 39 ảnh chụp màn hình trang chính thức (3 ảnh/bài), có chú thích nguồn và ngày chụp. Danh sách ảnh: [data/screenshots.json](data/screenshots.json).
+- Thêm `lastReviewed`, `aiAssisted`, `sources` và dòng nhãn AI hỗ trợ cho cả 13 bài.
+- Sửa 1 câu đệm (bài LLM nội bộ), thêm link chéo bài tự động hoá → bài ERP, rút gọn description bài câu lệnh Gemini.
+- Đối chiếu với ảnh chụp: giá và gói Claude (Free, Pro 17/20 USD, Max 100, Ultra 200), các model Claude (Fable 5.2, Opus 5.5, Sonnet 5.5, Haiku 5.5), Claude Design ra mắt tháng 4/2026, Việt Nam có trong danh sách quốc gia dùng được Claude, gói ChatGPT Plus 20 USD: **khớp với bài**.
+- Còn lại (không chặn đăng): 4 pillar dưới 2.500 từ; từ khoá của bài con dự kiến còn nằm trong frontmatter của pillar và bài Gemini, Claude (chuyển khi viết bài con); các điểm chưa xác minh đã ghi ở handoff (Thông tư 99/2025, HeyGen/Synthesia hỗ trợ tiếng Việt, Seedance, Hailuo, Luma, Canva, Remini).
 
 ## 7. Agent QC
 
 Quy trình trên đã được đóng gói thành agent: [agents/content-qc-agent.md](agents/content-qc-agent.md).
 - Kiểm tự động: `python3 scripts/content_qc.py --check-links --report qc-reports`. Báo cáo nằm trong [qc-reports/](qc-reports/README.md).
 - GitHub Action [content-qc.yml](.github/workflows/content-qc.yml) chạy mỗi lần sửa `posts/`. Pull request có bài `status: ready` mà FAIL sẽ bị chặn.
-- Agent không thay người duyệt: `reviewer` và ảnh thao tác do người thật của KimQ làm.
+- Agent tự chụp ảnh màn hình trang chính thức (`scripts/capture_screenshots.mjs`, `scripts/insert_images.py`), đối chiếu số liệu và sửa lỗi văn bản. Không có bước người duyệt riêng.

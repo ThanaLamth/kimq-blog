@@ -10,6 +10,13 @@ author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
 dataDate: 2026-11-23
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://www.anthropic.com/news/claude-design-anthropic-labs
+  - https://claude.ai
+  - https://claude.com/pricing
+  - https://www.canva.com/
 status: ready
 pillar: huong-dan-dung-cong-cu-ai-pho-bien
 cluster: "C4.1 Claude"
@@ -31,6 +38,10 @@ Thông tin trong bài kiểm tra trên trang chính thức của Anthropic ngày
 | Xuất ra gì? | PowerPoint (PPTX), PDF, HTML, thư mục; gửi sang Canva và nhiều ứng dụng khác |
 | Tiếng Việt? | Viết câu lệnh và nội dung tiếng Việt được |
 
+![Bài công bố Claude Design của Anthropic Labs](../images/claude-design-la-gi/anthropic-claude-design.webp)
+
+*Ảnh chụp màn hình: Bài công bố Claude Design của Anthropic Labs. Nguồn: [anthropic.com](https://www.anthropic.com/news/claude-design-anthropic-labs), chụp ngày 24/11/2026.*
+
 ## Claude Design làm được gì?
 
 - **Slide thuyết trình:** từ dàn ý thô thành bộ slide đúng màu thương hiệu, xuất PPTX để chỉnh tiếp trong PowerPoint.
@@ -50,6 +61,10 @@ Thông tin trong bài kiểm tra trên trang chính thức của Anthropic ngày
    - sửa chữ trực tiếp;
    - kéo các thanh điều chỉnh (khoảng cách, màu, bố cục) mà Claude tạo sẵn.
 5. **Xuất file:** bấm **Export** ở góc trên bên phải, chọn PPTX, PDF, HTML, hoặc gửi sang Canva.
+
+![Trang giá các gói Claude](../images/claude-design-la-gi/claude-pricing.webp)
+
+*Ảnh chụp màn hình: Trang giá các gói Claude. Nguồn: [claude.com](https://claude.com/pricing), chụp ngày 24/11/2026.*
 
 **Mẹo:** muốn thử hướng khác mà không mất bản cũ, hãy nhắn: *"Lưu bản hiện tại và thử một hướng hoàn toàn khác."*
 
@@ -87,6 +102,10 @@ Khi được cấp quyền, Claude có thể **đọc mã nguồn hoặc file th
 
 Chưa hẳn. Claude Design mạnh ở **tạo bản đầu tiên rất nhanh** từ mô tả và tài liệu. Canva vẫn tiện để chỉnh chi tiết, có kho mẫu và ảnh lớn; Figma vẫn là công cụ chính của nhà thiết kế chuyên nghiệp. Cách dùng hiệu quả: **Claude Design tạo bản nháp → gửi sang Canva hoặc PowerPoint → chỉnh hoàn thiện.**
 
+![Trang chủ Canva](../images/claude-design-la-gi/canva.webp)
+
+*Ảnh chụp màn hình: Trang chủ Canva. Nguồn: [canva.com](https://www.canva.com/), chụp ngày 24/11/2026.*
+
 ## Muốn làm video thay vì ảnh, slide?
 
 Claude Design tập trung vào thiết kế tĩnh và prototype. Nếu doanh nghiệp cần **video dọc giới thiệu sản phẩm có giọng đọc tiếng Việt và phụ đề**, xem [AI Studio của KimQ Tech](https://kimq.tech/san-pham/ai-studio) và bài [Top công cụ tạo video AI](top-cong-cu-tao-video-ai.md).
@@ -108,6 +127,8 @@ Thường hiển thị tốt. Nên kiểm tra lại dấu tiếng Việt sau khi
 Tuỳ gói và cài đặt quyền riêng tư của tài khoản. Không tải lên tài liệu mật bằng tài khoản cá nhân; doanh nghiệp nên dùng gói Team hoặc Enterprise.
 
 ---
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

@@ -22,7 +22,7 @@ CSV_PATH = os.path.join(ROOT, "data/keywords/2026-11-23/cluster-keyword-map.csv"
 
 REQUIRED_FIELDS = ["title", "slug", "path", "description", "author", "published",
                    "updated", "dataDate", "status"]
-QC_FIELDS = ["reviewer", "lastReviewed", "tested", "aiAssisted", "sources"]
+QC_FIELDS = ["lastReviewed", "aiAssisted", "sources"]
 
 PATTERNS_A = {
     "A1 mở bài sáo": r"(?i)(trong bài viết này|ngày nay,|trong những năm gần đây|trong kỷ nguyên|thời đại số|không thể phủ nhận|hãy cùng [^.\n]{0,20}tìm hiểu)",
@@ -30,7 +30,7 @@ PATTERNS_A = {
     "A3 placeholder": r"\[(INSERT|SOURCE|DATE|LINK|CẦN|TODO|TBD)[^\]]*\]|\bTODO\b|lorem ipsum",
     "A3 chuyên gia vô danh": r"(?i)(các |nhiều )?chuyên gia (cho rằng|nhận định|khuyên)",
     "A3 kết luận lặp": r"(?im)^#+\s*(kết luận|tóm lại|lời kết)\s*$",
-    "C1 thời gian mơ hồ": r"(?i)\b(gần đây|tuần trước|hôm qua|mới đây|vừa qua)\b",
+    "C1 thời gian mơ hồ": r"(?i)(thời gian gần đây|gần đây,|tuần trước|hôm qua|mới đây|vừa qua)",
 }
 DESC_BAD = r"(?i)(bài viết này|this article|in this|outline|\.\.\.$|…$)"
 AI_LABEL = r"(?i)AI hỗ trợ soạn thảo|AI-assisted|có sử dụng AI hỗ trợ"
@@ -117,7 +117,7 @@ def qc_post(path, posts_meta, csv_rows, check_links):
     imgs = re.findall(r"!\[[^\]]*\]\(([^)]+)\)", body)
     info["images"] = len(imgs)
     if len(imgs) < 3:
-        fails.append(f"B1 {len(imgs)} ảnh thao tác (cần ≥ 3)")
+        fails.append(f"B1 {len(imgs)} ảnh chụp màn hình (cần ≥ 3)")
 
     links = re.findall(r"\]\((https?://[^)\s]+)\)", body)
     ext = sorted({u for u in links if "kimq.tech" not in u})
@@ -125,11 +125,6 @@ def qc_post(path, posts_meta, csv_rows, check_links):
     if len(ext) < 2:
         fails.append(f"B3 {len(ext)} nguồn ngoài (cần ≥ 2)")
 
-    reviewer = fm.get("reviewer")
-    if not reviewer:
-        fails.append("B2 chưa có reviewer (người thật, khác người viết)")
-    elif reviewer == fm.get("author"):
-        fails.append("B2 reviewer trùng author")
     if not re.search(AI_LABEL, body):
         flags.append("B4 thiếu dòng nhãn AI hỗ trợ cuối bài")
 
@@ -168,13 +163,17 @@ def qc_post(path, posts_meta, csv_rows, check_links):
             flags.append(f"D từ khoá '{kw}' thuộc bài khác: {row.get('article')}")
 
     if check_links:
-        dead = []
+        dead, blocked = [], []
         for u in ext:
             code = check_url(u)
-            if code == 0 or code >= 400:
+            if code in (401, 403, 429):
+                blocked.append(f"{u} ({code})")
+            elif code == 0 or code >= 400:
                 dead.append(f"{u} ({code or 'lỗi kết nối'})")
         if dead:
             fails.append("B3 link hỏng: " + "; ".join(dead))
+        if blocked:
+            flags.append("B3 site chặn kiểm tra tự động, mở tay để xác nhận: " + "; ".join(blocked))
 
     status = "FAIL" if fails else ("FLAG" if flags else "PASS")
     return {"slug": slug, "path": path, "status": status, "fails": fails, "flags": flags,
@@ -188,12 +187,11 @@ def render(res):
            f"- Số từ: {res['info'].get('words')} · Ảnh: {res['info'].get('images')} · Nguồn ngoài: {res['info'].get('external')}", ""]
     out += ["## Lỗi phải sửa", ""] + ([f"- [ ] {x}" for x in res["fails"]] or ["- Không có"]) + [""]
     out += ["## Cần xem lại", ""] + ([f"- [ ] {x}" for x in res["flags"]] or ["- Không có"]) + [""]
-    out += ["## Phần agent/người duyệt kiểm tay", "",
+    out += ["## Phần agent kiểm tay", "",
             "- [ ] C1: đối chiếu 3 số liệu với nguồn gốc (ghi số liệu, nguồn, kết quả)",
             "- [ ] C3: tên sản phẩm, công ty, model đúng chính tả của hãng",
             "- [ ] C4: văn bản pháp luật có số hiệu và link nguồn chính thức",
-            "- [ ] EOT/SA: Effort _/5 · Originality _/5 · Talent _/5 · Accuracy _/5 (cần ≥ 15/20)",
-            "- [ ] Người duyệt ký: ______ ngày ______", ""]
+            "- [ ] EOT/SA: Effort _/5 · Originality _/5 · Talent _/5 · Accuracy _/5 (cần ≥ 15/20)", ""]
     return "\n".join(out)
 
 

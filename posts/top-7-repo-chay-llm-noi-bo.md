@@ -9,6 +9,17 @@ author: Đội sản phẩm KimQ
 published: 2026-11-20
 updated: 2026-11-20
 dataDate: 2026-11-20
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://github.com/ollama/ollama
+  - https://github.com/ggml-org/llama.cpp
+  - https://github.com/vllm-project/vllm
+  - https://github.com/sgl-project/sglang
+  - https://github.com/mudler/LocalAI
+  - https://github.com/open-webui/open-webui
+  - https://github.com/janhq/jan
+  - https://github.com/lobehub/lobehub
 status: ready
 pillar: huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep
 cluster: "C1.1 AI mã nguồn mở"
@@ -52,6 +63,10 @@ Một hệ thống nội bộ hoàn chỉnh thường là **một động cơ + 
 
 **Ollama** cho phép tải và chạy mô hình bằng một lệnh, ví dụ `ollama run qwen3`. Có sẵn kho mô hình đã đóng gói, chạy trên Windows, macOS, Linux và có API tương thích OpenAI.
 
+![Repo Ollama trên GitHub](../images/top-7-repo-chay-llm-noi-bo/github-ollama.webp)
+
+*Ảnh chụp màn hình: Repo Ollama trên GitHub. Nguồn: [github.com](https://github.com/ollama/ollama), chụp ngày 24/11/2026.*
+
 - **Điểm mạnh:** cài đặt đơn giản nhất; hợp để thử nghiệm và cho nhóm nhỏ.
 - **Điểm cần cân nhắc:** khi nhiều người hỏi cùng lúc trên GPU, vLLM hoặc SGLang thường phục vụ được nhiều yêu cầu hơn.
 - **Giấy phép:** MIT.
@@ -68,13 +83,17 @@ Một hệ thống nội bộ hoàn chỉnh thường là **một động cơ + 
 
 **vLLM** là động cơ phục vụ LLM thông lượng cao, quản lý bộ nhớ GPU tốt để xử lý nhiều yêu cầu song song. Đây là lựa chọn phổ biến khi đưa LLM nội bộ vào chạy thật cho cả công ty.
 
+![Repo vLLM trên GitHub](../images/top-7-repo-chay-llm-noi-bo/github-vllm.webp)
+
+*Ảnh chụp màn hình: Repo vLLM trên GitHub. Nguồn: [github.com](https://github.com/vllm-project/vllm), chụp ngày 24/11/2026.*
+
 - **Điểm mạnh:** nhanh khi nhiều người dùng; hỗ trợ nhiều dòng mô hình; API tương thích OpenAI.
 - **Điểm cần cân nhắc:** cần GPU và người có kinh nghiệm vận hành máy chủ.
 - **Giấy phép:** Apache 2.0.
 
 ## 4. SGLang: tối ưu cho tải lớn
 
-**SGLang** cũng là động cơ phục vụ hiệu năng cao cho LLM và mô hình đa phương thức. Điểm đáng chú ý là tái sử dụng phần đã tính toán khi nhiều câu hỏi có cùng phần đầu (ví dụ cùng một lời nhắc hệ thống dài), giúp giảm thời gian chờ.
+**SGLang** cũng là động cơ phục vụ hiệu năng cao cho LLM và mô hình đa phương thức. Điểm riêng của SGLang là tái sử dụng phần đã tính toán khi nhiều câu hỏi có cùng phần đầu (ví dụ cùng một lời nhắc hệ thống dài), giúp giảm thời gian chờ.
 
 - **Hợp với:** chatbot nội bộ có lời nhắc hệ thống dài, agent gọi mô hình nhiều lần.
 - **Giấy phép:** Apache 2.0.
@@ -89,6 +108,10 @@ Một hệ thống nội bộ hoàn chỉnh thường là **một động cơ + 
 ## 6. Open WebUI: giao diện chat cho cả công ty
 
 **Open WebUI** là giao diện web giống ChatGPT, kết nối được với Ollama hoặc bất kỳ API tương thích OpenAI nào. Có đăng nhập, phân quyền người dùng, nạp tài liệu để hỏi đáp (RAG), lịch sử hội thoại.
+
+![Repo Open WebUI trên GitHub](../images/top-7-repo-chay-llm-noi-bo/github-open-webui.webp)
+
+*Ảnh chụp màn hình: Repo Open WebUI trên GitHub. Nguồn: [github.com](https://github.com/open-webui/open-webui), chụp ngày 24/11/2026.*
 
 - **Điểm mạnh:** dựng trợ lý nội bộ nhanh mà không cần viết giao diện.
 - **Lưu ý giấy phép:** Open WebUI dùng **giấy phép riêng dựa trên BSD-3** có thêm điều khoản giữ thương hiệu: nếu triển khai cho **hơn 50 người dùng trong 30 ngày**, không được gỡ hoặc thay logo "Open WebUI" khi chưa có giấy phép doanh nghiệp. Dùng nội bộ, giữ nguyên thương hiệu thì thường không vướng.
@@ -150,6 +173,8 @@ Ollama ưu tiên dễ dùng, hợp cho thử nghiệm và nhóm nhỏ. vLLM ưu 
 **Dữ liệu có thật sự không ra ngoài không?**
 Có, nếu mô hình, giao diện và cơ sở dữ liệu đều chạy trên hạ tầng của bạn và bạn tắt các tính năng gọi dịch vụ ngoài (tìm kiếm web, mô hình đám mây). Hãy kiểm tra cấu hình mạng để chắc chắn.
 
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

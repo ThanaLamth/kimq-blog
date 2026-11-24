@@ -9,6 +9,12 @@ author: Đội sản phẩm KimQ
 published: 2026-11-22
 updated: 2026-11-22
 dataDate: 2026-11-20
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://github.com/n8n-io/n8n
+  - https://choosealicense.com/licenses/
+  - https://docs.n8n.io/sustainable-use-license/
 status: ready
 type: pillar
 ---
@@ -52,6 +58,10 @@ Chỉ cần dùng công cụ AI có sẵn (Claude, Gemini, tạo ảnh, tạo vi
 
 Số sao chỉ cho biết mức độ quan tâm. Hãy xem thêm:
 
+![Trang repo n8n trên GitHub: số sao, commit gần nhất, giấy phép](../images/huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep/github-repo-n8n.webp)
+
+*Ảnh chụp màn hình: Trang repo n8n trên GitHub: số sao, commit gần nhất, giấy phép. Nguồn: [github.com](https://github.com/n8n-io/n8n), chụp ngày 24/11/2026.*
+
 | Tiêu chí | Xem ở đâu | Dấu hiệu tốt |
 |---|---|---|
 | Còn được bảo trì | Tab Commits, Releases | Có commit, bản phát hành trong 1–3 tháng gần nhất |
@@ -65,6 +75,10 @@ Số sao chỉ cho biết mức độ quan tâm. Hãy xem thêm:
 ## Bước 2: Đọc giấy phép đúng cách
 
 Đây là phần doanh nghiệp hay bỏ qua nhất. Giấy phép quyết định bạn **được làm gì** với phần mềm.
+
+![Bảng so sánh các giấy phép mã nguồn mở phổ biến](../images/huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep/choosealicense.webp)
+
+*Ảnh chụp màn hình: Bảng so sánh các giấy phép mã nguồn mở phổ biến. Nguồn: [choosealicense.com](https://choosealicense.com/licenses/), chụp ngày 24/11/2026.*
 
 | Nhóm | Ví dụ | Dùng nội bộ | Sửa và bán cho khách | Lưu ý |
 |---|---|---|---|---|
@@ -104,6 +118,10 @@ Quy tắc thực tế: nếu không có ít nhất một người kỹ thuật p
 | Nghiệp vụ rất riêng, cần tuỳ biến sâu | Nghiệp vụ phổ biến: công nợ, kho, hoá đơn, chăm sóc khách |
 | Dữ liệu bắt buộc nằm trên hạ tầng nội bộ | Cần chạy được nhanh, có hỗ trợ khi lỗi |
 | Khối lượng lớn, ổn định lâu dài | Đang thử nghiệm, chưa chắc quy mô |
+
+![Trang giấy phép Sustainable Use License của n8n](../images/huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep/n8n-license.webp)
+
+*Ảnh chụp màn hình: Trang giấy phép Sustainable Use License của n8n. Nguồn: [docs.n8n.io](https://docs.n8n.io/sustainable-use-license/), chụp ngày 24/11/2026.*
 
 Hai hướng không loại trừ nhau: nhiều doanh nghiệp dùng giải pháp có sẵn cho phần lõi và tự dựng thêm quy trình riêng bằng công cụ mã nguồn mở.
 
@@ -146,3 +164,5 @@ Mỗi bài ghi ngày lấy số liệu. Chúng tôi cập nhật số sao, trạ
 ---
 
 *Nội dung giấy phép và quy định tóm tắt để tham khảo, không phải tư vấn pháp lý, thuế hay kế toán.*
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.

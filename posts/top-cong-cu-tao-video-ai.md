@@ -10,6 +10,16 @@ author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
 dataDate: 2026-11-23
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://deepmind.google/models/veo/
+  - https://kling.ai/
+  - https://github.com/Wan-Video/Wan2.2
+  - https://github.com/hpcaitech/Open-Sora
+  - https://github.com/Tencent-Hunyuan/HunyuanVideo
+  - https://github.com/Lightricks/LTX-Video
+  - https://github.com/Comfy-Org/ComfyUI
 status: ready
 type: pillar
 ---
@@ -57,6 +67,10 @@ Các hướng dẫn chi tiết từng công cụ (Kling, Viggle, Higgsfield), gi
 
 **Veo** là mô hình video của Google, dùng trong **ứng dụng Gemini** (tạo video 8 giây có âm thanh) và công cụ làm phim **Flow**. Điểm mạnh là hình ảnh chân thực, âm thanh và lời thoại tạo cùng lúc với hình.
 
+![Trang mô hình Veo của Google DeepMind](../images/top-cong-cu-tao-video-ai/deepmind-veo.webp)
+
+*Ảnh chụp màn hình: Trang mô hình Veo của Google DeepMind. Nguồn: [deepmind.google](https://deepmind.google/models/veo/), chụp ngày 24/11/2026.*
+
 - **Hợp với:** quảng cáo ngắn, cảnh sản phẩm, video có thoại.
 - **Miễn phí:** hạn mức theo gói Google AI; sinh viên Việt Nam đủ điều kiện có ưu đãi gói Google AI miễn phí 1 năm (hạn nhận đến 31/12/2026).
 - **Lưu ý:** video tạo bằng Gemini có hình mờ hiển thị và hình mờ ẩn SynthID. Xem bài [Câu lệnh tạo ảnh, ghép ảnh trên Gemini](cau-lenh-tao-anh-ghep-anh-gemini.md).
@@ -64,6 +78,10 @@ Các hướng dẫn chi tiết từng công cụ (Kling, Viggle, Higgsfield), gi
 ## 2. Kling AI: biến ảnh thành video tốt nhất trong tầm giá
 
 **Kling** (của Kuaishou) nổi tiếng với **tạo video từ ảnh**: chuyển động người, vật tự nhiên, clip dài hơn nhiều đối thủ. Người dùng không trả phí nhận **tín dụng miễn phí hằng tháng** khi đăng nhập.
+
+![Trang chủ Kling AI](../images/top-cong-cu-tao-video-ai/kling-ai.webp)
+
+*Ảnh chụp màn hình: Trang chủ Kling AI. Nguồn: [kling.ai](https://kling.ai/), chụp ngày 24/11/2026.*
 
 - **Hợp với:** biến ảnh sản phẩm, ảnh chân dung thành clip động; video TikTok, Reels.
 - **Lưu ý:** gói trả phí không hoàn tiền sau khi kích hoạt; nên dùng hết tín dụng miễn phí để thử trước.
@@ -99,6 +117,10 @@ Nếu bạn cần **một người dẫn nói trước ống kính** (video đà
 ## 10. Wan và các mô hình mã nguồn mở
 
 Muốn **tự chạy, không giới hạn lượt, không gửi dữ liệu ra ngoài**? Có các mô hình video mã nguồn mở trên GitHub:
+
+![Repo Wan 2.2 trên GitHub](../images/top-cong-cu-tao-video-ai/github-wan.webp)
+
+*Ảnh chụp màn hình: Repo Wan 2.2 trên GitHub. Nguồn: [github.com](https://github.com/Wan-Video/Wan2.2), chụp ngày 24/11/2026.*
 
 | Repo | Sao GitHub | Giấy phép mã nguồn | Ghi chú |
 |---|---|---|---|
@@ -170,6 +192,8 @@ Viết câu lệnh tiếng Việt được ở nhiều công cụ; lời thoại
 Được. Gemini, Kling, CapCut, Hailuo đều có ứng dụng điện thoại.
 
 ---
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

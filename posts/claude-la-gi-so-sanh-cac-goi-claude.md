@@ -10,6 +10,13 @@ author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
 dataDate: 2026-11-23
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://claude.ai
+  - https://claude.com/pricing
+  - https://support.anthropic.com/en/articles/8461763-where-can-i-access-claude-and-which-countries-are-supported
+  - https://platform.claude.com/docs/en/about-claude/models/overview
 status: ready
 pillar: huong-dan-dung-cong-cu-ai-pho-bien
 cluster: "C4.1 Claude"
@@ -47,9 +54,17 @@ Claude là một **mô hình ngôn ngữ lớn (LLM)** kèm ứng dụng trò ch
 
 Có. **Việt Nam nằm trong danh sách quốc gia được hỗ trợ** của Anthropic, và Claude hiểu, trả lời tiếng Việt tốt. Bạn đăng ký bằng email hoặc tài khoản Google; gói trả phí thanh toán bằng thẻ quốc tế (Visa, Mastercard).
 
+![Trang hỗ trợ của Anthropic: Việt Nam nằm trong danh sách quốc gia dùng được Claude](../images/claude-la-gi-so-sanh-cac-goi-claude/claude-quoc-gia.webp)
+
+*Ảnh chụp màn hình: Trang hỗ trợ của Anthropic: Việt Nam nằm trong danh sách quốc gia dùng được Claude. Nguồn: [support.anthropic.com](https://support.anthropic.com/en/articles/8461763-where-can-i-access-claude-and-which-countries-are-supported), chụp ngày 24/11/2026.*
+
 ## Các model Claude hiện có
 
 Anthropic chia model theo "họ", mỗi họ có nhiều phiên bản:
+
+![Tài liệu tổng quan các model Claude](../images/claude-la-gi-so-sanh-cac-goi-claude/claude-models.webp)
+
+*Ảnh chụp màn hình: Tài liệu tổng quan các model Claude. Nguồn: [platform.claude.com](https://platform.claude.com/docs/en/about-claude/models/overview), chụp ngày 24/11/2026.*
 
 | Model | Đặc điểm | Có trong gói |
 |---|---|---|
@@ -77,6 +92,10 @@ Anthropic chia model theo "họ", mỗi họ có nhiều phiên bản:
 | Lượt dùng mỗi tuần | Giới hạn | 1x | 5x | 10x |
 | Tín dụng API hằng tháng | ❌ | ❌ | 100 USD | 200 USD |
 | Ưu tiên khi đông người dùng | ❌ | ❌ | ✅ | ✅ |
+
+![Trang giá các gói Claude Free, Pro, Max, Team](../images/claude-la-gi-so-sanh-cac-goi-claude/claude-pricing.webp)
+
+*Ảnh chụp màn hình: Trang giá các gói Claude Free, Pro, Max, Team. Nguồn: [claude.com](https://claude.com/pricing), chụp ngày 24/11/2026.*
 
 *Ultra: không giới hạn 5 giờ với tài khoản đã xác minh. Mọi gói đều có giới hạn sử dụng; hết nhanh hay chậm tuỳ model, độ dài cuộc trò chuyện và dung lượng file.*
 
@@ -131,6 +150,8 @@ Là một. "Claude AI Pro" là cách gọi khác của gói Pro.
 Cả ba đều là trợ lý AI đa năng. Claude thường được chọn cho viết lách, đọc tài liệu dài và lập trình; Gemini gắn với hệ sinh thái Google (Gmail, Drive, tạo ảnh, video); ChatGPT có hệ sinh thái ứng dụng lớn. Cách tốt nhất là thử cùng một việc trên cả ba.
 
 ---
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

@@ -10,6 +10,13 @@ author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
 dataDate: 2026-11-23
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://blog.google/products-and-platforms/products/search/ai-mode-search/
+  - https://www.google.com
+  - https://search.google/ai-in-search/
+  - https://developers.google.com/search/docs/appearance/ai-features
 status: ready
 pillar: huong-dan-dung-cong-cu-ai-pho-bien
 cluster: "C4.5 Tìm kiếm và kiến thức AI"
@@ -30,6 +37,10 @@ Bài này giải thích Chế độ AI là gì, cách dùng, khác gì AI Overvi
 | Có mất phí không? | Không, dùng bằng tài khoản Google thông thường |
 | Vào ở đâu? | google.com → nhập câu hỏi → chọn **Chế độ AI**; hoặc trong ứng dụng Google |
 | Hỏi bằng gì? | Văn bản, giọng nói, hình ảnh (qua Google Lens) hoặc tệp |
+
+![Bài công bố Chế độ AI trên blog chính thức của Google](../images/che-do-ai-google-ai-mode-la-gi/google-blog-ai-mode.webp)
+
+*Ảnh chụp màn hình: Bài công bố Chế độ AI trên blog chính thức của Google. Nguồn: [blog.google](https://blog.google/products-and-platforms/products/search/ai-mode-search/), chụp ngày 24/11/2026.*
 
 ## Cách dùng Chế độ AI của Google
 
@@ -53,6 +64,10 @@ Bài này giải thích Chế độ AI là gì, cách dùng, khác gì AI Overvi
 | Dựa trên | Kết quả tìm kiếm | Kết quả tìm kiếm và nhiều nguồn dữ liệu của Google | Kiến thức mô hình, có thể tìm web |
 | Mạnh nhất cho | Câu hỏi nhanh | Nghiên cứu, so sánh, lên kế hoạch mua sắm | Viết, sáng tạo, làm việc với tài liệu |
 
+![Trang giới thiệu AI trong Google Tìm kiếm](../images/che-do-ai-google-ai-mode-la-gi/ai-in-search.webp)
+
+*Ảnh chụp màn hình: Trang giới thiệu AI trong Google Tìm kiếm. Nguồn: [search.google](https://search.google/ai-in-search/), chụp ngày 24/11/2026.*
+
 ## Chế độ AI chọn nguồn như thế nào?
 
 Google mô tả Chế độ AI **tách câu hỏi của bạn thành nhiều câu hỏi nhỏ**, tìm song song cho từng ý, rồi viết câu trả lời dựa trên các trang phù hợp nhất. Vì vậy một câu trả lời có thể dẫn tới nhiều website khác nhau: trang của nhà cung cấp, trang cơ quan nhà nước, bài chia sẻ kinh nghiệm, hồ sơ doanh nghiệp trên Google Maps.
@@ -62,6 +77,10 @@ Google mô tả Chế độ AI **tách câu hỏi của bạn thành nhiều câ
 ## Doanh nghiệp cần làm gì để xuất hiện trong Chế độ AI?
 
 Google cho biết không cần kỹ thuật riêng để xuất hiện trong tính năng AI; nền tảng vẫn là SEO tốt. Những việc có tác động rõ nhất:
+
+![Tài liệu Google Search Central về tính năng AI và website](../images/che-do-ai-google-ai-mode-la-gi/search-central-ai-features.webp)
+
+*Ảnh chụp màn hình: Tài liệu Google Search Central về tính năng AI và website. Nguồn: [developers.google.com](https://developers.google.com/search/docs/appearance/ai-features), chụp ngày 24/11/2026.*
 
 ### 1. Đảm bảo Google đọc được website
 
@@ -116,6 +135,8 @@ Muốn khách hàng tìm thấy bạn và được trả lời ngay cả ngoài 
 Đọc thêm: [Claude là gì? So sánh các gói Claude](claude-la-gi-so-sanh-cac-goi-claude.md), [Câu lệnh tạo ảnh trên Gemini](cau-lenh-tao-anh-ghep-anh-gemini.md).
 
 ---
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

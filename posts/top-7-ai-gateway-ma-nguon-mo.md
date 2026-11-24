@@ -9,6 +9,17 @@ author: Đội sản phẩm KimQ
 published: 2026-11-20
 updated: 2026-11-20
 dataDate: 2026-11-20
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://github.com/BerriAI/litellm
+  - https://github.com/Kong/kong
+  - https://github.com/Portkey-AI/gateway
+  - https://github.com/maximhq/bifrost
+  - https://github.com/Helicone/helicone
+  - https://github.com/theagentrouter/agent-router
+  - https://github.com/songquanpeng/one-api
+  - https://github.com/langfuse/langfuse
 status: ready
 pillar: huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep
 cluster: "C1.1 AI mã nguồn mở"
@@ -53,6 +64,10 @@ Khi một công ty có phòng kinh doanh dùng ChatGPT, phòng kỹ thuật dùn
 
 **LiteLLM** gồm thư viện Python và máy chủ proxy, cho phép gọi hơn 100 nhà cung cấp mô hình bằng cùng định dạng API OpenAI. Bản proxy có khoá ảo theo người dùng, nhóm, ngân sách, giới hạn tốc độ, dự phòng và ghi nhật ký chi phí.
 
+![Repo LiteLLM trên GitHub](../images/top-7-ai-gateway-ma-nguon-mo/github-litellm.webp)
+
+*Ảnh chụp màn hình: Repo LiteLLM trên GitHub. Nguồn: [github.com](https://github.com/BerriAI/litellm), chụp ngày 24/11/2026.*
+
 - **Điểm mạnh:** hỗ trợ rộng nhất; cộng đồng lớn; dễ dựng bằng Docker.
 - **Lưu ý giấy phép:** phần chính là MIT; thư mục `enterprise/` (một số tính năng như SSO, kiểm soát nâng cao) có giấy phép riêng, cần mua để dùng.
 - **Hợp với:** đa số doanh nghiệp muốn bắt đầu.
@@ -68,6 +83,10 @@ Khi một công ty có phòng kinh doanh dùng ChatGPT, phòng kỹ thuật dùn
 
 **Portkey Gateway** là gateway gọn nhẹ, định tuyến tới rất nhiều mô hình, có sẵn cơ chế thử lại, dự phòng, cân bằng tải và **guardrail** kiểm tra đầu vào, đầu ra.
 
+![Repo Portkey Gateway trên GitHub](../images/top-7-ai-gateway-ma-nguon-mo/github-portkey.webp)
+
+*Ảnh chụp màn hình: Repo Portkey Gateway trên GitHub. Nguồn: [github.com](https://github.com/Portkey-AI/gateway), chụp ngày 24/11/2026.*
+
 - **Hợp với:** ứng dụng cần kiểm soát nội dung trả về, ví dụ chatbot cho khách hàng.
 - **Giấy phép:** MIT.
 
@@ -81,6 +100,10 @@ Khi một công ty có phòng kinh doanh dùng ChatGPT, phòng kỹ thuật dùn
 ## 5. Helicone: theo dõi và đo chi phí
 
 **Helicone** thiên về **quan sát (observability)**: ghi lại mọi yêu cầu, thời gian phản hồi, chi phí, cho phép gắn nhãn theo người dùng hoặc tính năng và đánh giá chất lượng câu trả lời.
+
+![Repo Helicone trên GitHub](../images/top-7-ai-gateway-ma-nguon-mo/github-helicone.webp)
+
+*Ảnh chụp màn hình: Repo Helicone trên GitHub. Nguồn: [github.com](https://github.com/Helicone/helicone), chụp ngày 24/11/2026.*
 
 - **Hợp với:** đội cần biết rõ AI đang tốn tiền ở đâu trước khi tối ưu.
 - **Giấy phép:** Apache 2.0.
@@ -142,6 +165,8 @@ Nếu chỉ một người dùng một mô hình thì chưa cần. Khi từ hai 
 **Gateway có lưu nội dung câu hỏi không?**
 Tuỳ cấu hình. Hầu hết cho phép chọn chỉ lưu số liệu (token, chi phí, thời gian) hoặc lưu cả nội dung. Với dữ liệu nhạy cảm, nên tắt lưu nội dung hoặc che trước khi lưu.
 
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

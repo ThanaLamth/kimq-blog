@@ -10,6 +10,12 @@ author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
 dataDate: 2026-11-23
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://gemini.google/overview/image-generation/
+  - https://chatgpt.com/pricing
+  - https://openai.com/enterprise-privacy/
 status: ready
 type: pillar
 ---
@@ -51,6 +57,10 @@ Mỗi tháng lại có công cụ AI mới, model mới, gói giá mới. Với 
 | Lập trình | Claude Code, các công cụ AI lập trình | [Top 10 framework AI Agent](top-10-framework-ai-agent-ma-nguon-mo.md) |
 | Trả lời khách trên Zalo, Facebook, website | Chatbot AI chuyên cho bán hàng | [Trợ lý Zalo](https://kimq.tech/san-pham/tro-ly-zalo), [Chatbot đa kênh](https://kimq.tech/san-pham/chatbot-da-kenh) |
 
+![Trang tính năng tạo ảnh của Gemini](../images/huong-dan-dung-cong-cu-ai-pho-bien/gemini-tao-anh.webp)
+
+*Ảnh chụp màn hình: Trang tính năng tạo ảnh của Gemini. Nguồn: [gemini.google](https://gemini.google/overview/image-generation/), chụp ngày 24/11/2026.*
+
 ## Miễn phí hay trả phí?
 
 | Mức dùng | Gợi ý |
@@ -59,6 +69,10 @@ Mỗi tháng lại có công cụ AI mới, model mới, gói giá mới. Với 
 | Hằng ngày cho công việc | Một gói trả phí khoảng 20 USD/tháng cho công cụ bạn dùng nhiều nhất |
 | Sinh viên | Kiểm tra ưu đãi sinh viên chính thức (ví dụ Gemini cho sinh viên, hạn nhận đến 31/12/2026) |
 | Công ty từ vài người trở lên | Gói Team, Business của nhà cung cấp, hoặc gọi model qua một cổng quản lý chung |
+
+![Trang giá các gói ChatGPT](../images/huong-dan-dung-cong-cu-ai-pho-bien/chatgpt-pricing.webp)
+
+*Ảnh chụp màn hình: Trang giá các gói ChatGPT. Nguồn: [chatgpt.com](https://chatgpt.com/pricing), chụp ngày 24/11/2026.*
 
 **Không mua tài khoản dùng chung giá rẻ:** dễ bị khoá, lộ dữ liệu, không có hoá đơn.
 
@@ -71,6 +85,10 @@ Mỗi tháng lại có công cụ AI mới, model mới, gói giá mới. Với 
 5. **Ghi rõ ai được dùng công cụ gì,** cho việc gì, bằng tài khoản nào.
 6. **Theo dõi chi phí theo phòng ban** khi nhiều người cùng dùng.
 7. **Có phương án dự phòng** khi một nhà cung cấp AI gặp sự cố.
+
+![Trang cam kết quyền riêng tư cho doanh nghiệp của OpenAI](../images/huong-dan-dung-cong-cu-ai-pho-bien/openai-enterprise-privacy.webp)
+
+*Ảnh chụp màn hình: Trang cam kết quyền riêng tư cho doanh nghiệp của OpenAI. Nguồn: [openai.com](https://openai.com/enterprise-privacy/), chụp ngày 24/11/2026.*
 
 Quy tắc 1, 6 và 7 là lý do nhiều doanh nghiệp đặt **AI Gateway**: một cổng chung giữ key, đặt hạn mức theo phòng ban, che dữ liệu cá nhân trước khi gửi đi và tự chuyển nhà cung cấp khi lỗi. Xem [KimQ AI Gateway](https://kimq.tech/san-pham/ai-gateway).
 
@@ -86,6 +104,8 @@ AI làm nhanh các phần lặp lại (soạn nháp, tóm tắt, tạo ảnh min
 Mỗi bài ghi ngày kiểm tra thông tin. Giá, gói và tên model thay đổi thường xuyên; chúng tôi cập nhật định kỳ và ghi ngày ở đầu bài.
 
 ---
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

@@ -9,6 +9,21 @@ author: Đội sản phẩm KimQ
 published: 2026-11-20
 updated: 2026-11-20
 dataDate: 2026-11-20
+lastReviewed: 2026-11-24
+aiAssisted: true
+sources:
+  - https://github.com/langgenius/dify
+  - https://github.com/langchain-ai/langchain
+  - https://github.com/crewAIInc/crewAI
+  - https://github.com/run-llama/llama_index
+  - https://github.com/langchain-ai/langgraph
+  - https://github.com/agno-agi/agno
+  - https://github.com/openai/openai-agents-python
+  - https://github.com/huggingface/smolagents
+  - https://github.com/mastra-ai/mastra
+  - https://github.com/google/adk-python
+  - https://github.com/pydantic/pydantic-ai
+  - https://github.com/microsoft/semantic-kernel
 status: ready
 pillar: huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep
 cluster: "C1.1 AI mã nguồn mở"
@@ -48,6 +63,10 @@ Bài này tổng hợp **10 framework AI Agent đáng chú ý nhất trên GitHu
 
 **Dify** là nền tảng có giao diện web để dựng chatbot, agent và quy trình RAG mà không cần viết nhiều code. Bạn chọn mô hình, nạp tài liệu, kéo các bước vào luồng xử lý rồi xuất ra API hoặc trang chat.
 
+![Repo Dify trên GitHub](../images/top-10-framework-ai-agent-ma-nguon-mo/github-dify.webp)
+
+*Ảnh chụp màn hình: Repo Dify trên GitHub. Nguồn: [github.com](https://github.com/langgenius/dify), chụp ngày 24/11/2026.*
+
 - **Điểm mạnh:** nhanh nhất để có bản chạy thử; hỗ trợ nhiều nhà cung cấp mô hình; có quản lý tài liệu, lịch sử hội thoại, nhật ký.
 - **Lưu ý giấy phép:** dựa trên Apache 2.0 nhưng **thêm điều kiện**: không được dùng mã nguồn để vận hành dịch vụ nhiều khách thuê (multi-tenant) và không được gỡ logo, bản quyền trên giao diện nếu chưa mua giấy phép thương mại. Dùng nội bộ một công ty thường không vướng.
 - **Hợp với:** doanh nghiệp muốn thử nhanh trợ lý nội bộ trên tài liệu của mình.
@@ -56,6 +75,10 @@ Bài này tổng hợp **10 framework AI Agent đáng chú ý nhất trên GitHu
 
 **LangChain** là thư viện phổ biến nhất để ghép LLM với dữ liệu và công cụ. Gần như mọi mô hình, cơ sở dữ liệu vector hay API phổ biến đều đã có tích hợp sẵn.
 
+![Repo LangChain trên GitHub](../images/top-10-framework-ai-agent-ma-nguon-mo/github-langchain.webp)
+
+*Ảnh chụp màn hình: Repo LangChain trên GitHub. Nguồn: [github.com](https://github.com/langchain-ai/langchain), chụp ngày 24/11/2026.*
+
 - **Điểm mạnh:** nhiều ví dụ, nhiều tích hợp, dễ tìm người đã dùng.
 - **Điểm cần cân nhắc:** nhiều lớp trừu tượng; dự án nhỏ có thể thấy nặng. Với agent nhiều bước cần kiểm soát chặt, đội LangChain có thêm LangGraph (mục 5).
 - **Giấy phép:** MIT.
@@ -63,6 +86,10 @@ Bài này tổng hợp **10 framework AI Agent đáng chú ý nhất trên GitHu
 ## 3. CrewAI: nhóm agent đóng vai
 
 **CrewAI** cho bạn định nghĩa nhiều agent với vai trò riêng (ví dụ "người nghiên cứu", "người viết", "người kiểm tra") và để chúng phối hợp hoàn thành một nhiệm vụ.
+
+![Repo CrewAI trên GitHub](../images/top-10-framework-ai-agent-ma-nguon-mo/github-crewai.webp)
+
+*Ảnh chụp màn hình: Repo CrewAI trên GitHub. Nguồn: [github.com](https://github.com/crewAIInc/crewAI), chụp ngày 24/11/2026.*
 
 - **Điểm mạnh:** cách mô tả gần với cách giao việc cho một nhóm người; dễ hiểu với người không chuyên.
 - **Điểm cần cân nhắc:** nhiều agent đồng nghĩa nhiều lần gọi mô hình, chi phí tăng nhanh. Nên đặt giới hạn số bước.
@@ -155,6 +182,8 @@ Mã nguồn thường miễn phí, nhưng bạn vẫn trả tiền gọi mô hì
 **Có cần GPU không?**
 Không, nếu gọi mô hình qua API (OpenAI, Gemini, Claude…). Chỉ cần GPU khi tự chạy mô hình tại chỗ; xem bài [Top 7 repo chạy LLM nội bộ](top-7-repo-chay-llm-noi-bo.md).
 
+
+> Bài viết có sử dụng AI hỗ trợ soạn thảo. Nội dung và số liệu được đối chiếu với nguồn chính thức ngày 24/11/2026; ảnh là ảnh chụp màn hình trang chính thức, có ghi nguồn và ngày chụp.
 
 ## Về KimQ Tech
 

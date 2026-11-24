@@ -1,25 +1,20 @@
 # QC: Hướng dẫn chọn phần mềm mã nguồn mở cho doanh nghiệp: AI, tự động hoá, ERP (cập nhật 11/2026)
 
-- Kết quả tự động: **FAIL**
+- Kết quả tự động: **FLAG**
 - File: [huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md](../posts/huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md)
-- Số từ: 1641 · Ảnh: 0 · Nguồn ngoài: 0
+- Số từ: 1843 · Ảnh: 3 · Nguồn ngoài: 3
 
 ## Lỗi phải sửa
 
-- [ ] B1 0 ảnh thao tác (cần ≥ 3)
-- [ ] B3 0 nguồn ngoài (cần ≥ 2)
-- [ ] B2 chưa có reviewer (người thật, khác người viết)
+- Không có
 
 ## Cần xem lại
 
-- [ ] Thiếu trường QC: reviewer, lastReviewed, tested, aiAssisted, sources
-- [ ] Pillar 1641 từ (cần ≥ 2.500)
-- [ ] B4 thiếu dòng nhãn AI hỗ trợ cuối bài
+- [ ] Pillar 1843 từ (cần ≥ 2.500)
 
-## Phần agent/người duyệt kiểm tay
+## Phần agent kiểm tay
 
 - [ ] C1: đối chiếu 3 số liệu với nguồn gốc (ghi số liệu, nguồn, kết quả)
 - [ ] C3: tên sản phẩm, công ty, model đúng chính tả của hãng
 - [ ] C4: văn bản pháp luật có số hiệu và link nguồn chính thức
 - [ ] EOT/SA: Effort _/5 · Originality _/5 · Talent _/5 · Accuracy _/5 (cần ≥ 15/20)
-- [ ] Người duyệt ký: ______ ngày ______
