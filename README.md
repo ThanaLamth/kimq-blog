@@ -2,7 +2,7 @@
 
 Chuyên đề do [KimQ Tech](https://kimq.tech) biên soạn: dùng công cụ AI phổ biến cho công việc, và chọn, triển khai phần mềm mã nguồn mở trên GitHub cho doanh nghiệp Việt Nam. Liên hệ: contact@kimq.tech.
 
-Sơ đồ đầy đủ pillar, cluster, từ khoá và thứ tự viết: [TOPIC-CLUSTERS.md](TOPIC-CLUSTERS.md).
+Sơ đồ đầy đủ pillar, cluster, từ khoá và thứ tự viết: [TOPIC-CLUSTERS.md](TOPIC-CLUSTERS.md). Kênh đăng theo cluster: [DISTRIBUTION-PLAN.md](DISTRIBUTION-PLAN.md).
 
 ## 1. Phần mềm mã nguồn mở cho doanh nghiệp
 
