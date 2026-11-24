@@ -1,6 +1,6 @@
 # Kế hoạch đăng bài lên các nền tảng theo cluster
 
-Cập nhật 24/11/2026. Đi kèm [TOPIC-CLUSTERS.md](TOPIC-CLUSTERS.md). Cột `kenh` trong [cluster-keyword-map.csv](data/keywords/2026-11-23/cluster-keyword-map.csv) ghi kênh đăng cho từng bài.
+Cập nhật 24/11/2026. Đi kèm [TOPIC-CLUSTERS.md](TOPIC-CLUSTERS.md) và lịch số lượng mỗi tháng [PUBLISHING-CALENDAR.md](PUBLISHING-CALENDAR.md). Cột `kenh` trong [cluster-keyword-map.csv](data/keywords/2026-11-23/cluster-keyword-map.csv) ghi kênh đăng cho từng bài.
 
 ## 1. Nguyên tắc chung
 
