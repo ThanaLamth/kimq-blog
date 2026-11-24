@@ -1,0 +1,32 @@
+name: Content QC
+
+on:
+  push:
+    paths: ["posts/**", "scripts/content_qc.py"]
+  pull_request:
+    paths: ["posts/**", "scripts/content_qc.py"]
+  workflow_dispatch:
+
+jobs:
+  qc:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: QC tự động
+        run: python3 scripts/content_qc.py --report qc-reports | tee qc-output.txt
+      - name: Tóm tắt
+        run: |
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          cat qc-output.txt >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+      - name: Chặn bài FAIL có status ready trong pull request
+        if: github.event_name == 'pull_request'
+        run: |
+          files=$(git diff --name-only --diff-filter=AM origin/${{ github.base_ref }}... -- 'posts/*.md' | xargs -r grep -l '^status: ready' || true)
+          if [ -z "$files" ]; then echo "Không có bài ready thay đổi"; exit 0; fi
+          python3 scripts/content_qc.py --strict $files

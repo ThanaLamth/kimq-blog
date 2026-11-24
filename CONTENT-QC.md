@@ -145,3 +145,10 @@ Quét tự động phần A, B1, B3, B4 và B2. Chưa kiểm C1 thủ công.
 3. Thêm nguồn chính thức cho 4 bài có dưới 2 nguồn.
 4. Thêm frontmatter mục 2 và dòng nhãn AI hỗ trợ vào 13 bài.
 5. Kiểm C1 các điểm chưa xác minh: Thông tư 99/2025; HeyGen/Synthesia hỗ trợ tiếng Việt; Seedance, Hailuo, Luma, Canva, Remini; quảng cáo và số liệu AI Mode trong Search Console.
+
+## 7. Agent QC
+
+Quy trình trên đã được đóng gói thành agent: [agents/content-qc-agent.md](agents/content-qc-agent.md).
+- Kiểm tự động: `python3 scripts/content_qc.py --check-links --report qc-reports`. Báo cáo nằm trong [qc-reports/](qc-reports/README.md).
+- GitHub Action [content-qc.yml](.github/workflows/content-qc.yml) chạy mỗi lần sửa `posts/`. Pull request có bài `status: ready` mà FAIL sẽ bị chặn.
+- Agent không thay người duyệt: `reviewer` và ảnh thao tác do người thật của KimQ làm.
