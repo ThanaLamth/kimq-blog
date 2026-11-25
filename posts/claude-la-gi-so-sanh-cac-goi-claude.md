@@ -5,7 +5,7 @@ path: /kien-thuc/claude-la-gi-so-sanh-cac-goi-claude
 description: "Claude là trợ lý AI của Anthropic. Bài viết giải thích Claude làm được gì, các model Fable, Opus, Sonnet, Haiku, so sánh gói Free, Pro, Max, Ultra, Team và nên chọn gói nào."
 category: Công cụ AI
 tags: [claude, claude ai, anthropic, claude pro, claude max, giá claude]
-keywords: [claude là gì, claude pro, claude ai pro, claude max, claude ai là gì, claude free, claude team, giá claude, claude fable 5, claude ai tiếng việt, mua tài khoản claude]
+keywords: [claude là gì, claude pro, claude ai pro, claude max, claude ai là gì, claude free, claude team, giá claude, claude ai tiếng việt, mua tài khoản claude]
 author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
@@ -74,7 +74,7 @@ Anthropic chia model theo "họ", mỗi họ có nhiều phiên bản:
 | **Haiku** (Haiku 5.5) | Nhanh, rẻ, hợp việc đơn giản số lượng lớn | Mọi gói |
 | **Mythos** (Mythos 5.2) | Model mạnh nhất, chỉ dành cho đối tác được duyệt | Không bán trong gói cá nhân |
 
-**Vì sao có người tìm "Claude Fable 5 mở lại"?** Fable 5 từng bị tạm ngưng phát hành rộng rãi, rồi được Anthropic triển khai lại toàn cầu từ ngày 01/07/2026. Hiện bản mới nhất là Fable 5.2.
+**Vì sao có người tìm "Claude Fable 5 mở lại"?** Fable 5 từng bị tạm ngưng phát hành rộng rãi, rồi được Anthropic triển khai lại toàn cầu từ ngày 01/07/2026. Hiện bản mới nhất là Fable 5.2. Chi tiết từng model, giá API và lịch ngừng các bản cũ xem [Các model Claude: Fable, Opus, Sonnet, Haiku khác nhau thế nào](cac-model-claude.md).
 
 ## So sánh chi tiết các gói
 

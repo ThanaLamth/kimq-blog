@@ -844,5 +844,127 @@
    "waitMs": 6000,
    "waitUntil": "domcontentloaded"
   }
+ ],
+ "prompt-ai": [
+  {
+   "url": "https://ai.google.dev/gemini-api/docs/prompting-strategies",
+   "after": "## Prompt AI là gì?",
+   "name": "gemini-prompting-strategies",
+   "alt": "Trang hướng dẫn chiến lược viết prompt của Gemini API",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/overview",
+   "after": "### 7. Sửa dần, đừng mong đúng ngay lần đầu",
+   "name": "claude-prompt-engineering",
+   "alt": "Trang tổng quan prompt engineering của Claude",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://help.openai.com/en/articles/10032626-prompt-engineering-best-practices-for-chatgpt",
+   "after": "## Khác biệt nhỏ giữa ChatGPT, Gemini và Claude",
+   "name": "openai-prompt-best-practices",
+   "alt": "Trang hướng dẫn viết prompt cho ChatGPT của OpenAI",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "mo-rong-anh-bang-ai": [
+  {
+   "url": "https://www.canva.com/help/using-magic-expand/",
+   "after": "## Cách 1: Mở rộng ảnh trên Canva (Magic Expand)",
+   "name": "canva-magic-expand",
+   "alt": "Trang trợ giúp Canva hướng dẫn mở rộng ảnh bằng Magic Expand",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://helpx.adobe.com/photoshop/web/edit-images/retouch/expand-images-with-generative-ai.html",
+   "after": "## Cách 2: Mở rộng ảnh bằng Photoshop (Generative Expand)",
+   "name": "photoshop-web-generative-expand",
+   "alt": "Trang trợ giúp Adobe hướng dẫn mở rộng ảnh bằng Generative Expand trên Photoshop web",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://support.google.com/photos/thread/363127706/easy-edits-with-our-new-editor?hl=en",
+   "after": "## Cách 3: Mở rộng ảnh trong Google Photos (Auto frame)",
+   "name": "google-photos-edit",
+   "alt": "Thông báo trình chỉnh sửa mới của Google Photos, mục Reimagine và Auto frame",
+   "scrollToText": "Reimagine and Auto frame",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "vidu-ai": [
+  {
+   "url": "https://www.vidu.com/",
+   "after": "## Vidu AI là gì? Vidu Studio là gì?",
+   "name": "vidu-home",
+   "alt": "Trang chủ Vidu AI",
+   "captured": "2026-11-25",
+   "waitMs": 8000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://www.vidu.com/pricing",
+   "after": "## Bảng giá Vidu AI",
+   "name": "vidu-pricing",
+   "alt": "Bảng so sánh các gói Vidu AI",
+   "scrollToText": "Q4 model usage: 540P 2 credits/sec",
+   "captured": "2026-11-25",
+   "waitMs": 8000,
+   "waitUntil": "domcontentloaded",
+   "highlight": false
+  },
+  {
+   "url": "https://www.vidu.com/terms",
+   "after": "## Điều khoản cần đọc trước khi tải ảnh lên",
+   "name": "vidu-terms",
+   "alt": "Điều khoản sử dụng Vidu, mục nội dung và cấp phép",
+   "scrollToText": "3. Content",
+   "captured": "2026-11-25",
+   "waitMs": 8000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "cac-model-claude": [
+  {
+   "url": "https://platform.claude.com/docs/en/about-claude/models/overview",
+   "after": "## Các họ model Claude là gì?",
+   "name": "claude-models-overview",
+   "alt": "Trang tổng quan các model Claude của Anthropic",
+   "scrollToText": "Latest models",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://www.anthropic.com/news/redeploying-fable-5",
+   "after": "| Đến 07/07/2026 |",
+   "name": "redeploying-fable-5",
+   "alt": "Bài thông báo mở lại Claude Fable 5 của Anthropic",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://platform.claude.com/docs/en/about-claude/model-deprecations",
+   "after": "| **Claude 3.5 Sonnet** |",
+   "name": "model-deprecations",
+   "alt": "Trang lịch ngừng hỗ trợ các model Claude",
+   "scrollToText": "Model status",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  }
  ]
 }

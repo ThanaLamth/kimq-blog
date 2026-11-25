@@ -39,6 +39,8 @@ Mỗi tháng lại có công cụ AI mới, model mới, gói giá mới. Với 
 | [Check đạo văn AI: công cụ phát hiện văn bản do AI viết có chính xác không? (Turnitin, GPTZero, 11/2026)](check-dao-van-ai.md) | Công cụ check AI có tin được không? |
 | [Học AI bắt đầu từ đâu? Lộ trình 3 cấp và khoá học AI miễn phí cho người mới (11/2026)](hoc-ai-bat-dau-tu-dau.md) | Người mới học AI nên bắt đầu từ đâu? |
 | [AI giải bài tập: AI Hay, Gauth, Gemini, ChatGPT và cách dùng để học thật (11/2026)](ai-giai-bai-tap.md) | Dùng AI giải bài tập sao cho học được thật? |
+| [Prompt AI là gì? Cách viết câu lệnh AI hiệu quả cho ChatGPT, Gemini, Claude (kèm mẫu, 11/2026)](prompt-ai.md) | Viết câu lệnh AI thế nào để ra kết quả đúng ý? |
+| [Các model Claude: Fable, Opus, Sonnet, Haiku khác nhau thế nào? Claude Fable 5 mở lại ra sao (11/2026)](cac-model-claude.md) | Các model Claude khác nhau thế nào, chọn model nào? |
 
 **Chuyên đề con:**
 

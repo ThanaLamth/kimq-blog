@@ -90,10 +90,10 @@ Sắp theo volume giảm dần, đúng thứ tự của claude-seo. Bài thươn
 | 3 | [Kling AI: hướng dẫn, gói miễn phí](posts/kling-ai.md) (đã viết) | C2.2 Hướng dẫn từng công cụ video | 5,300 | 26 |
 | 4 | [AI giải bài tập: AI Hay, Gauth và cách dùng đúng](posts/ai-giai-bai-tap.md) (đã viết) | C4.3 AI cho học tập | 4,940 | 24 |
 | 5 | [Làm nét ảnh bằng AI](posts/lam-net-anh-bang-ai.md) (đã viết) | C3.2 Sửa ảnh theo việc | 4,400 | 12 |
-| 6 | Prompt AI: cách viết câu lệnh hiệu quả | C4.4 Làm việc văn phòng với AI | 4,400 | 26 |
-| 7 | Mở rộng ảnh bằng AI | C3.2 Sửa ảnh theo việc | 3,870 | 20 |
-| 8 | Vidu AI: hướng dẫn | C2.2 Hướng dẫn từng công cụ video | 3,740 | 29 |
-| 9 | Các model Claude: Fable, Opus, Sonnet khác nhau thế nào | C4.1 Claude | 3,630 | 21 |
+| 6 | [Prompt AI: cách viết câu lệnh hiệu quả](posts/prompt-ai.md) (đã viết) | C4.4 Làm việc văn phòng với AI | 4,400 | 26 |
+| 7 | [Mở rộng ảnh bằng AI](posts/mo-rong-anh-bang-ai.md) (đã viết) | C3.2 Sửa ảnh theo việc | 3,870 | 20 |
+| 8 | [Vidu AI: hướng dẫn](posts/vidu-ai.md) (đã viết) | C2.2 Hướng dẫn từng công cụ video | 3,740 | 29 |
+| 9 | [Các model Claude: Fable, Opus, Sonnet khác nhau thế nào](posts/cac-model-claude.md) (đã viết) | C4.1 Claude | 3,630 | 21 |
 | 10 | AI engineer là gì, học gì | C4.7 AI lập trình | 3,000 | 22 |
 | 11 | Cách làm video TikTok bằng hình ảnh | C2.1 Tạo video theo đầu vào | 2,900 | 28 |
 | 12 | Luma AI: hướng dẫn | C2.2 Hướng dẫn từng công cụ video | 2,900 | 28 |

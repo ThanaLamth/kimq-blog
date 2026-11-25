@@ -15,9 +15,9 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 | Pillar | Bài pillar | Cluster | Số bài (đã viết/tổng) | Lượng tìm cả chuyên đề |
 |---|---|---|---|---|
 | P1 Phần mềm mã nguồn mở cho doanh nghiệp | [huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep](posts/huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) | 2 | 5/6 | thấp (B2B) |
-| P2 Tạo video bằng AI | [top-cong-cu-tao-video-ai](posts/top-cong-cu-tao-video-ai.md) | 3 | 7/13 | 219.650 |
-| P3 AI tạo và chỉnh sửa ảnh | [top-cong-cu-ai-chinh-sua-anh](posts/top-cong-cu-ai-chinh-sua-anh.md) | 3 | 5/10 | 58.780 |
-| P4 Trợ lý AI và công cụ AI cho công việc | [huong-dan-dung-cong-cu-ai-pho-bien](posts/huong-dan-dung-cong-cu-ai-pho-bien.md) | 7 | 9/22 | 156.940 |
+| P2 Tạo video bằng AI | [top-cong-cu-tao-video-ai](posts/top-cong-cu-tao-video-ai.md) | 3 | 8/13 | 219.650 |
+| P3 AI tạo và chỉnh sửa ảnh | [top-cong-cu-ai-chinh-sua-anh](posts/top-cong-cu-ai-chinh-sua-anh.md) | 3 | 6/10 | 58.780 |
+| P4 Trợ lý AI và công cụ AI cho công việc | [huong-dan-dung-cong-cu-ai-pho-bien](posts/huong-dan-dung-cong-cu-ai-pho-bien.md) | 7 | 11/22 | 156.940 |
 
 ## P1. Phần mềm mã nguồn mở cho doanh nghiệp
 
@@ -59,7 +59,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 | [Higgsfield AI là gì, cách dùng](posts/higgsfield-ai-la-gi.md) | Đã viết | – | higgsfield ai | – | 12.100 | 15 |  |
 | [Vclip AI là gì, cách dùng](posts/vclip-ai-la-gi.md) | Đã viết | – | vclip ai | – | 8.100 | 30 | Điều hướng |
 | [Kling AI: hướng dẫn, gói miễn phí](posts/kling-ai.md) | Đã viết | – | kling ai.com | kling ai video, kling ai free, kling ai 3.0 | 5.300 | 26 | Chuyển "kling ai video" khỏi pillar |
-| Vidu AI: hướng dẫn | Dự kiến | Trung bình | vidu ai | vidu studio | 3.740 | 29 | Chuyển "vidu ai" khỏi pillar |
+| [Vidu AI: hướng dẫn](posts/vidu-ai.md) | Đã viết | – | vidu ai | vidu studio | 3.740 | 29 | Chuyển "vidu ai" khỏi pillar |
 | Luma AI: hướng dẫn | Dự kiến | Trung bình | luma ai | – | 2.900 | 28 | Điều hướng |
 | Grok Imagine: tạo video bằng Grok | Dự kiến | Trung bình | grok ai video | – | 1.300 | 22 | Chuyển khỏi pillar |
 
@@ -90,7 +90,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 | [Làm nét ảnh bằng AI](posts/lam-net-anh-bang-ai.md) | Đã viết | – | làm nét ảnh ai | – | 4.400 | 12 |  |
 | [Ghép ảnh bằng AI](posts/ghep-anh-bang-ai.md) | Đã viết | – | ai ghép ảnh | ghép ảnh ai online, ghép ảnh bằng ai, ghép ảnh ai, ghép hình ai, cách ghép ảnh bằng ai | 8.350 | 25 | Chuyển khỏi pillar |
 | Ghép mặt bằng AI: công cụ và lưu ý pháp lý | Dự kiến | Cao | ai ghép mặt | ghép mặt ai | 2.900 | 15 | Nhấn mạnh deepfake, xin phép người trong ảnh |
-| Mở rộng ảnh bằng AI | Dự kiến | Trung bình | mở rộng ảnh bằng ai | mở rộng ảnh ai, ai mở rộng ảnh, mở rộng ảnh ai online | 3.870 | 20 | Chuyển khỏi pillar |
+| [Mở rộng ảnh bằng AI](posts/mo-rong-anh-bang-ai.md) | Đã viết | – | mở rộng ảnh bằng ai | mở rộng ảnh ai, ai mở rộng ảnh, mở rộng ảnh ai online | 3.870 | 20 | Chuyển khỏi pillar |
 | Phục hồi ảnh cũ bằng AI | Dự kiến | Thấp | ai phục hồi ảnh cũ | ai phục hồi ảnh | 460 | 26 | Chuyển khỏi pillar |
 | Cách kiểm tra ảnh có phải AI tạo | Dự kiến | Thấp | check ảnh ai | – | 720 | 20 | Link bài phát hiện văn bản AI (C4.3) |
 
@@ -109,7 +109,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 | Bài | Trạng thái | Ưu tiên | Từ khoá chính | Từ khoá phụ | Lượng tìm | KD | Ghi chú |
 |---|---|---|---|---|---|---|---|
 | [Claude là gì? So sánh các gói](posts/claude-la-gi-so-sanh-cac-goi-claude.md) | Đã viết | – | claude pro | claude ai pro, claude là gì, claude max, claude free, claude team, mua tài khoản claude, giá claude, claude ai tiếng việt | 17.210 | 21 |  |
-| Các model Claude: Fable, Opus, Sonnet khác nhau thế nào | Dự kiến | Trung bình | claude fable 5 | claude opus, claude opus 4.6, claude 3.5 sonnet, claude sonnet 5, claude fable 5 mở lại | 3.630 | 21 | Chuyển "claude fable 5" khỏi bài so sánh gói |
+| [Các model Claude: Fable, Opus, Sonnet khác nhau thế nào](posts/cac-model-claude.md) | Đã viết | – | claude fable 5 | claude opus, claude opus 4.6, claude 3.5 sonnet, claude sonnet 5, claude fable 5 mở lại | 3.630 | 21 | Chuyển "claude fable 5" khỏi bài so sánh gói |
 | [Claude Design là gì](posts/claude-design-la-gi.md) | Đã viết | – | claude design | – | 8.100 | 20 |  |
 | Claude for Excel: phân tích bảng tính | Dự kiến | Thấp | claude excel | claude for excel | 780 | 22 |  |
 
@@ -136,7 +136,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 | Bài | Trạng thái | Ưu tiên | Từ khoá chính | Từ khoá phụ | Lượng tìm | KD | Ghi chú |
 |---|---|---|---|---|---|---|---|
 | [Làm slide bằng AI](posts/lam-slide-bang-ai.md) | Đã viết | – | slide ai | powerpoint ai, tạo slide bằng ai, làm slide bằng ai, tạo slide bằng ai miễn phí, tạo slide thuyết trình bằng ai, làm powerpoint bằng ai, thiết kế powerpoint bằng ai | 18.580 | 26 | Link Claude Design |
-| Prompt AI: cách viết câu lệnh hiệu quả | Dự kiến | Cao | prompt ai | – | 4.400 | 26 | Link các bài câu lệnh |
+| [Prompt AI: cách viết câu lệnh hiệu quả](posts/prompt-ai.md) | Đã viết | – | prompt ai | – | 4.400 | 26 | Link các bài câu lệnh |
 
 ### C4.5 Tìm kiếm và kiến thức AI
 
@@ -182,7 +182,7 @@ Xếp theo lượng tìm chia cho độ khó, nên bài vừa nhiều lượt t�
 | 13 | [Kling AI: hướng dẫn, gói miễn phí](posts/kling-ai.md) (đã viết) | P2 / C2.2 Hướng dẫn từng công cụ video | 5.300 | 26 |
 | 14 | [AI giải bài tập: AI Hay, Gauth và cách dùng đúng](posts/ai-giai-bai-tap.md) (đã viết) | P4 / C4.3 AI cho học tập | 4.940 | 24 |
 | 15 | Ghép mặt bằng AI: công cụ và lưu ý pháp lý | P3 / C3.2 Sửa ảnh theo việc | 2.900 | 15 |
-| 16 | Prompt AI: cách viết câu lệnh hiệu quả | P4 / C4.4 Làm việc văn phòng với AI | 4.400 | 26 |
+| 16 | [Prompt AI: cách viết câu lệnh hiệu quả](posts/prompt-ai.md) (đã viết) | P4 / C4.4 Làm việc văn phòng với AI | 4.400 | 26 |
 
 Sau nhóm Cao: viết nhóm Trung bình theo cùng cách xếp; nhóm Thấp để cuối hoặc gộp vào bài lớn hơn.
 
