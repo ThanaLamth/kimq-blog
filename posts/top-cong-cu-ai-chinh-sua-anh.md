@@ -5,7 +5,7 @@ path: /kien-thuc/top-cong-cu-ai-chinh-sua-anh
 description: "Tổng hợp công cụ AI chỉnh sửa ảnh theo từng việc: ghép ảnh, làm nét ảnh, mở rộng ảnh, xoá vật thể, tách nền, phục hồi ảnh cũ và cách kiểm tra ảnh AI. Có lựa chọn miễn phí và mã nguồn mở."
 category: Công cụ AI
 tags: [ai chỉnh sửa ảnh, ai ghép ảnh, làm nét ảnh ai, mở rộng ảnh ai, phục hồi ảnh cũ, check ảnh ai]
-keywords: [làm nét ảnh ai, ai chỉnh sửa ảnh, ai sửa ảnh, chỉnh sửa ảnh bằng ai miễn phí, mở rộng ảnh bằng ai, check ảnh ai, ai phục hồi ảnh cũ, ai photoshop, phần mềm ai chỉnh sửa ảnh]
+keywords: [ai chỉnh sửa ảnh, ai sửa ảnh, chỉnh sửa ảnh bằng ai miễn phí, mở rộng ảnh bằng ai, check ảnh ai, ai phục hồi ảnh cũ, ai photoshop, phần mềm ai chỉnh sửa ảnh]
 author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
@@ -41,6 +41,9 @@ Thông tin kiểm tra ngày **23/11/2026**.
 | [35 câu lệnh tạo ảnh, ghép ảnh trên Gemini](cau-lenh-tao-anh-ghep-anh-gemini.md) | Viết câu lệnh tạo ảnh, ghép ảnh ra sao, xoá logo Gemini được không? |
 | [Top công cụ tạo video AI](top-cong-cu-tao-video-ai.md) | Ảnh đã đẹp, biến thành video bằng công cụ nào? |
 | [Ghép ảnh bằng AI: cách ghép ảnh online với Gemini, Canva, Photoshop (11/2026)](ghep-anh-bang-ai.md) | Ghép ảnh bằng AI online với Gemini, Canva, Photoshop thế nào? |
+| [AI tạo hình ảnh: Gemini, ChatGPT, Microsoft Designer, Krea và cách viết câu lệnh (11/2026)](ai-tao-hinh-anh.md) | Nên dùng AI nào để tạo ảnh từ mô tả? |
+| [Tạo logo bằng AI miễn phí: Gemini, Canva, Adobe Express, Looka và quy trình 6 bước (11/2026)](tao-logo-bang-ai.md) | Tạo logo bằng AI có dùng thương mại được không? |
+| [Làm nét ảnh bằng AI: Canva, Photoshop, Lightroom, Upscayl miễn phí, so sánh và cách dùng (11/2026)](lam-net-anh-bang-ai.md) | Làm nét ảnh mờ, ảnh cũ bằng AI thế nào? |
 
 Các hướng dẫn chi tiết (làm nét ảnh, ghép mặt, tạo logo, mở rộng ảnh bằng AI) sẽ được bổ sung vào bảng này.
 

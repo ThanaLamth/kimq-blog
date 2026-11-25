@@ -37,6 +37,8 @@ Mỗi tháng lại có công cụ AI mới, model mới, gói giá mới. Với 
 | [AI agency là gì? Dịch vụ, chi phí và cách chọn đơn vị triển khai AI cho doanh nghiệp (11/2026)](ai-agency-la-gi.md) | AI agency là gì, chọn đơn vị triển khai AI thế nào? |
 | [Gemini cho sinh viên: cách nhận Google AI Plus miễn phí 1 năm, điều kiện và lỗi thường gặp (11/2026)](gemini-cho-sinh-vien.md) | Sinh viên nhận gói Gemini miễn phí thế nào? |
 | [Check đạo văn AI: công cụ phát hiện văn bản do AI viết có chính xác không? (Turnitin, GPTZero, 11/2026)](check-dao-van-ai.md) | Công cụ check AI có tin được không? |
+| [Học AI bắt đầu từ đâu? Lộ trình 3 cấp và khoá học AI miễn phí cho người mới (11/2026)](hoc-ai-bat-dau-tu-dau.md) | Người mới học AI nên bắt đầu từ đâu? |
+| [AI giải bài tập: AI Hay, Gauth, Gemini, ChatGPT và cách dùng để học thật (11/2026)](ai-giai-bai-tap.md) | Dùng AI giải bài tập sao cho học được thật? |
 
 **Chuyên đề con:**
 

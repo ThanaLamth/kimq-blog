@@ -78,18 +78,18 @@ Sắp theo volume giảm dần, đúng thứ tự của claude-seo. Bài thươn
 | 8 | [Gemini cho sinh viên: nhận gói miễn phí](posts/gemini-cho-sinh-vien.md) (đã viết) | C4.2 Gemini, ChatGPT và app AI miễn phí | 9,500 | 22 |
 | 9 | [Check đạo văn AI: cách phát hiện văn bản do AI viết](posts/check-dao-van-ai.md) (đã viết) | C4.3 AI cho học tập | 8,400 | 24 |
 | 10 | [Ghép ảnh bằng AI](posts/ghep-anh-bang-ai.md) (đã viết) | C3.2 Sửa ảnh theo việc | 8,350 | 25 |
-| 11 | Vclip AI là gì, cách dùng | C2.2 Hướng dẫn từng công cụ video | 8,100 | 30 |
-| 12 | AI tạo hình ảnh: công cụ và cách dùng | C3.1 Tạo ảnh bằng AI | 7,120 | 17 |
+| 11 | [Vclip AI là gì, cách dùng](posts/vclip-ai-la-gi.md) (đã viết) | C2.2 Hướng dẫn từng công cụ video | 8,100 | 30 |
+| 12 | [AI tạo hình ảnh: công cụ và cách dùng](posts/ai-tao-hinh-anh.md) (đã viết) | C3.1 Tạo ảnh bằng AI | 7,120 | 17 |
 
 ### Stage 2 (12 bài, 51,740 lượt tìm/tháng)
 
 | # | Bài | Cluster | Volume | KD |
 |---|---|---|---|---|
-| 1 | Học AI bắt đầu từ đâu: lộ trình, khoá học | C4.3 AI cho học tập | 6,830 | 13 |
-| 2 | Tạo logo bằng AI | C3.3 Thiết kế bằng AI | 5,830 | 28 |
-| 3 | Kling AI: hướng dẫn, gói miễn phí | C2.2 Hướng dẫn từng công cụ video | 5,300 | 26 |
-| 4 | AI giải bài tập: AI Hay, Gauth và cách dùng đúng | C4.3 AI cho học tập | 4,940 | 24 |
-| 5 | Làm nét ảnh bằng AI | C3.2 Sửa ảnh theo việc | 4,400 | 12 |
+| 1 | [Học AI bắt đầu từ đâu: lộ trình, khoá học](posts/hoc-ai-bat-dau-tu-dau.md) (đã viết) | C4.3 AI cho học tập | 6,830 | 13 |
+| 2 | [Tạo logo bằng AI](posts/tao-logo-bang-ai.md) (đã viết) | C3.3 Thiết kế bằng AI | 5,830 | 28 |
+| 3 | [Kling AI: hướng dẫn, gói miễn phí](posts/kling-ai.md) (đã viết) | C2.2 Hướng dẫn từng công cụ video | 5,300 | 26 |
+| 4 | [AI giải bài tập: AI Hay, Gauth và cách dùng đúng](posts/ai-giai-bai-tap.md) (đã viết) | C4.3 AI cho học tập | 4,940 | 24 |
+| 5 | [Làm nét ảnh bằng AI](posts/lam-net-anh-bang-ai.md) (đã viết) | C3.2 Sửa ảnh theo việc | 4,400 | 12 |
 | 6 | Prompt AI: cách viết câu lệnh hiệu quả | C4.4 Làm việc văn phòng với AI | 4,400 | 26 |
 | 7 | Mở rộng ảnh bằng AI | C3.2 Sửa ảnh theo việc | 3,870 | 20 |
 | 8 | Vidu AI: hướng dẫn | C2.2 Hướng dẫn từng công cụ video | 3,740 | 29 |

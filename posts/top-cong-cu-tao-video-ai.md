@@ -5,7 +5,7 @@ path: /kien-thuc/top-cong-cu-tao-video-ai
 description: "So sánh 10 công cụ tạo video AI: Google Veo, Kling, Runway, Vidu, Grok Imagine, Seedance, Hailuo, HeyGen và mô hình mã nguồn mở Wan. Cách tạo video AI miễn phí từ ảnh, từ văn bản và mẫu câu lệnh."
 category: Công cụ AI
 tags: [tạo video ai, video ai miễn phí, kling ai, veo, vidu ai, ai tạo video]
-keywords: [tạo video ai, tạo video ai miễn phí, ai tạo video, tạo video ai free, làm video ai, vidu ai, tạo video ai từ văn bản, kling ai video, grok ai video, cách tạo video ai]
+keywords: [tạo video ai, tạo video ai miễn phí, ai tạo video, tạo video ai free, làm video ai, vidu ai, tạo video ai từ văn bản, grok ai video, cách tạo video ai]
 author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
@@ -41,6 +41,8 @@ Thông tin kiểm tra ngày **23/11/2026**. Lĩnh vực này đổi rất nhanh;
 | [Tạo nhạc bằng AI: so sánh Suno, Udio, ElevenMusic và cách dùng nhạc AI không dính bản quyền](tao-nhac-bang-ai.md) | Tạo nhạc, bài hát bằng AI với Suno, Udio, ElevenMusic thế nào? |
 | [Higgsfield AI là gì? Cách dùng Higgsfield tạo video, bảng giá và gói miễn phí (11/2026)](higgsfield-ai-la-gi.md) | Higgsfield AI là gì, gói miễn phí được gì? |
 | [Cách tạo video AI từ ảnh miễn phí và trả phí: Gemini, Kling, Vidu từng bước (11/2026)](tao-video-ai-tu-anh.md) | Tạo video AI từ ảnh bằng công cụ nào, miễn phí không? |
+| [Vclip AI là gì? Cách dùng VClip đọc văn bản, nhân bản giọng, thuyết minh video (11/2026)](vclip-ai-la-gi.md) | Dùng VClip AI làm giọng đọc, video ngắn thế nào? |
+| [Kling AI là gì? Hướng dẫn dùng kling.ai, gói miễn phí, Kling 3.0 và 4.0 (11/2026)](kling-ai.md) | Dùng Kling AI thế nào, gói miễn phí được gì? |
 
 Các hướng dẫn chi tiết từng công cụ (Kling, Higgsfield), giọng đọc AI tiếng Việt và tạo nhạc AI sẽ được bổ sung vào bảng này.
 

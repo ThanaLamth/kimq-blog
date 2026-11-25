@@ -15,9 +15,9 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 | Pillar | Bài pillar | Cluster | Số bài (đã viết/tổng) | Lượng tìm cả chuyên đề |
 |---|---|---|---|---|
 | P1 Phần mềm mã nguồn mở cho doanh nghiệp | [huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep](posts/huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) | 2 | 5/6 | thấp (B2B) |
-| P2 Tạo video bằng AI | [top-cong-cu-tao-video-ai](posts/top-cong-cu-tao-video-ai.md) | 3 | 5/13 | 219.650 |
-| P3 AI tạo và chỉnh sửa ảnh | [top-cong-cu-ai-chinh-sua-anh](posts/top-cong-cu-ai-chinh-sua-anh.md) | 3 | 2/10 | 58.780 |
-| P4 Trợ lý AI và công cụ AI cho công việc | [huong-dan-dung-cong-cu-ai-pho-bien](posts/huong-dan-dung-cong-cu-ai-pho-bien.md) | 7 | 7/22 | 156.940 |
+| P2 Tạo video bằng AI | [top-cong-cu-tao-video-ai](posts/top-cong-cu-tao-video-ai.md) | 3 | 7/13 | 219.650 |
+| P3 AI tạo và chỉnh sửa ảnh | [top-cong-cu-ai-chinh-sua-anh](posts/top-cong-cu-ai-chinh-sua-anh.md) | 3 | 5/10 | 58.780 |
+| P4 Trợ lý AI và công cụ AI cho công việc | [huong-dan-dung-cong-cu-ai-pho-bien](posts/huong-dan-dung-cong-cu-ai-pho-bien.md) | 7 | 9/22 | 156.940 |
 
 ## P1. Phần mềm mã nguồn mở cho doanh nghiệp
 
@@ -57,8 +57,8 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 |---|---|---|---|---|---|---|---|
 | [Viggle AI là gì, cách dùng](posts/viggle-ai-la-gi.md) | Đã viết | – | viggle ai | – | 74.000 | 27 | Từ khoá điều hướng, khó vượt trang chủ Viggle |
 | [Higgsfield AI là gì, cách dùng](posts/higgsfield-ai-la-gi.md) | Đã viết | – | higgsfield ai | – | 12.100 | 15 |  |
-| Vclip AI là gì, cách dùng | Dự kiến | Trung bình | vclip ai | – | 8.100 | 30 | Điều hướng |
-| Kling AI: hướng dẫn, gói miễn phí | Dự kiến | Cao | kling ai.com | kling ai video, kling ai free, kling ai 3.0 | 5.300 | 26 | Chuyển "kling ai video" khỏi pillar |
+| [Vclip AI là gì, cách dùng](posts/vclip-ai-la-gi.md) | Đã viết | – | vclip ai | – | 8.100 | 30 | Điều hướng |
+| [Kling AI: hướng dẫn, gói miễn phí](posts/kling-ai.md) | Đã viết | – | kling ai.com | kling ai video, kling ai free, kling ai 3.0 | 5.300 | 26 | Chuyển "kling ai video" khỏi pillar |
 | Vidu AI: hướng dẫn | Dự kiến | Trung bình | vidu ai | vidu studio | 3.740 | 29 | Chuyển "vidu ai" khỏi pillar |
 | Luma AI: hướng dẫn | Dự kiến | Trung bình | luma ai | – | 2.900 | 28 | Điều hướng |
 | Grok Imagine: tạo video bằng Grok | Dự kiến | Trung bình | grok ai video | – | 1.300 | 22 | Chuyển khỏi pillar |
@@ -79,7 +79,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 
 | Bài | Trạng thái | Ưu tiên | Từ khoá chính | Từ khoá phụ | Lượng tìm | KD | Ghi chú |
 |---|---|---|---|---|---|---|---|
-| AI tạo hình ảnh: công cụ và cách dùng | Dự kiến | Cao | ai tạo hình ảnh | ai hình ảnh, ảnh trí tuệ nhân tạo, vẽ tranh ai, krea ai | 7.120 | 17 |  |
+| [AI tạo hình ảnh: công cụ và cách dùng](posts/ai-tao-hinh-anh.md) | Đã viết | – | ai tạo hình ảnh | ai hình ảnh, ảnh trí tuệ nhân tạo, vẽ tranh ai, krea ai | 7.120 | 17 |  |
 | [35 câu lệnh tạo ảnh, ghép ảnh trên Gemini](posts/cau-lenh-tao-anh-ghep-anh-gemini.md) | Đã viết | – | câu lệnh tạo ảnh trên gemini | câu lệnh ghép ảnh trên gemini, xoá logo gemini, xóa logo gemini trên ảnh | 10.320 | 17 | Bỏ nhóm "gemini sinh viên" khỏi bài này (sang C4.2) |
 | Tạo ảnh AI trên Zalo | Dự kiến | Thấp | zalo ai avatar | cách tạo ảnh ai trên zalo | 700 | 20 |  |
 
@@ -87,7 +87,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 
 | Bài | Trạng thái | Ưu tiên | Từ khoá chính | Từ khoá phụ | Lượng tìm | KD | Ghi chú |
 |---|---|---|---|---|---|---|---|
-| Làm nét ảnh bằng AI | Dự kiến | Cao | làm nét ảnh ai | – | 4.400 | 12 |  |
+| [Làm nét ảnh bằng AI](posts/lam-net-anh-bang-ai.md) | Đã viết | – | làm nét ảnh ai | – | 4.400 | 12 |  |
 | [Ghép ảnh bằng AI](posts/ghep-anh-bang-ai.md) | Đã viết | – | ai ghép ảnh | ghép ảnh ai online, ghép ảnh bằng ai, ghép ảnh ai, ghép hình ai, cách ghép ảnh bằng ai | 8.350 | 25 | Chuyển khỏi pillar |
 | Ghép mặt bằng AI: công cụ và lưu ý pháp lý | Dự kiến | Cao | ai ghép mặt | ghép mặt ai | 2.900 | 15 | Nhấn mạnh deepfake, xin phép người trong ảnh |
 | Mở rộng ảnh bằng AI | Dự kiến | Trung bình | mở rộng ảnh bằng ai | mở rộng ảnh ai, ai mở rộng ảnh, mở rộng ảnh ai online | 3.870 | 20 | Chuyển khỏi pillar |
@@ -98,7 +98,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 
 | Bài | Trạng thái | Ưu tiên | Từ khoá chính | Từ khoá phụ | Lượng tìm | KD | Ghi chú |
 |---|---|---|---|---|---|---|---|
-| Tạo logo bằng AI | Dự kiến | Trung bình | tạo logo bằng ai | tạo logo ai miễn phí, thiết kế logo bằng ai, thiết kế logo ai, thiet ke logo bang ai, tạo logo ai, làm logo bằng ai, cách tạo logo bằng ai | 5.830 | 28 |  |
+| [Tạo logo bằng AI](posts/tao-logo-bang-ai.md) | Đã viết | – | tạo logo bằng ai | tạo logo ai miễn phí, thiết kế logo bằng ai, thiết kế logo ai, thiet ke logo bang ai, tạo logo ai, làm logo bằng ai, cách tạo logo bằng ai | 5.830 | 28 |  |
 
 ## P4. Trợ lý AI và công cụ AI cho công việc
 
@@ -126,9 +126,9 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 
 | Bài | Trạng thái | Ưu tiên | Từ khoá chính | Từ khoá phụ | Lượng tìm | KD | Ghi chú |
 |---|---|---|---|---|---|---|---|
-| Học AI bắt đầu từ đâu: lộ trình, khoá học | Dự kiến | Cao | khóa học ai | học ai, học ai bắt đầu từ đâu, học ai ở đâu, tự học ai trí tuệ nhân tạo, học ai cho người mới bắt đầu, học ai cơ bản, khóa học ai miễn phí, học về ai, tự học ai, khóa học về ai, học ai miễn phí, học công nghệ ai, cách học ai, học ai online, hướng dẫn học ai, học ai từ a đến z, khóa học ai online, học sử dụng ai, lộ trình học ai, khoá học ai trí tuệ nhân tạo | 6.830 | 13 |  |
+| [Học AI bắt đầu từ đâu: lộ trình, khoá học](posts/hoc-ai-bat-dau-tu-dau.md) | Đã viết | – | khóa học ai | học ai, học ai bắt đầu từ đâu, học ai ở đâu, tự học ai trí tuệ nhân tạo, học ai cho người mới bắt đầu, học ai cơ bản, khóa học ai miễn phí, học về ai, tự học ai, khóa học về ai, học ai miễn phí, học công nghệ ai, cách học ai, học ai online, hướng dẫn học ai, học ai từ a đến z, khóa học ai online, học sử dụng ai, lộ trình học ai, khoá học ai trí tuệ nhân tạo | 6.830 | 13 |  |
 | [Check đạo văn AI: cách phát hiện văn bản do AI viết](posts/check-dao-van-ai.md) | Đã viết | – | check đạo văn ai | check ai đạo văn, phát hiện ai, kiểm tra ai | 8.400 | 24 | "kiểm tra ai" có lẫn ý định khác, xem SERP |
-| AI giải bài tập: AI Hay, Gauth và cách dùng đúng | Dự kiến | Cao | ai hay giải bài tập | gauth ai, ứng dụng ai trong học tập | 4.940 | 24 |  |
+| [AI giải bài tập: AI Hay, Gauth và cách dùng đúng](posts/ai-giai-bai-tap.md) | Đã viết | – | ai hay giải bài tập | gauth ai, ứng dụng ai trong học tập | 4.940 | 24 |  |
 | AI viết văn: dùng thế nào cho đúng | Dự kiến | Trung bình | ai viết văn | ai viết văn hay | 1.470 | 24 |  |
 
 ### C4.4 Làm việc văn phòng với AI
@@ -172,15 +172,15 @@ Xếp theo lượng tìm chia cho độ khó, nên bài vừa nhiều lượt t�
 | 3 | [Higgsfield AI là gì, cách dùng](posts/higgsfield-ai-la-gi.md) (đã viết) | P2 / C2.2 Hướng dẫn từng công cụ video | 12.100 | 15 |
 | 4 | [Làm slide bằng AI](posts/lam-slide-bang-ai.md) (đã viết) | P4 / C4.4 Làm việc văn phòng với AI | 18.580 | 26 |
 | 5 | [AI agency là gì](posts/ai-agency-la-gi.md) (đã viết) | P4 / C4.6 AI cho doanh nghiệp | 9.900 | 18 |
-| 6 | Học AI bắt đầu từ đâu: lộ trình, khoá học | P4 / C4.3 AI cho học tập | 6.830 | 13 |
+| 6 | [Học AI bắt đầu từ đâu: lộ trình, khoá học](posts/hoc-ai-bat-dau-tu-dau.md) (đã viết) | P4 / C4.3 AI cho học tập | 6.830 | 13 |
 | 7 | [Gemini cho sinh viên: nhận gói miễn phí](posts/gemini-cho-sinh-vien.md) (đã viết) | P4 / C4.2 Gemini, ChatGPT và app AI miễn phí | 9.500 | 22 |
-| 8 | AI tạo hình ảnh: công cụ và cách dùng | P3 / C3.1 Tạo ảnh bằng AI | 7.120 | 17 |
+| 8 | [AI tạo hình ảnh: công cụ và cách dùng](posts/ai-tao-hinh-anh.md) (đã viết) | P3 / C3.1 Tạo ảnh bằng AI | 7.120 | 17 |
 | 9 | [Cách tạo video AI từ ảnh](posts/tao-video-ai-tu-anh.md) (đã viết) | P2 / C2.1 Tạo video theo đầu vào | 9.640 | 26 |
 | 10 | [Check đạo văn AI: cách phát hiện văn bản do AI viết](posts/check-dao-van-ai.md) (đã viết) | P4 / C4.3 AI cho học tập | 8.400 | 24 |
 | 11 | [Ghép ảnh bằng AI](posts/ghep-anh-bang-ai.md) (đã viết) | P3 / C3.2 Sửa ảnh theo việc | 8.350 | 25 |
-| 12 | Làm nét ảnh bằng AI | P3 / C3.2 Sửa ảnh theo việc | 4.400 | 12 |
-| 13 | Kling AI: hướng dẫn, gói miễn phí | P2 / C2.2 Hướng dẫn từng công cụ video | 5.300 | 26 |
-| 14 | AI giải bài tập: AI Hay, Gauth và cách dùng đúng | P4 / C4.3 AI cho học tập | 4.940 | 24 |
+| 12 | [Làm nét ảnh bằng AI](posts/lam-net-anh-bang-ai.md) (đã viết) | P3 / C3.2 Sửa ảnh theo việc | 4.400 | 12 |
+| 13 | [Kling AI: hướng dẫn, gói miễn phí](posts/kling-ai.md) (đã viết) | P2 / C2.2 Hướng dẫn từng công cụ video | 5.300 | 26 |
+| 14 | [AI giải bài tập: AI Hay, Gauth và cách dùng đúng](posts/ai-giai-bai-tap.md) (đã viết) | P4 / C4.3 AI cho học tập | 4.940 | 24 |
 | 15 | Ghép mặt bằng AI: công cụ và lưu ý pháp lý | P3 / C3.2 Sửa ảnh theo việc | 2.900 | 15 |
 | 16 | Prompt AI: cách viết câu lệnh hiệu quả | P4 / C4.4 Làm việc văn phòng với AI | 4.400 | 26 |
 

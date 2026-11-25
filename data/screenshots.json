@@ -634,5 +634,215 @@
    "waitMs": 6000,
    "waitUntil": "domcontentloaded"
   }
+ ],
+ "vclip-ai-la-gi": [
+  {
+   "url": "https://vclip.io/",
+   "after": "## VClip TTS: đọc văn bản thành giọng nói",
+   "name": "vclip-doc-van-ban",
+   "alt": "Trang chủ VClip với công cụ đọc văn bản",
+   "scrollToText": "Từ văn bản đến file âm thanh",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://app.vclip.io/",
+   "after": "## VClip Thuyết minh AI: lồng tiếng Việt cho video",
+   "name": "vclip-thuyet-minh",
+   "alt": "Trang thuyết minh video bằng AI của VClip",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://vclip.io/",
+   "after": "## API cho nhà phát triển",
+   "name": "vclip-api",
+   "alt": "Phần giới thiệu API giọng đọc của VClip",
+   "scrollToText": "Thêm giọng đọc tiếng Việt vào sản phẩm",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "ai-tao-hinh-anh": [
+  {
+   "url": "https://gemini.google/overview/image-generation/",
+   "after": "## Gemini (Nano Banana): miễn phí, gõ tiếng Việt tốt",
+   "name": "gemini-nano-banana",
+   "alt": "Trang giới thiệu tạo ảnh bằng Nano Banana trong Gemini",
+   "scrollToText": "Choose the right model",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://support.microsoft.com/en-us/designer/frequently-asked-questions-about-microsoft-designer",
+   "after": "## Microsoft Designer: miễn phí, hợp làm thiệp và bài đăng",
+   "name": "microsoft-designer-faq",
+   "alt": "Câu hỏi thường gặp về Microsoft Designer",
+   "scrollToText": "Is Microsoft Designer free",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://www.krea.ai/pricing",
+   "after": "## Krea AI: nhiều mô hình trong một chỗ",
+   "name": "krea-pricing",
+   "alt": "Bảng giá các gói Krea AI",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "hoc-ai-bat-dau-tu-dau": [
+  {
+   "url": "https://www.binhdanhocvuso.gov.vn/",
+   "after": "### Bình dân học vụ số và Bình dân học AI",
+   "name": "binh-dan-hoc-vu-so",
+   "alt": "Nền tảng Bình dân học vụ số",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://grow.google/intl/vi_vn/ai-essentials/",
+   "after": "### Google AI Essentials",
+   "name": "google-ai-essentials",
+   "alt": "Trang khoá Google AI Essentials bản tiếng Việt",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://developers.google.com/machine-learning/crash-course",
+   "after": "## Cấp 3: Học làm AI (cho người lập trình)",
+   "name": "google-ml-crash-course",
+   "alt": "Trang Machine Learning Crash Course của Google",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "tao-logo-bang-ai": [
+  {
+   "url": "https://www.canva.com/create/logos/",
+   "after": "## 2. Canva: mẫu logo và công cụ AI",
+   "name": "canva-logo",
+   "alt": "Trang tạo logo của Canva",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://www.adobe.com/express/create/logo",
+   "after": "## 3. Adobe Express: logo miễn phí, có phông chữ Adobe",
+   "name": "adobe-express-logo",
+   "alt": "Trang tạo logo miễn phí của Adobe Express",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://looka.com/pricing/",
+   "after": "## 4. Looka: logo kèm cả bộ nhận diện thương hiệu",
+   "name": "looka-pricing",
+   "alt": "Bảng giá Looka",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "kling-ai": [
+  {
+   "url": "https://kling.ai/",
+   "after": "## Kling AI là gì",
+   "name": "kling-home",
+   "alt": "Trang chủ Kling AI",
+   "captured": "2026-11-25",
+   "waitMs": 8000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://kling.ai/app/membership/membership-plan",
+   "after": "## Bảng giá Kling AI và gói miễn phí",
+   "name": "kling-membership",
+   "alt": "Bảng giá các gói thành viên Kling AI",
+   "scrollToText": "Subscription Comparison",
+   "captured": "2026-11-25",
+   "waitMs": 8000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://kling.ai/docs/user-policy",
+   "after": "## Điều khoản cần đọc trước khi tải ảnh lên",
+   "name": "kling-terms",
+   "alt": "Điều khoản dịch vụ Kling AI, mục cấp phép nội dung",
+   "scrollToText": "4.7.1 Subject to legitimate",
+   "captured": "2026-11-25",
+   "waitMs": 8000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "ai-giai-bai-tap": [
+  {
+   "url": "https://aihay.vn/",
+   "after": "## AI Hay: ứng dụng hỏi đáp AI của Việt Nam",
+   "name": "aihay-home",
+   "alt": "Trang chủ AI Hay",
+   "captured": "2026-11-25",
+   "waitMs": 7000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://www.gauthmath.com/",
+   "after": "## Gauth: chụp đề toán, ra lời giải từng bước",
+   "name": "gauth-home",
+   "alt": "Trang chủ Gauth",
+   "captured": "2026-11-25",
+   "waitMs": 7000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://support.google.com/gemini/answer/16448384?hl=vi",
+   "after": "## Gemini: chế độ Học có hướng dẫn",
+   "name": "gemini-hoc-co-huong-dan",
+   "alt": "Trang trợ giúp công cụ học tập trong Gemini",
+   "captured": "2026-11-25",
+   "waitMs": 7000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "lam-net-anh-bang-ai": [
+  {
+   "url": "https://www.canva.com/help/upscale-image/",
+   "after": "## 1. Canva Upscale: miễn phí, một cú bấm",
+   "name": "canva-upscale",
+   "alt": "Trang trợ giúp tính năng Upscale của Canva",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://helpx.adobe.com/photoshop/desktop/repair-retouch/clean-restore-images/enhance-image-quality-with-generative-upscale.html",
+   "after": "## 2. Photoshop Generative Upscale: chọn mô hình, in khổ lớn",
+   "name": "photoshop-generative-upscale",
+   "alt": "Trang trợ giúp Generative Upscale của Photoshop",
+   "scrollToText": "Enhance image quality with Generative Upscale",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://github.com/upscayl/upscayl",
+   "after": "## 4. Upscayl: miễn phí, mã nguồn mở, ảnh không rời máy",
+   "name": "upscayl-github",
+   "alt": "Trang GitHub của Upscayl",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  }
  ]
 }

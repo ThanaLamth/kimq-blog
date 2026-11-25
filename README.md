@@ -23,6 +23,8 @@ Sơ đồ đầy đủ pillar, cluster, từ khoá và thứ tự viết: [TOPIC
 - [Tạo nhạc bằng AI: so sánh Suno, Udio, ElevenMusic và cách dùng nhạc AI không dính bản quyền](posts/tao-nhac-bang-ai.md)
 - [Higgsfield AI là gì? Cách dùng Higgsfield tạo video, bảng giá và gói miễn phí (11/2026)](posts/higgsfield-ai-la-gi.md)
 - [Cách tạo video AI từ ảnh miễn phí và trả phí: Gemini, Kling, Vidu từng bước (11/2026)](posts/tao-video-ai-tu-anh.md)
+- [Vclip AI là gì? Cách dùng VClip đọc văn bản, nhân bản giọng, thuyết minh video (11/2026)](posts/vclip-ai-la-gi.md)
+- [Kling AI là gì? Hướng dẫn dùng kling.ai, gói miễn phí, Kling 3.0 và 4.0 (11/2026)](posts/kling-ai.md)
 
 ## 3. AI tạo và chỉnh sửa ảnh
 
@@ -30,6 +32,9 @@ Sơ đồ đầy đủ pillar, cluster, từ khoá và thứ tự viết: [TOPIC
 
 - [35 câu lệnh tạo ảnh, ghép ảnh trên Gemini](posts/cau-lenh-tao-anh-ghep-anh-gemini.md)
 - [Ghép ảnh bằng AI: cách ghép ảnh online với Gemini, Canva, Photoshop (11/2026)](posts/ghep-anh-bang-ai.md)
+- [AI tạo hình ảnh: Gemini, ChatGPT, Microsoft Designer, Krea và cách viết câu lệnh (11/2026)](posts/ai-tao-hinh-anh.md)
+- [Tạo logo bằng AI miễn phí: Gemini, Canva, Adobe Express, Looka và quy trình 6 bước (11/2026)](posts/tao-logo-bang-ai.md)
+- [Làm nét ảnh bằng AI: Canva, Photoshop, Lightroom, Upscayl miễn phí, so sánh và cách dùng (11/2026)](posts/lam-net-anh-bang-ai.md)
 
 ## 4. Trợ lý AI và công cụ AI cho công việc
 
@@ -42,6 +47,8 @@ Sơ đồ đầy đủ pillar, cluster, từ khoá và thứ tự viết: [TOPIC
 - [AI agency là gì? Dịch vụ, chi phí và cách chọn đơn vị triển khai AI cho doanh nghiệp (11/2026)](posts/ai-agency-la-gi.md)
 - [Gemini cho sinh viên: cách nhận Google AI Plus miễn phí 1 năm, điều kiện và lỗi thường gặp (11/2026)](posts/gemini-cho-sinh-vien.md)
 - [Check đạo văn AI: công cụ phát hiện văn bản do AI viết có chính xác không? (Turnitin, GPTZero, 11/2026)](posts/check-dao-van-ai.md)
+- [Học AI bắt đầu từ đâu? Lộ trình 3 cấp và khoá học AI miễn phí cho người mới (11/2026)](posts/hoc-ai-bat-dau-tu-dau.md)
+- [AI giải bài tập: AI Hay, Gauth, Gemini, ChatGPT và cách dùng để học thật (11/2026)](posts/ai-giai-bai-tap.md)
 
 ---
 
