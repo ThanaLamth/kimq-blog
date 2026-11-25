@@ -15,7 +15,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 | Pillar | Bài pillar | Cluster | Số bài (đã viết/tổng) | Lượng tìm cả chuyên đề |
 |---|---|---|---|---|
 | P1 Phần mềm mã nguồn mở cho doanh nghiệp | [huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep](posts/huong-dan-chon-phan-mem-ma-nguon-mo-cho-doanh-nghiep.md) | 2 | 5/6 | thấp (B2B) |
-| P2 Tạo video bằng AI | [top-cong-cu-tao-video-ai](posts/top-cong-cu-tao-video-ai.md) | 3 | 1/13 | 219.650 |
+| P2 Tạo video bằng AI | [top-cong-cu-tao-video-ai](posts/top-cong-cu-tao-video-ai.md) | 3 | 2/13 | 219.650 |
 | P3 AI tạo và chỉnh sửa ảnh | [top-cong-cu-ai-chinh-sua-anh](posts/top-cong-cu-ai-chinh-sua-anh.md) | 3 | 1/10 | 58.780 |
 | P4 Trợ lý AI và công cụ AI cho công việc | [huong-dan-dung-cong-cu-ai-pho-bien](posts/huong-dan-dung-cong-cu-ai-pho-bien.md) | 7 | 3/22 | 156.940 |
 
@@ -67,7 +67,7 @@ Cập nhật 23/11/2026. Lượng tìm là tổng lượt tìm/tháng tại Vi�
 
 | Bài | Trạng thái | Ưu tiên | Từ khoá chính | Từ khoá phụ | Lượng tìm | KD | Ghi chú |
 |---|---|---|---|---|---|---|---|
-| Giọng đọc AI tiếng Việt: Vbee, FPT AI, Viettel AI, Vclip | Dự kiến | Cao | vbee ai | vclip.ai voice, vclip ai voice, clip ai voice, giọng adam ai, giọng ai adam, fpt ai text to speech, viettel ai text to speech, fpt voice ai | 23.760 | 23 | Gắn AI Studio |
+| [Giọng đọc AI tiếng Việt: Vbee, FPT AI, Viettel AI, Vclip](posts/giong-doc-ai-tieng-viet.md) | Đã viết | – | vbee ai | vclip.ai voice, vclip ai voice, clip ai voice, giọng adam ai, giọng ai adam, fpt ai text to speech, viettel ai text to speech, fpt voice ai | 23.760 | 23 | Gắn AI Studio |
 | Tạo nhạc bằng AI | Dự kiến | Cao | nhạc ai | tạo nhạc ai, ai tạo nhạc, tạo nhạc bằng ai miễn phí, làm nhạc ai, tạo nhạc bằng ai, ai nhạc | 19.800 | 24 |  |
 | Tạo phụ đề tự động cho video | Dự kiến | Thấp | tạo phụ đề tự động cho video | – | 70 | 15 | Gắn AI Studio |
 
@@ -167,7 +167,7 @@ Xếp theo lượng tìm chia cho độ khó, nên bài vừa nhiều lượt t�
 
 | # | Bài | Pillar / Cluster | Lượng tìm | KD |
 |---|---|---|---|---|
-| 1 | Giọng đọc AI tiếng Việt: Vbee, FPT AI, Viettel AI, Vclip | P2 / C2.3 Âm thanh cho video | 23.760 | 23 |
+| 1 | [Giọng đọc AI tiếng Việt: Vbee, FPT AI, Viettel AI, Vclip](posts/giong-doc-ai-tieng-viet.md) (đã viết) | P2 / C2.3 Âm thanh cho video | 23.760 | 23 |
 | 2 | Tạo nhạc bằng AI | P2 / C2.3 Âm thanh cho video | 19.800 | 24 |
 | 3 | Higgsfield AI là gì, cách dùng | P2 / C2.2 Hướng dẫn từng công cụ video | 12.100 | 15 |
 | 4 | Làm slide bằng AI | P4 / C4.4 Làm việc văn phòng với AI | 18.580 | 26 |

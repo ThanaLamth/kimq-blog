@@ -351,5 +351,39 @@
     "Bottom text": "Tôi: để Viggle lo"
    }
   }
+ ],
+ "giong-doc-ai-tieng-viet": [
+  {
+   "url": "https://vbee.vn/pricing",
+   "after": "## Vbee: nhiều gói nhất cho người làm nội dung",
+   "name": "vbee-pricing",
+   "alt": "Bảng giá các gói Vbee AIVoice",
+   "captured": "2026-11-25",
+   "waitMs": 6000
+  },
+  {
+   "url": "https://docs.fpt.ai/docs/vi/speech/documentation/tts-pricing",
+   "after": "## FPT.AI: gói ký tự trả trước, rõ ràng cho doanh nghiệp",
+   "name": "fptai-tts-pricing",
+   "alt": "Trang bảng giá chuyển văn bản thành giọng nói của FPT.AI",
+   "captured": "2026-11-25",
+   "waitMs": 5000
+  },
+  {
+   "url": "https://viettelai.vn/bang-gia",
+   "after": "## Viettel AI: báo giá theo yêu cầu",
+   "name": "viettelai-bang-gia",
+   "alt": "Trang bảng giá dịch vụ Viettel AI",
+   "captured": "2026-11-25",
+   "waitMs": 6000
+  },
+  {
+   "url": "https://vclip.io/",
+   "after": "## VClip: nhân bản giọng và đọc truyện dài",
+   "name": "vclip-home",
+   "alt": "Trang chủ VClip với công cụ đọc văn bản và nhân bản giọng",
+   "captured": "2026-11-25",
+   "waitMs": 6000
+  }
  ]
 }

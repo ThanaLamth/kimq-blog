@@ -37,6 +37,7 @@ Thông tin kiểm tra ngày **23/11/2026**. Lĩnh vực này đổi rất nhanh;
 | [Top công cụ AI tạo và chỉnh sửa ảnh](top-cong-cu-ai-chinh-sua-anh.md) | Chuẩn bị ảnh đẹp trước khi biến thành video bằng công cụ nào? |
 | [35 câu lệnh tạo ảnh, ghép ảnh trên Gemini](cau-lenh-tao-anh-ghep-anh-gemini.md) | Video tạo bằng Gemini có hình mờ không, viết câu lệnh thế nào? |
 | [Viggle AI là gì? Cách dùng Viggle AI](viggle-ai-la-gi.md) | Ghép nhân vật từ 1 tấm ảnh vào video nhảy, meme thế nào, giá bao nhiêu? |
+| [Giọng đọc AI tiếng Việt: so sánh Vbee, FPT.AI, Viettel AI, VClip (cập nhật 11/2026)](giong-doc-ai-tieng-viet.md) | Nên chọn Vbee, FPT.AI, Viettel AI hay VClip để lồng tiếng tiếng Việt, giá bao nhiêu? |
 
 Các hướng dẫn chi tiết từng công cụ (Kling, Higgsfield), giọng đọc AI tiếng Việt và tạo nhạc AI sẽ được bổ sung vào bảng này.
 
