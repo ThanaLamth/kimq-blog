@@ -5,7 +5,7 @@ path: /kien-thuc/top-cong-cu-tao-video-ai
 description: "So sánh 10 công cụ tạo video AI: Google Veo, Kling, Runway, Vidu, Grok Imagine, Seedance, Hailuo, HeyGen và mô hình mã nguồn mở Wan. Cách tạo video AI miễn phí từ ảnh, từ văn bản và mẫu câu lệnh."
 category: Công cụ AI
 tags: [tạo video ai, video ai miễn phí, kling ai, veo, vidu ai, ai tạo video]
-keywords: [tạo video ai, tạo video ai miễn phí, ai tạo video, tạo video ai free, làm video ai, tạo video ai miễn phí từ ảnh, vidu ai, tạo video ai từ hình ảnh, tạo video ai từ văn bản, kling ai video, grok ai video, cách tạo video ai]
+keywords: [tạo video ai, tạo video ai miễn phí, ai tạo video, tạo video ai free, làm video ai, vidu ai, tạo video ai từ văn bản, kling ai video, grok ai video, cách tạo video ai]
 author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
@@ -38,6 +38,9 @@ Thông tin kiểm tra ngày **23/11/2026**. Lĩnh vực này đổi rất nhanh;
 | [35 câu lệnh tạo ảnh, ghép ảnh trên Gemini](cau-lenh-tao-anh-ghep-anh-gemini.md) | Video tạo bằng Gemini có hình mờ không, viết câu lệnh thế nào? |
 | [Viggle AI là gì? Cách dùng Viggle AI](viggle-ai-la-gi.md) | Ghép nhân vật từ 1 tấm ảnh vào video nhảy, meme thế nào, giá bao nhiêu? |
 | [Giọng đọc AI tiếng Việt: so sánh Vbee, FPT.AI, Viettel AI, VClip (cập nhật 11/2026)](giong-doc-ai-tieng-viet.md) | Nên chọn Vbee, FPT.AI, Viettel AI hay VClip để lồng tiếng tiếng Việt, giá bao nhiêu? |
+| [Tạo nhạc bằng AI: so sánh Suno, Udio, ElevenMusic và cách dùng nhạc AI không dính bản quyền](tao-nhac-bang-ai.md) | Tạo nhạc, bài hát bằng AI với Suno, Udio, ElevenMusic thế nào? |
+| [Higgsfield AI là gì? Cách dùng Higgsfield tạo video, bảng giá và gói miễn phí (11/2026)](higgsfield-ai-la-gi.md) | Higgsfield AI là gì, gói miễn phí được gì? |
+| [Cách tạo video AI từ ảnh miễn phí và trả phí: Gemini, Kling, Vidu từng bước (11/2026)](tao-video-ai-tu-anh.md) | Tạo video AI từ ảnh bằng công cụ nào, miễn phí không? |
 
 Các hướng dẫn chi tiết từng công cụ (Kling, Higgsfield), giọng đọc AI tiếng Việt và tạo nhạc AI sẽ được bổ sung vào bảng này.
 

@@ -33,6 +33,10 @@ Mỗi tháng lại có công cụ AI mới, model mới, gói giá mới. Với 
 | [Claude là gì? So sánh các gói Claude](claude-la-gi-so-sanh-cac-goi-claude.md) | Claude làm được gì, gói Free, Pro, Max, Ultra, Team khác nhau thế nào? |
 | [Claude Design là gì](claude-design-la-gi.md) | Làm slide, one-pager, prototype bằng AI thế nào? |
 | [Chế độ AI của Google là gì](che-do-ai-google-ai-mode-la-gi.md) | Tìm kiếm bằng AI Mode thế nào, doanh nghiệp cần làm gì? |
+| [Làm slide bằng AI: so sánh Gamma, Canva, Gemini trong Google Slides, Copilot trong PowerPoint (11/2026)](lam-slide-bang-ai.md) | Làm slide, PowerPoint bằng AI miễn phí với công cụ nào? |
+| [AI agency là gì? Dịch vụ, chi phí và cách chọn đơn vị triển khai AI cho doanh nghiệp (11/2026)](ai-agency-la-gi.md) | AI agency là gì, chọn đơn vị triển khai AI thế nào? |
+| [Gemini cho sinh viên: cách nhận Google AI Plus miễn phí 1 năm, điều kiện và lỗi thường gặp (11/2026)](gemini-cho-sinh-vien.md) | Sinh viên nhận gói Gemini miễn phí thế nào? |
+| [Check đạo văn AI: công cụ phát hiện văn bản do AI viết có chính xác không? (Turnitin, GPTZero, 11/2026)](check-dao-van-ai.md) | Công cụ check AI có tin được không? |
 
 **Chuyên đề con:**
 

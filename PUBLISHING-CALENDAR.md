@@ -70,14 +70,14 @@ Sắp theo volume giảm dần, đúng thứ tự của claude-seo. Bài thươn
 |---|---|---|---|---|
 | 1 | [Viggle AI là gì, cách dùng](posts/viggle-ai-la-gi.md) (đã viết) | C2.2 Hướng dẫn từng công cụ video | 74,000 | 27 |
 | 2 | [Giọng đọc AI tiếng Việt: Vbee, FPT AI, Viettel AI, Vclip](posts/giong-doc-ai-tieng-viet.md) (đã viết) | C2.3 Âm thanh cho video | 23,760 | 23 |
-| 3 | Tạo nhạc bằng AI | C2.3 Âm thanh cho video | 19,800 | 24 |
-| 4 | Làm slide bằng AI | C4.4 Làm việc văn phòng với AI | 18,580 | 26 |
-| 5 | Higgsfield AI là gì, cách dùng | C2.2 Hướng dẫn từng công cụ video | 12,100 | 15 |
-| 6 | AI agency là gì | C4.6 AI cho doanh nghiệp | 9,900 | 18 |
-| 7 | Cách tạo video AI từ ảnh | C2.1 Tạo video theo đầu vào | 9,640 | 26 |
-| 8 | Gemini cho sinh viên: nhận gói miễn phí | C4.2 Gemini, ChatGPT và app AI miễn phí | 9,500 | 22 |
-| 9 | Check đạo văn AI: cách phát hiện văn bản do AI viết | C4.3 AI cho học tập | 8,400 | 24 |
-| 10 | Ghép ảnh bằng AI | C3.2 Sửa ảnh theo việc | 8,350 | 25 |
+| 3 | [Tạo nhạc bằng AI](posts/tao-nhac-bang-ai.md) (đã viết) | C2.3 Âm thanh cho video | 19,800 | 24 |
+| 4 | [Làm slide bằng AI](posts/lam-slide-bang-ai.md) (đã viết) | C4.4 Làm việc văn phòng với AI | 18,580 | 26 |
+| 5 | [Higgsfield AI là gì, cách dùng](posts/higgsfield-ai-la-gi.md) (đã viết) | C2.2 Hướng dẫn từng công cụ video | 12,100 | 15 |
+| 6 | [AI agency là gì](posts/ai-agency-la-gi.md) (đã viết) | C4.6 AI cho doanh nghiệp | 9,900 | 18 |
+| 7 | [Cách tạo video AI từ ảnh](posts/tao-video-ai-tu-anh.md) (đã viết) | C2.1 Tạo video theo đầu vào | 9,640 | 26 |
+| 8 | [Gemini cho sinh viên: nhận gói miễn phí](posts/gemini-cho-sinh-vien.md) (đã viết) | C4.2 Gemini, ChatGPT và app AI miễn phí | 9,500 | 22 |
+| 9 | [Check đạo văn AI: cách phát hiện văn bản do AI viết](posts/check-dao-van-ai.md) (đã viết) | C4.3 AI cho học tập | 8,400 | 24 |
+| 10 | [Ghép ảnh bằng AI](posts/ghep-anh-bang-ai.md) (đã viết) | C3.2 Sửa ảnh theo việc | 8,350 | 25 |
 | 11 | Vclip AI là gì, cách dùng | C2.2 Hướng dẫn từng công cụ video | 8,100 | 30 |
 | 12 | AI tạo hình ảnh: công cụ và cách dùng | C3.1 Tạo ảnh bằng AI | 7,120 | 17 |
 

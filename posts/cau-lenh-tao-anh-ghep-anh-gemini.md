@@ -5,7 +5,7 @@ path: /kien-thuc/cau-lenh-tao-anh-ghep-anh-gemini
 description: "35 câu lệnh tạo ảnh, ghép ảnh trên Gemini (Nano Banana) bằng tiếng Việt: ảnh sản phẩm, chân dung, đổi nền, poster. Kèm cách xử lý logo Gemini và ưu đãi sinh viên."
 category: Công cụ AI
 tags: [gemini, câu lệnh tạo ảnh gemini, ghép ảnh gemini, nano banana, prompt tạo ảnh]
-keywords: [câu lệnh ghép ảnh trên gemini, câu lệnh tạo ảnh trên gemini, xoá logo gemini, xóa logo gemini trên ảnh, gemini sinh viên, gemini pro cho sinh viên, gemini pro sinh viên, gemini cho sinh viên]
+keywords: [câu lệnh ghép ảnh trên gemini, câu lệnh tạo ảnh trên gemini, xoá logo gemini, xóa logo gemini trên ảnh]
 author: Đội sản phẩm KimQ
 published: 2026-11-23
 updated: 2026-11-23
@@ -138,7 +138,7 @@ Theo [trang Gemini cho sinh viên của Google tại Việt Nam](https://gemini.
 - **Hạn nhận ưu đãi: 31/12/2026.**
 - Điều kiện chung: từ 18 tuổi, đang học tại cơ sở giáo dục bậc cao và được xác minh tư cách sinh viên. Người đã hết thời gian dùng thử gói AI Pro năm 2025 cũng có thể đủ điều kiện.
 
-Ưu đãi sinh viên năm 2025 là gói AI Pro; đợt hiện tại trên trang của Google là gói AI Plus cho sinh viên. Hãy đọc kỹ điều kiện trên trang chính thức trước khi đăng ký, và **không mua "tài khoản sinh viên"** từ người bán không rõ nguồn gốc.
+Ưu đãi sinh viên năm 2025 là gói AI Pro; đợt hiện tại trên trang của Google là gói AI Plus cho sinh viên. Hãy đọc kỹ điều kiện trên trang chính thức trước khi đăng ký, và **không mua "tài khoản sinh viên"** từ người bán không rõ nguồn gốc. Các bước đăng ký và lỗi thường gặp có trong bài [Gemini cho sinh viên: cách nhận gói miễn phí 1 năm](gemini-cho-sinh-vien.md).
 
 ## Khi nào nên dùng công cụ chuyên biệt?
 

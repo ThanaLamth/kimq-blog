@@ -53,7 +53,7 @@ for (const slug of targets) {
       if (shot.fill) await new Promise(r => setTimeout(r, 1500));
       if (shot.clickText) {
         await page.evaluate(text => {
-          const b = [...document.querySelectorAll('button, a')].find(e => (e.innerText || '').trim().toLowerCase() === text.toLowerCase());
+          const b = [...document.querySelectorAll('button, a, [role=button]')].find(e => (e.innerText || '').trim().toLowerCase() === text.toLowerCase());
           if (b) b.click();
         }, shot.clickText);
         await new Promise(r => setTimeout(r, shot.clickWaitMs || 4000));

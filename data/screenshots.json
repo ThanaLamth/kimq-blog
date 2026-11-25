@@ -385,5 +385,254 @@
    "captured": "2026-11-25",
    "waitMs": 6000
   }
+ ],
+ "tao-nhac-bang-ai": [
+  {
+   "url": "https://suno.com/pricing",
+   "after": "## Suno: phổ biến nhất, tạo bài hát có lời",
+   "name": "suno-pricing",
+   "alt": "Bảng giá các gói Suno",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://www.udio.com/pricing",
+   "after": "## Udio: tạo nhạc tốt nhưng đang không cho tải file",
+   "name": "udio-pricing",
+   "alt": "Bảng giá các gói Udio",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded",
+   "clickText": "Accept all",
+   "clickWaitMs": 1500
+  },
+  {
+   "url": "https://elevenlabs.io/music",
+   "after": "## ElevenMusic: nhạc nền cho video, điều khoản rõ ràng",
+   "name": "elevenlabs-music",
+   "alt": "Trang giới thiệu tạo nhạc của ElevenLabs",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "lam-slide-bang-ai": [
+  {
+   "url": "https://gamma.app/pricing",
+   "after": "## Gamma: nhanh nhất, gói miễn phí xuất được PPTX",
+   "name": "gamma-pricing",
+   "alt": "Bảng giá các gói Gamma",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://www.canva.com/create/ai-presentations/",
+   "after": "## Canva: hợp người đã quen Canva",
+   "name": "canva-ai-presentations",
+   "alt": "Trang tạo bài thuyết trình bằng AI của Canva",
+   "captured": "2026-11-25",
+   "waitMs": 7000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://support.google.com/docs/answer/17111393",
+   "after": "## Gemini trong Google Slides: tạo slide từ tài liệu trong Drive",
+   "name": "gemini-google-slides",
+   "alt": "Hướng dẫn tạo bài thuyết trình bằng Gemini trong Google Slides",
+   "captured": "2026-11-25",
+   "waitMs": 4000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://support.microsoft.com/en-us/office/create-a-new-presentation-with-copilot-in-powerpoint-3222ee03-f5a4-4d27-8642-9c387ab4854d",
+   "after": "## Copilot trong PowerPoint: cho doanh nghiệp dùng Microsoft 365",
+   "name": "copilot-powerpoint",
+   "alt": "Hướng dẫn tạo bài thuyết trình bằng Copilot trong PowerPoint",
+   "captured": "2026-11-25",
+   "waitMs": 4000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "higgsfield-ai-la-gi": [
+  {
+   "url": "https://higgsfield.ai/",
+   "after": "## Higgsfield AI làm được gì?",
+   "name": "higgsfield-home",
+   "alt": "Trang chủ Higgsfield AI",
+   "captured": "2026-11-25",
+   "waitMs": 7000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://higgsfield.ai/creator-hub/help-center/plans/what-does-the-free-plan-include",
+   "after": "## Gói miễn phí Higgsfield có gì?",
+   "name": "higgsfield-free-plan",
+   "alt": "Trang trợ giúp giải thích gói miễn phí của Higgsfield",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://higgsfield.ai/pricing",
+   "after": "## Bảng giá Higgsfield AI",
+   "name": "higgsfield-pricing",
+   "alt": "Bảng giá các gói Higgsfield AI",
+   "captured": "2026-11-25",
+   "waitMs": 7000,
+   "waitUntil": "domcontentloaded",
+   "scrollToText": "Starter",
+   "highlight": false
+  }
+ ],
+ "ai-agency-la-gi": [
+  {
+   "url": "https://developers.openai.com/api/docs/guides/your-data",
+   "after": "**Về vận hành**",
+   "name": "openai-your-data",
+   "alt": "Tài liệu của OpenAI về cách xử lý dữ liệu gửi qua API",
+   "captured": "2026-11-25",
+   "waitMs": 4000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://baochinhphu.vn/viet-nam-chinh-thuc-co-luat-tri-tue-nhan-tao-ai-102251210164948585.htm",
+   "after": "## Pháp lý ở Việt Nam cần biết khi làm dự án AI",
+   "name": "luat-tri-tue-nhan-tao",
+   "alt": "Bài Báo Chính phủ đưa tin Quốc hội thông qua Luật Trí tuệ nhân tạo",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://baochinhphu.vn/luat-bao-ve-du-lieu-ca-nhan-chinh-thuc-co-hieu-luc-tu-ngay-mai-1-1-2026-102251231155609721.htm",
+   "after": "## Pháp lý ở Việt Nam cần biết khi làm dự án AI",
+   "name": "luat-bao-ve-du-lieu-ca-nhan",
+   "alt": "Bài Báo Chính phủ về việc Luật Bảo vệ dữ liệu cá nhân có hiệu lực từ 1/1/2026",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "tao-video-ai-tu-anh": [
+  {
+   "url": "https://gemini.google/overview/video-generation/",
+   "after": "## Cách tạo video từ ảnh bằng Gemini",
+   "name": "gemini-omni",
+   "alt": "Trang giới thiệu Gemini Omni tạo video từ ảnh",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://kling.ai/app/membership/membership-plan",
+   "after": "## Cách tạo video từ ảnh bằng Kling AI",
+   "name": "kling-pricing",
+   "alt": "Bảng giá các gói Kling AI",
+   "captured": "2026-11-25",
+   "waitMs": 9000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://vidu.com/pricing",
+   "after": "## Cách tạo video từ ảnh bằng Vidu AI",
+   "name": "vidu-pricing",
+   "alt": "Bảng giá các gói Vidu AI",
+   "captured": "2026-11-25",
+   "waitMs": 9000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "gemini-cho-sinh-vien": [
+  {
+   "url": "https://gemini.google/vn/students/?hl=vi",
+   "after": "## Gói Google AI Plus cho sinh viên gồm những gì?",
+   "name": "gemini-students-vn",
+   "alt": "Trang Gemini dành cho sinh viên tại Việt Nam",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://one.google.com/intl/vi_vn/about/",
+   "after": "## Gói AI Plus khác gì AI Pro?",
+   "name": "google-one-vn-gia",
+   "alt": "Bảng giá các gói Google AI trên Google One Việt Nam",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded",
+   "scrollToText": "132k",
+   "highlight": false
+  },
+  {
+   "url": "https://support.google.com/googleone/answer/17422238?hl=vi",
+   "after": "## Cách đăng ký Gemini cho sinh viên từng bước",
+   "name": "google-one-uu-dai-sinh-vien",
+   "alt": "Trang trợ giúp Google One về ưu đãi dành cho sinh viên",
+   "captured": "2026-11-25",
+   "waitMs": 4000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "check-dao-van-ai": [
+  {
+   "url": "https://openai.com/index/new-ai-classifier-for-indicating-ai-written-text",
+   "after": "### Bài học từ OpenAI",
+   "name": "openai-ai-classifier",
+   "alt": "Trang công bố công cụ phân loại văn bản AI của OpenAI, có ghi chú đã ngừng cung cấp",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://guides.turnitin.com/hc/en-us/articles/28477544839821-Turnitin-s-AI-Writing-Detection-FAQs",
+   "after": "## Turnitin: phổ biến ở trường đại học, nhưng chưa phát hiện AI cho tiếng Việt",
+   "name": "turnitin-ai-faq",
+   "alt": "Trang câu hỏi thường gặp về phát hiện văn bản AI của Turnitin",
+   "captured": "2026-11-25",
+   "waitMs": 5000,
+   "waitUntil": "domcontentloaded",
+   "scrollToText": "What languages are supported?",
+   "highlight": true
+  },
+  {
+   "url": "https://gptzero.me/pricing",
+   "after": "## GPTZero: tự kiểm tra trước khi nộp",
+   "name": "gptzero-pricing",
+   "alt": "Bảng giá các gói GPTZero",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  }
+ ],
+ "ghep-anh-bang-ai": [
+  {
+   "url": "https://support.google.com/gemini/answer/14286560?hl=vi",
+   "after": "## Cách 1: Ghép ảnh bằng Gemini",
+   "name": "gemini-edit-images",
+   "alt": "Trang trợ giúp tạo và sửa ảnh trong Gemini",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://www.canva.com/help/using-magic-grab/",
+   "after": "## Cách 2: Canva Magic Grab, tách vật thể rồi kéo thả",
+   "name": "canva-magic-grab",
+   "alt": "Trang trợ giúp Magic Grab của Canva",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  },
+  {
+   "url": "https://helpx.adobe.com/photoshop/web/edit-images/retouch/add-objects-with-generative-ai.html",
+   "after": "## Cách 3: Photoshop bản web, Generative Fill",
+   "name": "photoshop-generative-fill",
+   "alt": "Trang trợ giúp thêm vật thể bằng AI trong Photoshop web",
+   "captured": "2026-11-25",
+   "waitMs": 6000,
+   "waitUntil": "domcontentloaded"
+  }
  ]
 }
