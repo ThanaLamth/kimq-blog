@@ -2,7 +2,7 @@
 
 - Kết quả tự động: **FLAG**
 - File: [huong-dan-dung-cong-cu-ai-pho-bien.md](../posts/huong-dan-dung-cong-cu-ai-pho-bien.md)
-- Số từ: 1240 · Ảnh: 3 · Nguồn ngoài: 3
+- Số từ: 1517 · Ảnh: 3 · Nguồn ngoài: 3
 
 ## Lỗi phải sửa
 
@@ -10,7 +10,7 @@
 
 ## Cần xem lại
 
-- [ ] Pillar 1240 từ (cần ≥ 2.500)
+- [ ] Pillar 1517 từ (cần ≥ 2.500)
 
 ## Phần agent kiểm tay
 

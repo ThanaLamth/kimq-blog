@@ -2,7 +2,7 @@
 
 - Kết quả tự động: **FLAG**
 - File: [top-cong-cu-ai-chinh-sua-anh.md](../posts/top-cong-cu-ai-chinh-sua-anh.md)
-- Số từ: 1836 · Ảnh: 3 · Nguồn ngoài: 11
+- Số từ: 1999 · Ảnh: 3 · Nguồn ngoài: 11
 
 ## Lỗi phải sửa
 
@@ -10,10 +10,7 @@
 
 ## Cần xem lại
 
-- [ ] Pillar 1836 từ (cần ≥ 2.500)
-- [ ] D từ khoá 'làm nét ảnh ai' thuộc bài khác: Làm nét ảnh bằng AI
-- [ ] D từ khoá 'ai ghép ảnh' thuộc bài khác: Ghép ảnh bằng AI
-- [ ] D từ khoá 'mở rộng ảnh bằng ai' thuộc bài khác: Mở rộng ảnh bằng AI
+- [ ] Pillar 1999 từ (cần ≥ 2.500)
 - [ ] D từ khoá 'ai phục hồi ảnh cũ' thuộc bài khác: Phục hồi ảnh cũ bằng AI
 - [ ] D từ khoá 'check ảnh ai' thuộc bài khác: Cách kiểm tra ảnh có phải AI tạo
 

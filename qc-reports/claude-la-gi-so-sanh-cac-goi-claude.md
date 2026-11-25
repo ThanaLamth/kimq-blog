@@ -2,7 +2,7 @@
 
 - Kết quả tự động: **FLAG**
 - File: [claude-la-gi-so-sanh-cac-goi-claude.md](../posts/claude-la-gi-so-sanh-cac-goi-claude.md)
-- Số từ: 1557 · Ảnh: 3 · Nguồn ngoài: 4
+- Số từ: 1585 · Ảnh: 3 · Nguồn ngoài: 4
 
 ## Lỗi phải sửa
 
@@ -10,7 +10,6 @@
 
 ## Cần xem lại
 
-- [ ] D từ khoá 'claude fable 5' thuộc bài khác: Các model Claude: Fable, Opus, Sonnet khác nhau thế nào
 - [ ] B3 site chặn kiểm tra tự động, mở tay để xác nhận: https://claude.ai (403)
 
 ## Phần agent kiểm tay

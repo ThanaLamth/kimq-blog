@@ -10,6 +10,7 @@
 
 ## Cần xem lại
 
+- [ ] D link 1/2 bài cùng cluster (cac-model-claude)
 - [ ] B3 site chặn kiểm tra tự động, mở tay để xác nhận: https://claude.ai (403); https://www.canva.com/ (403)
 
 ## Phần agent kiểm tay

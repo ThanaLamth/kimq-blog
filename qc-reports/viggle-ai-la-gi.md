@@ -2,7 +2,7 @@
 
 - Kết quả tự động: **PASS**
 - File: [viggle-ai-la-gi.md](../posts/viggle-ai-la-gi.md)
-- Số từ: 2528 · Ảnh: 5 · Nguồn ngoài: 4
+- Số từ: 2572 · Ảnh: 5 · Nguồn ngoài: 4
 
 ## Lỗi phải sửa
 

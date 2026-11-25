@@ -2,7 +2,7 @@
 
 - Kết quả tự động: **FLAG**
 - File: [cau-lenh-tao-anh-ghep-anh-gemini.md](../posts/cau-lenh-tao-anh-ghep-anh-gemini.md)
-- Số từ: 2042 · Ảnh: 3 · Nguồn ngoài: 4
+- Số từ: 2069 · Ảnh: 3 · Nguồn ngoài: 4
 
 ## Lỗi phải sửa
 
@@ -10,7 +10,7 @@
 
 ## Cần xem lại
 
-- [ ] D từ khoá 'gemini sinh viên' thuộc bài khác: Gemini cho sinh viên: nhận gói miễn phí
+- [ ] D link 0/1 bài cùng cluster (ai-tao-hinh-anh)
 
 ## Phần agent kiểm tay
 

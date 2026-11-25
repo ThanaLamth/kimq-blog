@@ -2,7 +2,7 @@
 
 - Kết quả tự động: **FLAG**
 - File: [top-cong-cu-tao-video-ai.md](../posts/top-cong-cu-tao-video-ai.md)
-- Số từ: 2323 · Ảnh: 3 · Nguồn ngoài: 7
+- Số từ: 2565 · Ảnh: 3 · Nguồn ngoài: 7
 
 ## Lỗi phải sửa
 
@@ -10,10 +10,7 @@
 
 ## Cần xem lại
 
-- [ ] Pillar 2323 từ (cần ≥ 2.500)
-- [ ] D từ khoá 'tạo video ai miễn phí từ ảnh' thuộc bài khác: Cách tạo video AI từ ảnh
 - [ ] D từ khoá 'tạo video ai từ văn bản' thuộc bài khác: Tạo video AI từ văn bản: mẫu câu lệnh
-- [ ] D từ khoá 'vidu ai' thuộc bài khác: Vidu AI: hướng dẫn
 - [ ] D từ khoá 'grok ai video' thuộc bài khác: Grok Imagine: tạo video bằng Grok
 
 ## Phần agent kiểm tay

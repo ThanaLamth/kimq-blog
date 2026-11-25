@@ -177,6 +177,9 @@ Phần này tóm tắt từ Điều khoản sử dụng của Viggle (cập nh�
 | Ghép mình hoặc mascot vào điệu nhảy, meme đang trend | **Viggle Mix** |
 | Làm ảnh tĩnh cử động theo video mình quay | **Viggle Motion Control** |
 | Tạo cảnh hoàn toàn mới từ câu mô tả hoặc ảnh | Công cụ tạo video từ văn bản, ảnh như Veo, Kling (so sánh trong [Top 10 công cụ tạo video AI](top-cong-cu-tao-video-ai.md)) |
+| Chuyển động người tự nhiên, video tới 30 giây | Xem [Kling AI](kling-ai.md) |
+| Giữ cùng một nhân vật qua nhiều cảnh | Xem [Vidu AI](vidu-ai.md) |
+| Lồng giọng đọc tiếng Việt cho video | Xem [VClip AI](vclip-ai-la-gi.md) |
 | Chuẩn bị ảnh nhân vật đẹp, tách nền trước khi đưa vào Viggle | Xem [Top công cụ AI tạo và chỉnh sửa ảnh](top-cong-cu-ai-chinh-sua-anh.md) |
 | Tạo ảnh nhân vật bằng câu lệnh tiếng Việt | Xem [35 câu lệnh tạo ảnh, ghép ảnh trên Gemini](cau-lenh-tao-anh-ghep-anh-gemini.md) |
 
